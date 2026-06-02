@@ -25,7 +25,7 @@ COMPANY_NODES = BASE / 'company_nodes.csv'
 INDUSTRY_COMPANY_EDGES = BASE / 'industry_company_edges.csv'
 OUT = BASE / 'index.html'
 AUTH_USERNAME = 'ai'
-AUTH_PASSWORD = 'ai'
+AUTH_PASSWORD = 'ai-atlas@finstep'
 
 
 def read_csv(path: Path) -> list[dict]:
