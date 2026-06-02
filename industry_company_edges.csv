@@ -1,0 +1,1093 @@
+﻿source,target,relation,source_name,target_name,stock_code,source_layer,source_industry,source_direction,remark,data_source
+pcb_industry,company_600176_sh,related_company,PCB,中国巨石,600176.SH,上游,PCB材料,电子布/玻纤布,全球玻纤产能第一,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_002080_sz,related_company,PCB,中材科技,002080.SZ,上游,PCB材料,电子布/玻纤布,风电叶片+玻纤,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_603601_sh,related_company,PCB,再升科技,603601.SH,上游,PCB材料,电子布/玻纤布,微纤维玻璃棉,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_603256_sh,related_company,PCB,宏和科技,603256.SH,上游,PCB材料,电子布/玻纤布,高端电子布龙头,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_605006_sh,related_company,PCB,山东玻纤,605006.SH,上游,PCB材料,电子布/玻纤布,玻纤,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_002201_sz,related_company,PCB,正威新材,002201.SZ,上游,PCB材料,电子布/玻纤布,玻纤新材料,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_300196_sz,related_company,PCB,长海股份,300196.SZ,上游,PCB材料,电子布/玻纤布,玻纤制品,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_300936_sz,related_company,PCB,中英科技,300936.SZ,上游,PCB材料,覆铜板(CCL),高频通信材料,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_603186_sh,related_company,PCB,华正新材,603186.SH,上游,PCB材料,覆铜板(CCL),高频高速覆铜板,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_688519_sh,related_company,PCB,南亚新材,688519.SH,上游,PCB材料,覆铜板(CCL),高速覆铜板,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_600183_sh,related_company,PCB,生益科技,600183.SH,上游,PCB材料,覆铜板(CCL),国内覆铜板绝对龙头,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_002636_sz,related_company,PCB,金安国纪,002636.SZ,上游,PCB材料,覆铜板(CCL),覆铜板,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_301150_sz,related_company,PCB,中一科技,301150.SZ,上游,PCB材料,铜箔,电解铜箔,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_688388_sh,related_company,PCB,嘉元科技,688388.SH,上游,PCB材料,铜箔,锂电/电子铜箔双龙头,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_301511_sz,related_company,PCB,德福科技,301511.SZ,上游,PCB材料,铜箔,电解铜箔,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_600110_sh,related_company,PCB,诺德股份,600110.SH,上游,PCB材料,铜箔,锂电铜箔为主,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_301217_sz,related_company,PCB,铜冠铜箔,301217.SZ,上游,PCB材料,铜箔,电子铜箔占比高,AI细分行业相关标的（A股）.xlsx
+cmp_slurry_industry,company_688019_sh,related_company,CMP抛光液,安集科技,688019.SH,上游,半导体材料,CMP抛光材料,CMP抛光液龙头,AI细分行业相关标的（A股）.xlsx
+cmp_slurry_industry,company_300054_sz,related_company,CMP抛光液,鼎龙股份,300054.SZ,上游,半导体材料,CMP抛光材料,CMP抛光垫+抛光液,AI细分行业相关标的（A股）.xlsx
+photoresist_material_industry,company_300236_sz,related_company,光刻胶,上海新阳,300236.SZ,上游,半导体材料,光刻胶,封装+晶圆光刻胶,AI细分行业相关标的（A股）.xlsx
+photoresist_material_industry,company_300346_sz,related_company,光刻胶,南大光电,300346.SZ,上游,半导体材料,光刻胶,光刻胶+特气双布局,AI细分行业相关标的（A股）.xlsx
+photoresist_material_industry,company_300576_sz,related_company,光刻胶,容大感光,300576.SZ,上游,半导体材料,光刻胶,PCB光刻胶为主,AI细分行业相关标的（A股）.xlsx
+photoresist_material_industry,company_300537_sz,related_company,光刻胶,广信材料,300537.SZ,上游,半导体材料,光刻胶,PCB/显示光刻胶,AI细分行业相关标的（A股）.xlsx
+photoresist_material_industry,company_300429_sz,related_company,光刻胶,强力新材,300429.SZ,上游,半导体材料,光刻胶,光刻胶专用化学品,AI细分行业相关标的（A股）.xlsx
+photoresist_material_industry,company_603650_sh,related_company,光刻胶,彤程新材,603650.SH,上游,半导体材料,光刻胶,ArF/KrF光刻胶进展最快,AI细分行业相关标的（A股）.xlsx
+photoresist_material_industry,company_300721_sz,related_company,光刻胶,怡达股份,300721.SZ,上游,半导体材料,光刻胶,光刻胶溶剂原料,AI细分行业相关标的（A股）.xlsx
+photoresist_material_industry,company_300637_sz,related_company,光刻胶,扬帆新材,300637.SZ,上游,半导体材料,光刻胶,光引发剂,AI细分行业相关标的（A股）.xlsx
+photoresist_material_industry,company_300655_sz,related_company,光刻胶,晶瑞电材,300655.SZ,上游,半导体材料,光刻胶,i线/KrF/ArF光刻胶全布局,AI细分行业相关标的（A股）.xlsx
+photoresist_material_industry,company_300398_sz,related_company,光刻胶,飞凯材料,300398.SZ,上游,半导体材料,光刻胶,封装材料+光刻胶,AI细分行业相关标的（A股）.xlsx
+electronic_special_gas_industry,company_301286_sz,related_company,电子特气,侨源股份,301286.SZ,上游,半导体材料,电子特气,工业气体,AI细分行业相关标的（A股）.xlsx
+electronic_special_gas_industry,company_002549_sz,related_company,电子特气,凯美特气,002549.SZ,上游,半导体材料,电子特气,稀有气体等电子特气,AI细分行业相关标的（A股）.xlsx
+electronic_special_gas_industry,company_688268_sh,related_company,电子特气,华特气体,688268.SH,上游,半导体材料,电子特气,半导体特气品类最全,AI细分行业相关标的（A股）.xlsx
+electronic_special_gas_industry,company_300346_sz,related_company,电子特气,南大光电,300346.SZ,上游,半导体材料,电子特气,MO源+电子特气,AI细分行业相关标的（A股）.xlsx
+electronic_special_gas_industry,company_300971_sz,related_company,电子特气,和远气体,300971.SZ,上游,半导体材料,电子特气,大宗气体,AI细分行业相关标的（A股）.xlsx
+electronic_special_gas_industry,company_600378_sh,related_company,电子特气,昊华科技,600378.SH,上游,半导体材料,电子特气,化工+电子特气,AI细分行业相关标的（A股）.xlsx
+electronic_special_gas_industry,company_688106_sh,related_company,电子特气,金宏气体,688106.SH,上游,半导体材料,电子特气,大宗+特种气体综合,AI细分行业相关标的（A股）.xlsx
+electronic_special_gas_industry,company_002409_sz,related_company,电子特气,雅克科技,002409.SZ,上游,半导体材料,电子特气,前驱体+电子特气,AI细分行业相关标的（A股）.xlsx
+silicon_wafer_material_industry,company_002129_sz,related_company,硅片,TCL中环,002129.SZ,上游,半导体材料,硅片/晶圆,大尺寸硅片产能领先,AI细分行业相关标的（A股）.xlsx
+silicon_wafer_material_industry,company_003026_sz,related_company,硅片,中晶科技,003026.SZ,上游,半导体材料,硅片/晶圆,半导体硅材料,AI细分行业相关标的（A股）.xlsx
+silicon_wafer_material_industry,company_688432_sh,related_company,硅片,有研硅,688432.SH,上游,半导体材料,硅片/晶圆,国资委背景硅材料企业,AI细分行业相关标的（A股）.xlsx
+silicon_wafer_material_industry,company_688126_sh,related_company,硅片,沪硅产业,688126.SH,上游,半导体材料,硅片/晶圆,国内12寸大硅片绝对龙头,AI细分行业相关标的（A股）.xlsx
+silicon_wafer_material_industry,company_688233_sh,related_company,硅片,神工股份,688233.SH,上游,半导体材料,硅片/晶圆,大直径硅材料细分领域,AI细分行业相关标的（A股）.xlsx
+silicon_wafer_material_industry,company_605358_sh,related_company,硅片,立昂微,605358.SH,上游,半导体材料,硅片/晶圆,硅片+功率器件双轮驱动,AI细分行业相关标的（A股）.xlsx
+semiconductor_target_material_industry,company_600206_sh,related_company,半导体靶材,有研新材,600206.SH,上游,半导体材料,靶材,有研系靶材企业,AI细分行业相关标的（A股）.xlsx
+semiconductor_target_material_industry,company_300666_sz,related_company,半导体靶材,江丰电子,300666.SZ,上游,半导体材料,靶材,高纯溅射靶材全球领先,AI细分行业相关标的（A股）.xlsx
+semiconductor_target_material_industry,company_300706_sz,related_company,半导体靶材,阿石创,300706.SZ,上游,半导体材料,靶材,PVD镀膜材料,AI细分行业相关标的（A股）.xlsx
+semiconductor_target_material_industry,company_300263_sz,related_company,半导体靶材,隆华科技,300263.SZ,上游,半导体材料,靶材,复合材料+靶材,AI细分行业相关标的（A股）.xlsx
+lithography_equipment_industry,company_002338_sz,related_company,光刻机,奥普光电,002338.SZ,上游,半导体设备,光刻配套/零部件,光学仪器+编码器,AI细分行业相关标的（A股）.xlsx
+semiconductor_parts_industry,company_002338_sz,related_company,半导体设备零部件,奥普光电,002338.SZ,上游,半导体设备,光刻配套/零部件,光学仪器+编码器,AI细分行业相关标的（A股）.xlsx
+photo_mask_industry,company_002338_sz,related_company,掩膜版,奥普光电,002338.SZ,上游,半导体设备,光刻配套/零部件,光学仪器+编码器,AI细分行业相关标的（A股）.xlsx
+lithography_equipment_industry,company_600895_sh,related_company,光刻机,张江高科,600895.SH,上游,半导体设备,光刻配套/零部件,光刻机参股(上海微电子),AI细分行业相关标的（A股）.xlsx
+semiconductor_parts_industry,company_600895_sh,related_company,半导体设备零部件,张江高科,600895.SH,上游,半导体设备,光刻配套/零部件,光刻机参股(上海微电子),AI细分行业相关标的（A股）.xlsx
+photo_mask_industry,company_600895_sh,related_company,掩膜版,张江高科,600895.SH,上游,半导体设备,光刻配套/零部件,光刻机参股(上海微电子),AI细分行业相关标的（A股）.xlsx
+lithography_equipment_industry,company_688010_sh,related_company,光刻机,福光股份,688010.SH,上游,半导体设备,光刻配套/零部件,光学镜头,AI细分行业相关标的（A股）.xlsx
+semiconductor_parts_industry,company_688010_sh,related_company,半导体设备零部件,福光股份,688010.SH,上游,半导体设备,光刻配套/零部件,光学镜头,AI细分行业相关标的（A股）.xlsx
+photo_mask_industry,company_688010_sh,related_company,掩膜版,福光股份,688010.SH,上游,半导体设备,光刻配套/零部件,光学镜头,AI细分行业相关标的（A股）.xlsx
+lithography_equipment_industry,company_002222_sz,related_company,光刻机,福晶科技,002222.SZ,上游,半导体设备,光刻配套/零部件,光学晶体全球龙头,AI细分行业相关标的（A股）.xlsx
+semiconductor_parts_industry,company_002222_sz,related_company,半导体设备零部件,福晶科技,002222.SZ,上游,半导体设备,光刻配套/零部件,光学晶体全球龙头,AI细分行业相关标的（A股）.xlsx
+photo_mask_industry,company_002222_sz,related_company,掩膜版,福晶科技,002222.SZ,上游,半导体设备,光刻配套/零部件,光学晶体全球龙头,AI细分行业相关标的（A股）.xlsx
+lithography_equipment_industry,company_688376_sh,related_company,光刻机,美埃科技,688376.SH,上游,半导体设备,光刻配套/零部件,洁净室过滤,AI细分行业相关标的（A股）.xlsx
+semiconductor_parts_industry,company_688376_sh,related_company,半导体设备零部件,美埃科技,688376.SH,上游,半导体设备,光刻配套/零部件,洁净室过滤,AI细分行业相关标的（A股）.xlsx
+photo_mask_industry,company_688376_sh,related_company,掩膜版,美埃科技,688376.SH,上游,半导体设备,光刻配套/零部件,洁净室过滤,AI细分行业相关标的（A股）.xlsx
+lithography_equipment_industry,company_300331_sz,related_company,光刻机,苏大维格,300331.SZ,上游,半导体设备,光刻配套/零部件,微纳光学,AI细分行业相关标的（A股）.xlsx
+semiconductor_parts_industry,company_300331_sz,related_company,半导体设备零部件,苏大维格,300331.SZ,上游,半导体设备,光刻配套/零部件,微纳光学,AI细分行业相关标的（A股）.xlsx
+photo_mask_industry,company_300331_sz,related_company,掩膜版,苏大维格,300331.SZ,上游,半导体设备,光刻配套/零部件,微纳光学,AI细分行业相关标的（A股）.xlsx
+lithography_equipment_industry,company_688502_sh,related_company,光刻机,茂莱光学,688502.SH,上游,半导体设备,光刻配套/零部件,精密光学元件,AI细分行业相关标的（A股）.xlsx
+semiconductor_parts_industry,company_688502_sh,related_company,半导体设备零部件,茂莱光学,688502.SH,上游,半导体设备,光刻配套/零部件,精密光学元件,AI细分行业相关标的（A股）.xlsx
+photo_mask_industry,company_688502_sh,related_company,掩膜版,茂莱光学,688502.SH,上游,半导体设备,光刻配套/零部件,精密光学元件,AI细分行业相关标的（A股）.xlsx
+etch_equipment_industry,company_688012_sh,related_company,刻蚀设备,中微公司,688012.SH,上游,半导体设备,刻蚀设备,CCP/ICP刻蚀龙头,AI细分行业相关标的（A股）.xlsx
+etch_equipment_industry,company_002371_sz,related_company,刻蚀设备,北方华创,002371.SZ,上游,半导体设备,刻蚀设备,平台型设备巨头,AI细分行业相关标的（A股）.xlsx
+etch_equipment_industry,company_688037_sh,related_company,刻蚀设备,芯源微,688037.SH,上游,半导体设备,刻蚀设备,涂胶显影+刻蚀配套,AI细分行业相关标的（A股）.xlsx
+semiconductor_inspection_equipment_industry,company_688361_sh,related_company,半导体检测设备,中科飞测,688361.SH,上游,半导体设备,检测/量测设备,量检测设备国产化先锋,AI细分行业相关标的（A股）.xlsx
+semiconductor_metrology_equipment_industry,company_688361_sh,related_company,半导体量测设备,中科飞测,688361.SH,上游,半导体设备,检测/量测设备,量检测设备国产化先锋,AI细分行业相关标的（A股）.xlsx
+inspection_metrology_equipment_industry,company_688361_sh,related_company,检测量测设备,中科飞测,688361.SH,上游,半导体设备,检测/量测设备,量检测设备国产化先锋,AI细分行业相关标的（A股）.xlsx
+semiconductor_inspection_equipment_industry,company_688003_sh,related_company,半导体检测设备,天准科技,688003.SH,上游,半导体设备,检测/量测设备,机器视觉检测,AI细分行业相关标的（A股）.xlsx
+semiconductor_metrology_equipment_industry,company_688003_sh,related_company,半导体量测设备,天准科技,688003.SH,上游,半导体设备,检测/量测设备,机器视觉检测,AI细分行业相关标的（A股）.xlsx
+inspection_metrology_equipment_industry,company_688003_sh,related_company,检测量测设备,天准科技,688003.SH,上游,半导体设备,检测/量测设备,机器视觉检测,AI细分行业相关标的（A股）.xlsx
+semiconductor_inspection_equipment_industry,company_300567_sz,related_company,半导体检测设备,精测电子,300567.SZ,上游,半导体设备,检测/量测设备,面板检测设备延伸,AI细分行业相关标的（A股）.xlsx
+semiconductor_metrology_equipment_industry,company_300567_sz,related_company,半导体量测设备,精测电子,300567.SZ,上游,半导体设备,检测/量测设备,面板检测设备延伸,AI细分行业相关标的（A股）.xlsx
+inspection_metrology_equipment_industry,company_300567_sz,related_company,检测量测设备,精测电子,300567.SZ,上游,半导体设备,检测/量测设备,面板检测设备延伸,AI细分行业相关标的（A股）.xlsx
+semiconductor_inspection_equipment_industry,company_603283_sh,related_company,半导体检测设备,赛腾股份,603283.SH,上游,半导体设备,检测/量测设备,检测设备,AI细分行业相关标的（A股）.xlsx
+semiconductor_metrology_equipment_industry,company_603283_sh,related_company,半导体量测设备,赛腾股份,603283.SH,上游,半导体设备,检测/量测设备,检测设备,AI细分行业相关标的（A股）.xlsx
+inspection_metrology_equipment_industry,company_603283_sh,related_company,检测量测设备,赛腾股份,603283.SH,上游,半导体设备,检测/量测设备,检测设备,AI细分行业相关标的（A股）.xlsx
+single_wafer_wet_equipment_industry,company_688082_sh,related_company,单片式湿法设备,盛美上海,688082.SH,上游,半导体设备,清洗设备,单片/槽式清洗龙头,AI细分行业相关标的（A股）.xlsx
+photoresist_stripping_equipment_industry,company_688082_sh,related_company,去胶设备,盛美上海,688082.SH,上游,半导体设备,清洗设备,单片/槽式清洗龙头,AI细分行业相关标的（A股）.xlsx
+single_wafer_wet_equipment_industry,company_603690_sh,related_company,单片式湿法设备,至纯科技,603690.SH,上游,半导体设备,清洗设备,清洗设备+高纯工艺,AI细分行业相关标的（A股）.xlsx
+photoresist_stripping_equipment_industry,company_603690_sh,related_company,去胶设备,至纯科技,603690.SH,上游,半导体设备,清洗设备,清洗设备+高纯工艺,AI细分行业相关标的（A股）.xlsx
+single_wafer_wet_equipment_industry,company_688037_sh,related_company,单片式湿法设备,芯源微,688037.SH,上游,半导体设备,清洗设备,含清洗环节配套,AI细分行业相关标的（A股）.xlsx
+photoresist_stripping_equipment_industry,company_688037_sh,related_company,去胶设备,芯源微,688037.SH,上游,半导体设备,清洗设备,含清洗环节配套,AI细分行业相关标的（A股）.xlsx
+cvd_equipment_industry,company_002371_sz,related_company,CVD设备,北方华创,002371.SZ,上游,半导体设备,薄膜沉积,PVD/CVD全覆盖,AI细分行业相关标的（A股）.xlsx
+pvd_equipment_industry,company_002371_sz,related_company,PVD设备,北方华创,002371.SZ,上游,半导体设备,薄膜沉积,PVD/CVD全覆盖,AI细分行业相关标的（A股）.xlsx
+cvd_equipment_industry,company_688147_sh,related_company,CVD设备,微导纳米,688147.SH,上游,半导体设备,薄膜沉积,ALD细分领先,AI细分行业相关标的（A股）.xlsx
+pvd_equipment_industry,company_688147_sh,related_company,PVD设备,微导纳米,688147.SH,上游,半导体设备,薄膜沉积,ALD细分领先,AI细分行业相关标的（A股）.xlsx
+cvd_equipment_industry,company_688072_sh,related_company,CVD设备,拓荆科技,688072.SH,上游,半导体设备,薄膜沉积,PECVD/ALD/SACVD龙头,AI细分行业相关标的（A股）.xlsx
+pvd_equipment_industry,company_688072_sh,related_company,PVD设备,拓荆科技,688072.SH,上游,半导体设备,薄膜沉积,PECVD/ALD/SACVD龙头,AI细分行业相关标的（A股）.xlsx
+cvd_equipment_industry,company_688082_sh,related_company,CVD设备,盛美上海,688082.SH,上游,半导体设备,薄膜沉积,含薄膜沉积设备,AI细分行业相关标的（A股）.xlsx
+pvd_equipment_industry,company_688082_sh,related_company,PVD设备,盛美上海,688082.SH,上游,半导体设备,薄膜沉积,含薄膜沉积设备,AI细分行业相关标的（A股）.xlsx
+packaging_substrate_industry,company_002436_sz,related_company,封装基板,兴森科技,002436.SZ,上游,封装材料,封装基板,FC-BGA产能爬坡,AI细分行业相关标的（A股）.xlsx
+packaging_substrate_industry,company_603936_sh,related_company,封装基板,博敏电子,603936.SH,上游,封装材料,封装基板,封装基板+PCB,AI细分行业相关标的（A股）.xlsx
+packaging_substrate_industry,company_002916_sz,related_company,封装基板,深南电路,002916.SZ,上游,封装材料,封装基板,国内封装基板龙头,AI细分行业相关标的（A股）.xlsx
+epoxy_molding_underfill_material_industry,company_688535_sh,related_company,环氧塑封料/底填胶,华海诚科,688535.SH,上游,封装材料,环氧塑封料/底填胶,环氧塑封料龙头,AI细分行业相关标的（A股）.xlsx
+epoxy_molding_underfill_material_industry,company_688733_sh,related_company,环氧塑封料/底填胶,壹石通,688733.SH,上游,封装材料,环氧塑封料/底填胶,电子材料,AI细分行业相关标的（A股）.xlsx
+epoxy_molding_underfill_material_industry,company_688035_sh,related_company,环氧塑封料/底填胶,德邦科技,688035.SH,上游,封装材料,环氧塑封料/底填胶,电子封装材料,AI细分行业相关标的（A股）.xlsx
+epoxy_molding_underfill_material_industry,company_688300_sh,related_company,环氧塑封料/底填胶,联瑞新材,688300.SH,上游,封装材料,环氧塑封料/底填胶,硅微粉核心供应商,AI细分行业相关标的（A股）.xlsx
+epoxy_molding_underfill_material_industry,company_002409_sz,related_company,环氧塑封料/底填胶,雅克科技,002409.SZ,上游,封装材料,环氧塑封料/底填胶,前驱体+封装材料,AI细分行业相关标的（A股）.xlsx
+epoxy_molding_underfill_material_industry,company_300398_sz,related_company,环氧塑封料/底填胶,飞凯材料,300398.SZ,上游,封装材料,环氧塑封料/底填胶,封装材料,AI细分行业相关标的（A股）.xlsx
+inference_chip_industry,company_688385_sh,related_company,AI推理芯片,复旦微电,688385.SH,中游,AI芯片,GPU/AI加速卡,FPGA+安全芯片,AI细分行业相关标的（A股）.xlsx
+training_chip_industry,company_688385_sh,related_company,AI训练芯片,复旦微电,688385.SH,中游,AI芯片,GPU/AI加速卡,FPGA+安全芯片,AI细分行业相关标的（A股）.xlsx
+gpu_chip_industry,company_688385_sh,related_company,GPU/GPGPU芯片,复旦微电,688385.SH,中游,AI芯片,GPU/AI加速卡,FPGA+安全芯片,AI细分行业相关标的（A股）.xlsx
+inference_chip_industry,company_688107_sh,related_company,AI推理芯片,安路科技,688107.SH,中游,AI芯片,GPU/AI加速卡,FPGA,AI细分行业相关标的（A股）.xlsx
+training_chip_industry,company_688107_sh,related_company,AI训练芯片,安路科技,688107.SH,中游,AI芯片,GPU/AI加速卡,FPGA,AI细分行业相关标的（A股）.xlsx
+gpu_chip_industry,company_688107_sh,related_company,GPU/GPGPU芯片,安路科技,688107.SH,中游,AI芯片,GPU/AI加速卡,FPGA,AI细分行业相关标的（A股）.xlsx
+inference_chip_industry,company_688256_sh,related_company,AI推理芯片,寒武纪,688256.SH,中游,AI芯片,GPU/AI加速卡,思元系列云端训练/推理卡,AI细分行业相关标的（A股）.xlsx
+training_chip_industry,company_688256_sh,related_company,AI训练芯片,寒武纪,688256.SH,中游,AI芯片,GPU/AI加速卡,思元系列云端训练/推理卡,AI细分行业相关标的（A股）.xlsx
+gpu_chip_industry,company_688256_sh,related_company,GPU/GPGPU芯片,寒武纪,688256.SH,中游,AI芯片,GPU/AI加速卡,思元系列云端训练/推理卡,AI细分行业相关标的（A股）.xlsx
+inference_chip_industry,company_688416_sh,related_company,AI推理芯片,恒烁股份,688416.SH,中游,AI芯片,GPU/AI加速卡,存算一体,AI细分行业相关标的（A股）.xlsx
+training_chip_industry,company_688416_sh,related_company,AI训练芯片,恒烁股份,688416.SH,中游,AI芯片,GPU/AI加速卡,存算一体,AI细分行业相关标的（A股）.xlsx
+gpu_chip_industry,company_688416_sh,related_company,GPU/GPGPU芯片,恒烁股份,688416.SH,中游,AI芯片,GPU/AI加速卡,存算一体,AI细分行业相关标的（A股）.xlsx
+inference_chip_industry,company_300474_sz,related_company,AI推理芯片,景嘉微,300474.SZ,中游,AI芯片,GPU/AI加速卡,GPU图形芯片,AI细分行业相关标的（A股）.xlsx
+training_chip_industry,company_300474_sz,related_company,AI训练芯片,景嘉微,300474.SZ,中游,AI芯片,GPU/AI加速卡,GPU图形芯片,AI细分行业相关标的（A股）.xlsx
+gpu_chip_industry,company_300474_sz,related_company,GPU/GPGPU芯片,景嘉微,300474.SZ,中游,AI芯片,GPU/AI加速卡,GPU图形芯片,AI细分行业相关标的（A股）.xlsx
+inference_chip_industry,company_688041_sh,related_company,AI推理芯片,海光信息,688041.SH,中游,AI芯片,GPU/AI加速卡,深算DCU国产AI芯片龙头,AI细分行业相关标的（A股）.xlsx
+training_chip_industry,company_688041_sh,related_company,AI训练芯片,海光信息,688041.SH,中游,AI芯片,GPU/AI加速卡,深算DCU国产AI芯片龙头,AI细分行业相关标的（A股）.xlsx
+gpu_chip_industry,company_688041_sh,related_company,GPU/GPGPU芯片,海光信息,688041.SH,中游,AI芯片,GPU/AI加速卡,深算DCU国产AI芯片龙头,AI细分行业相关标的（A股）.xlsx
+inference_chip_industry,company_300053_sz,related_company,AI推理芯片,航宇微,300053.SZ,中游,AI芯片,GPU/AI加速卡,卫星+AI芯片,AI细分行业相关标的（A股）.xlsx
+training_chip_industry,company_300053_sz,related_company,AI训练芯片,航宇微,300053.SZ,中游,AI芯片,GPU/AI加速卡,卫星+AI芯片,AI细分行业相关标的（A股）.xlsx
+gpu_chip_industry,company_300053_sz,related_company,GPU/GPGPU芯片,航宇微,300053.SZ,中游,AI芯片,GPU/AI加速卡,卫星+AI芯片,AI细分行业相关标的（A股）.xlsx
+inference_chip_industry,company_688047_sh,related_company,AI推理芯片,龙芯中科,688047.SH,中游,AI芯片,GPU/AI加速卡,自研指令集CPU,AI细分行业相关标的（A股）.xlsx
+training_chip_industry,company_688047_sh,related_company,AI训练芯片,龙芯中科,688047.SH,中游,AI芯片,GPU/AI加速卡,自研指令集CPU,AI细分行业相关标的（A股）.xlsx
+gpu_chip_industry,company_688047_sh,related_company,GPU/GPGPU芯片,龙芯中科,688047.SH,中游,AI芯片,GPU/AI加速卡,自研指令集CPU,AI细分行业相关标的（A股）.xlsx
+dram_industry,company_688110_sh,related_company,DRAM,东芯股份,688110.SH,中游,AI芯片,存储芯片/HBM,中小容量存储,AI细分行业相关标的（A股）.xlsx
+hbm_industry,company_688110_sh,related_company,HBM高带宽存储,东芯股份,688110.SH,中游,AI芯片,存储芯片/HBM,中小容量存储,AI细分行业相关标的（A股）.xlsx
+nand_industry,company_688110_sh,related_company,NAND闪存,东芯股份,688110.SH,中游,AI芯片,存储芯片/HBM,中小容量存储,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_688110_sh,related_company,内存接口及互连芯片,东芯股份,688110.SH,中游,AI芯片,存储芯片/HBM,中小容量存储,AI细分行业相关标的（A股）.xlsx
+storage_controller_chip_industry,company_688110_sh,related_company,存储主控芯片,东芯股份,688110.SH,中游,AI芯片,存储芯片/HBM,中小容量存储,AI细分行业相关标的（A股）.xlsx
+dram_industry,company_688525_sh,related_company,DRAM,佰维存储,688525.SH,中游,AI芯片,存储芯片/HBM,存储模组,AI细分行业相关标的（A股）.xlsx
+hbm_industry,company_688525_sh,related_company,HBM高带宽存储,佰维存储,688525.SH,中游,AI芯片,存储芯片/HBM,存储模组,AI细分行业相关标的（A股）.xlsx
+nand_industry,company_688525_sh,related_company,NAND闪存,佰维存储,688525.SH,中游,AI芯片,存储芯片/HBM,存储模组,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_688525_sh,related_company,内存接口及互连芯片,佰维存储,688525.SH,中游,AI芯片,存储芯片/HBM,存储模组,AI细分行业相关标的（A股）.xlsx
+storage_controller_chip_industry,company_688525_sh,related_company,存储主控芯片,佰维存储,688525.SH,中游,AI芯片,存储芯片/HBM,存储模组,AI细分行业相关标的（A股）.xlsx
+dram_industry,company_603986_sh,related_company,DRAM,兆易创新,603986.SH,中游,AI芯片,存储芯片/HBM,NOR Flash+MCU龙头,AI细分行业相关标的（A股）.xlsx
+hbm_industry,company_603986_sh,related_company,HBM高带宽存储,兆易创新,603986.SH,中游,AI芯片,存储芯片/HBM,NOR Flash+MCU龙头,AI细分行业相关标的（A股）.xlsx
+nand_industry,company_603986_sh,related_company,NAND闪存,兆易创新,603986.SH,中游,AI芯片,存储芯片/HBM,NOR Flash+MCU龙头,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_603986_sh,related_company,内存接口及互连芯片,兆易创新,603986.SH,中游,AI芯片,存储芯片/HBM,NOR Flash+MCU龙头,AI细分行业相关标的（A股）.xlsx
+storage_controller_chip_industry,company_603986_sh,related_company,存储主控芯片,兆易创新,603986.SH,中游,AI芯片,存储芯片/HBM,NOR Flash+MCU龙头,AI细分行业相关标的（A股）.xlsx
+dram_industry,company_300223_sz,related_company,DRAM,北京君正,300223.SZ,中游,AI芯片,存储芯片/HBM,车规级存储+AI芯片,AI细分行业相关标的（A股）.xlsx
+hbm_industry,company_300223_sz,related_company,HBM高带宽存储,北京君正,300223.SZ,中游,AI芯片,存储芯片/HBM,车规级存储+AI芯片,AI细分行业相关标的（A股）.xlsx
+nand_industry,company_300223_sz,related_company,NAND闪存,北京君正,300223.SZ,中游,AI芯片,存储芯片/HBM,车规级存储+AI芯片,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_300223_sz,related_company,内存接口及互连芯片,北京君正,300223.SZ,中游,AI芯片,存储芯片/HBM,车规级存储+AI芯片,AI细分行业相关标的（A股）.xlsx
+storage_controller_chip_industry,company_300223_sz,related_company,存储主控芯片,北京君正,300223.SZ,中游,AI芯片,存储芯片/HBM,车规级存储+AI芯片,AI细分行业相关标的（A股）.xlsx
+dram_industry,company_002213_sz,related_company,DRAM,大为股份,002213.SZ,中游,AI芯片,存储芯片/HBM,存储+汽车,AI细分行业相关标的（A股）.xlsx
+hbm_industry,company_002213_sz,related_company,HBM高带宽存储,大为股份,002213.SZ,中游,AI芯片,存储芯片/HBM,存储+汽车,AI细分行业相关标的（A股）.xlsx
+nand_industry,company_002213_sz,related_company,NAND闪存,大为股份,002213.SZ,中游,AI芯片,存储芯片/HBM,存储+汽车,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_002213_sz,related_company,内存接口及互连芯片,大为股份,002213.SZ,中游,AI芯片,存储芯片/HBM,存储+汽车,AI细分行业相关标的（A股）.xlsx
+storage_controller_chip_industry,company_002213_sz,related_company,存储主控芯片,大为股份,002213.SZ,中游,AI芯片,存储芯片/HBM,存储+汽车,AI细分行业相关标的（A股）.xlsx
+dram_industry,company_001309_sz,related_company,DRAM,德明利,001309.SZ,中游,AI芯片,存储芯片/HBM,存储模组,AI细分行业相关标的（A股）.xlsx
+hbm_industry,company_001309_sz,related_company,HBM高带宽存储,德明利,001309.SZ,中游,AI芯片,存储芯片/HBM,存储模组,AI细分行业相关标的（A股）.xlsx
+nand_industry,company_001309_sz,related_company,NAND闪存,德明利,001309.SZ,中游,AI芯片,存储芯片/HBM,存储模组,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_001309_sz,related_company,内存接口及互连芯片,德明利,001309.SZ,中游,AI芯片,存储芯片/HBM,存储模组,AI细分行业相关标的（A股）.xlsx
+storage_controller_chip_industry,company_001309_sz,related_company,存储主控芯片,德明利,001309.SZ,中游,AI芯片,存储芯片/HBM,存储模组,AI细分行业相关标的（A股）.xlsx
+dram_industry,company_688416_sh,related_company,DRAM,恒烁股份,688416.SH,中游,AI芯片,存储芯片/HBM,存算一体,AI细分行业相关标的（A股）.xlsx
+hbm_industry,company_688416_sh,related_company,HBM高带宽存储,恒烁股份,688416.SH,中游,AI芯片,存储芯片/HBM,存算一体,AI细分行业相关标的（A股）.xlsx
+nand_industry,company_688416_sh,related_company,NAND闪存,恒烁股份,688416.SH,中游,AI芯片,存储芯片/HBM,存算一体,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_688416_sh,related_company,内存接口及互连芯片,恒烁股份,688416.SH,中游,AI芯片,存储芯片/HBM,存算一体,AI细分行业相关标的（A股）.xlsx
+storage_controller_chip_industry,company_688416_sh,related_company,存储主控芯片,恒烁股份,688416.SH,中游,AI芯片,存储芯片/HBM,存算一体,AI细分行业相关标的（A股）.xlsx
+dram_industry,company_688766_sh,related_company,DRAM,普冉股份,688766.SH,中游,AI芯片,存储芯片/HBM,NOR Flash,AI细分行业相关标的（A股）.xlsx
+hbm_industry,company_688766_sh,related_company,HBM高带宽存储,普冉股份,688766.SH,中游,AI芯片,存储芯片/HBM,NOR Flash,AI细分行业相关标的（A股）.xlsx
+nand_industry,company_688766_sh,related_company,NAND闪存,普冉股份,688766.SH,中游,AI芯片,存储芯片/HBM,NOR Flash,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_688766_sh,related_company,内存接口及互连芯片,普冉股份,688766.SH,中游,AI芯片,存储芯片/HBM,NOR Flash,AI细分行业相关标的（A股）.xlsx
+storage_controller_chip_industry,company_688766_sh,related_company,存储主控芯片,普冉股份,688766.SH,中游,AI芯片,存储芯片/HBM,NOR Flash,AI细分行业相关标的（A股）.xlsx
+dram_industry,company_300042_sz,related_company,DRAM,朗科科技,300042.SZ,中游,AI芯片,存储芯片/HBM,U盘发明者+存储,AI细分行业相关标的（A股）.xlsx
+hbm_industry,company_300042_sz,related_company,HBM高带宽存储,朗科科技,300042.SZ,中游,AI芯片,存储芯片/HBM,U盘发明者+存储,AI细分行业相关标的（A股）.xlsx
+nand_industry,company_300042_sz,related_company,NAND闪存,朗科科技,300042.SZ,中游,AI芯片,存储芯片/HBM,U盘发明者+存储,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_300042_sz,related_company,内存接口及互连芯片,朗科科技,300042.SZ,中游,AI芯片,存储芯片/HBM,U盘发明者+存储,AI细分行业相关标的（A股）.xlsx
+storage_controller_chip_industry,company_300042_sz,related_company,存储主控芯片,朗科科技,300042.SZ,中游,AI芯片,存储芯片/HBM,U盘发明者+存储,AI细分行业相关标的（A股）.xlsx
+dram_industry,company_301308_sz,related_company,DRAM,江波龙,301308.SZ,中游,AI芯片,存储芯片/HBM,存储模组龙头,AI细分行业相关标的（A股）.xlsx
+hbm_industry,company_301308_sz,related_company,HBM高带宽存储,江波龙,301308.SZ,中游,AI芯片,存储芯片/HBM,存储模组龙头,AI细分行业相关标的（A股）.xlsx
+nand_industry,company_301308_sz,related_company,NAND闪存,江波龙,301308.SZ,中游,AI芯片,存储芯片/HBM,存储模组龙头,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_301308_sz,related_company,内存接口及互连芯片,江波龙,301308.SZ,中游,AI芯片,存储芯片/HBM,存储模组龙头,AI细分行业相关标的（A股）.xlsx
+storage_controller_chip_industry,company_301308_sz,related_company,存储主控芯片,江波龙,301308.SZ,中游,AI芯片,存储芯片/HBM,存储模组龙头,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_603920_sh,related_company,PCB,世运电路,603920.SH,中游,PCB,高多层板/HDI,PCB,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_002384_sz,related_company,PCB,东山精密,002384.SZ,中游,PCB,高多层板/HDI,FPC+硬板,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_603328_sh,related_company,PCB,依顿电子,603328.SH,中游,PCB,高多层板/HDI,汽车+工控PCB,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_002436_sz,related_company,PCB,兴森科技,002436.SZ,中游,PCB,高多层板/HDI,PCB+封装基板,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_603936_sh,related_company,PCB,博敏电子,603936.SH,中游,PCB,高多层板/HDI,PCB+封装基板,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_002134_sz,related_company,PCB,天津普林,002134.SZ,中游,PCB,高多层板/HDI,PCB,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_002913_sz,related_company,PCB,奥士康,002913.SZ,中游,PCB,高多层板/HDI,数据中心PCB,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_002815_sz,related_company,PCB,崇达技术,002815.SZ,中游,PCB,高多层板/HDI,PCB,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_600601_sh,related_company,PCB,方正科技,600601.SH,中游,PCB,高多层板/HDI,PCB(珠海方正),AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_603228_sh,related_company,PCB,景旺电子,603228.SH,中游,PCB,高多层板/HDI,全品类PCB,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_300964_sz,related_company,PCB,本川智能,300964.SZ,中游,PCB,高多层板/HDI,高频PCB,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_002463_sz,related_company,PCB,沪电股份,002463.SZ,中游,PCB,高多层板/HDI,AI服务器PCB全球核心供应商,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_002916_sz,related_company,PCB,深南电路,002916.SZ,中游,PCB,高多层板/HDI,通信+服务器双轮驱动,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_301132_sz,related_company,PCB,满坤科技,301132.SZ,中游,PCB,高多层板/HDI,PCB,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_688183_sh,related_company,PCB,生益电子,688183.SH,中游,PCB,高多层板/HDI,生益子公司，服务器PCB,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_300903_sz,related_company,PCB,科翔股份,300903.SZ,中游,PCB,高多层板/HDI,PCB,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_300476_sz,related_company,PCB,胜宏科技,300476.SZ,中游,PCB,高多层板/HDI,高多层板,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_688655_sh,related_company,PCB,迅捷兴,688655.SH,中游,PCB,高多层板/HDI,PCB,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_603386_sh,related_company,PCB,骏亚科技,603386.SH,中游,PCB,高多层板/HDI,PCB,AI细分行业相关标的（A股）.xlsx
+pcb_industry,company_002938_sz,related_company,PCB,鹏鼎控股,002938.SZ,中游,PCB,高多层板/HDI,全球PCB产值第一,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_300308_sz,related_company,光模块,中际旭创,300308.SZ,中游,光模块,800G/1.6T光模块,全球光模块市占率第一,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_002281_sz,related_company,光模块,光迅科技,002281.SZ,中游,光模块,800G/1.6T光模块,光通信全链条,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_603083_sh,related_company,光模块,剑桥科技,603083.SH,中游,光模块,800G/1.6T光模块,光模块,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_000988_sz,related_company,光模块,华工科技,000988.SZ,中游,光模块,800G/1.6T光模块,光模块+激光装备,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_300548_sz,related_company,光模块,博创科技,300548.SZ,中游,光模块,800G/1.6T光模块,硅光/光模块,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_300394_sz,related_company,光模块,天孚通信,300394.SZ,中游,光模块,800G/1.6T光模块,光引擎/光器件上游,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_300570_sz,related_company,光模块,太辰光,300570.SZ,中游,光模块,800G/1.6T光模块,光器件,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_688205_sh,related_company,光模块,德科立,688205.SH,中游,光模块,800G/1.6T光模块,光模块,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_300502_sz,related_company,光模块,新易盛,300502.SZ,中游,光模块,800G/1.6T光模块,盈利能力最强,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_301205_sz,related_company,光模块,联特科技,301205.SZ,中游,光模块,800G/1.6T光模块,光模块,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_688195_sh,related_company,光模块,腾景科技,688195.SH,中游,光模块,800G/1.6T光模块,精密光学元件,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_002792_sz,related_company,光模块,通宇通讯,002792.SZ,中游,光模块,800G/1.6T光模块,基站天线+光模块,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_002902_sz,related_company,光模块,铭普光磁,002902.SZ,中游,光模块,800G/1.6T光模块,光磁通信,AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_688313_sh,related_company,光器件,仕佳光子,688313.SH,中游,光模块,光芯片/激光器,PLC光芯片,AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_002281_sz,related_company,光器件,光迅科技,002281.SZ,中游,光模块,光芯片/激光器,自研光芯片,AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_000988_sz,related_company,光器件,华工科技,000988.SZ,中游,光模块,光芯片/激光器,激光器,AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_600105_sh,related_company,光器件,永鼎股份,600105.SH,中游,光模块,光芯片/激光器,光棒/光纤光缆+光芯片,AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_000921_sz,related_company,光器件,海信家电,000921.SZ,中游,光模块,光芯片/激光器,宽带光芯片(海信宽带子公司),AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_688498_sh,related_company,光器件,源杰科技,688498.SH,中游,光模块,光芯片/激光器,EML/DFB激光器芯片龙头,AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_688048_sh,related_company,光器件,长光华芯,688048.SH,中游,光模块,光芯片/激光器,高功率激光芯片,AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_600522_sh,related_company,光器件,中天科技,600522.SH,中游,光模块,硅光/CPO/光引擎,光纤光缆+硅光,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_600522_sh,related_company,光模块,中天科技,600522.SH,中游,光模块,硅光/CPO/光引擎,光纤光缆+硅光,AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_300502_sz,related_company,光器件,新易盛,300502.SZ,中游,光模块,硅光/CPO/光引擎,硅光+光引擎,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_300502_sz,related_company,光模块,新易盛,300502.SZ,中游,光模块,硅光/CPO/光引擎,硅光+光引擎,AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_300548_sz,related_company,光器件,长芯博创,300548.SZ,中游,光模块,硅光/CPO/光引擎,硅光模块+高速铜缆,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_300548_sz,related_company,光模块,长芯博创,300548.SZ,中游,光模块,硅光/CPO/光引擎,硅光模块+高速铜缆,AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_300308_sz,related_company,光器件,中际旭创,300308.SZ,中游,光模块,硅光/CPO/光引擎,硅光模块自研,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_300308_sz,related_company,光模块,中际旭创,300308.SZ,中游,光模块,硅光/CPO/光引擎,硅光模块自研,AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_600487_sh,related_company,光器件,亨通光电,600487.SH,中游,光模块,硅光/CPO/光引擎,光纤光缆+硅光,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_600487_sh,related_company,光模块,亨通光电,600487.SH,中游,光模块,硅光/CPO/光引擎,光纤光缆+硅光,AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_688313_sh,related_company,光器件,仕佳光子,688313.SH,中游,光模块,硅光/CPO/光引擎,硅光,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_688313_sh,related_company,光模块,仕佳光子,688313.SH,中游,光模块,硅光/CPO/光引擎,硅光,AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_002281_sz,related_company,光器件,光迅科技,002281.SZ,中游,光模块,硅光/CPO/光引擎,硅光,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_002281_sz,related_company,光模块,光迅科技,002281.SZ,中游,光模块,硅光/CPO/光引擎,硅光,AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_300394_sz,related_company,光器件,天孚通信,300394.SZ,中游,光模块,硅光/CPO/光引擎,光引擎供应商,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_300394_sz,related_company,光模块,天孚通信,300394.SZ,中游,光模块,硅光/CPO/光引擎,光引擎供应商,AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_300570_sz,related_company,光器件,太辰光,300570.SZ,中游,光模块,硅光/CPO/光引擎,光纤连接器,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_300570_sz,related_company,光模块,太辰光,300570.SZ,中游,光模块,硅光/CPO/光引擎,光纤连接器,AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_688205_sh,related_company,光器件,德科立,688205.SH,中游,光模块,硅光/CPO/光引擎,光传输设备,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_688205_sh,related_company,光模块,德科立,688205.SH,中游,光模块,硅光/CPO/光引擎,光传输设备,AI细分行业相关标的（A股）.xlsx
+optical_device_industry,company_300757_sz,related_company,光器件,罗博特科,300757.SZ,中游,光模块,硅光/CPO/光引擎,光模块封装设备,AI细分行业相关标的（A股）.xlsx
+optical_module_industry,company_300757_sz,related_company,光模块,罗博特科,300757.SZ,中游,光模块,硅光/CPO/光引擎,光模块封装设备,AI细分行业相关标的（A股）.xlsx
+ai_accelerated_system_industry,company_000066_sz,related_company,AI加速服务器,中国长城,000066.SZ,中游,服务器,AI服务器整机,信创+服务器,AI细分行业相关标的（A股）.xlsx
+ai_server_oem_industry,company_000066_sz,related_company,AI服务器OEM,中国长城,000066.SZ,中游,服务器,AI服务器整机,信创+服务器,AI细分行业相关标的（A股）.xlsx
+rack_scale_ai_system_industry,company_000066_sz,related_company,机柜级AI服务器,中国长城,000066.SZ,中游,服务器,AI服务器整机,信创+服务器,AI细分行业相关标的（A股）.xlsx
+ai_accelerated_system_industry,company_603019_sh,related_company,AI加速服务器,中科曙光,603019.SH,中游,服务器,AI服务器整机,国产服务器+超算,AI细分行业相关标的（A股）.xlsx
+ai_server_oem_industry,company_603019_sh,related_company,AI服务器OEM,中科曙光,603019.SH,中游,服务器,AI服务器整机,国产服务器+超算,AI细分行业相关标的（A股）.xlsx
+rack_scale_ai_system_industry,company_603019_sh,related_company,机柜级AI服务器,中科曙光,603019.SH,中游,服务器,AI服务器整机,国产服务器+超算,AI细分行业相关标的（A股）.xlsx
+ai_accelerated_system_industry,company_300857_sz,related_company,AI加速服务器,协创数据,300857.SZ,中游,服务器,AI服务器整机,智能物联+存储服务器,AI细分行业相关标的（A股）.xlsx
+ai_server_oem_industry,company_300857_sz,related_company,AI服务器OEM,协创数据,300857.SZ,中游,服务器,AI服务器整机,智能物联+存储服务器,AI细分行业相关标的（A股）.xlsx
+rack_scale_ai_system_industry,company_300857_sz,related_company,机柜级AI服务器,协创数据,300857.SZ,中游,服务器,AI服务器整机,智能物联+存储服务器,AI细分行业相关标的（A股）.xlsx
+ai_accelerated_system_industry,company_600100_sh,related_company,AI加速服务器,同方股份,600100.SH,中游,服务器,AI服务器整机,计算机+服务器,AI细分行业相关标的（A股）.xlsx
+ai_server_oem_industry,company_600100_sh,related_company,AI服务器OEM,同方股份,600100.SH,中游,服务器,AI服务器整机,计算机+服务器,AI细分行业相关标的（A股）.xlsx
+rack_scale_ai_system_industry,company_600100_sh,related_company,机柜级AI服务器,同方股份,600100.SH,中游,服务器,AI服务器整机,计算机+服务器,AI细分行业相关标的（A股）.xlsx
+ai_accelerated_system_industry,company_600839_sh,related_company,AI加速服务器,四川长虹,600839.SH,中游,服务器,AI服务器整机,华鲲振宇关联,AI细分行业相关标的（A股）.xlsx
+ai_server_oem_industry,company_600839_sh,related_company,AI服务器OEM,四川长虹,600839.SH,中游,服务器,AI服务器整机,华鲲振宇关联,AI细分行业相关标的（A股）.xlsx
+rack_scale_ai_system_industry,company_600839_sh,related_company,机柜级AI服务器,四川长虹,600839.SH,中游,服务器,AI服务器整机,华鲲振宇关联,AI细分行业相关标的（A股）.xlsx
+ai_accelerated_system_industry,company_600449_sh,related_company,AI加速服务器,宁夏建材,600449.SH,中游,服务器,AI服务器整机,中建信息+服务器,AI细分行业相关标的（A股）.xlsx
+ai_server_oem_industry,company_600449_sh,related_company,AI服务器OEM,宁夏建材,600449.SH,中游,服务器,AI服务器整机,中建信息+服务器,AI细分行业相关标的（A股）.xlsx
+rack_scale_ai_system_industry,company_600449_sh,related_company,机柜级AI服务器,宁夏建材,600449.SH,中游,服务器,AI服务器整机,中建信息+服务器,AI细分行业相关标的（A股）.xlsx
+ai_accelerated_system_industry,company_601138_sh,related_company,AI加速服务器,工业富联,601138.SH,中游,服务器,AI服务器整机,英伟达服务器核心代工商,AI细分行业相关标的（A股）.xlsx
+ai_server_oem_industry,company_601138_sh,related_company,AI服务器OEM,工业富联,601138.SH,中游,服务器,AI服务器整机,英伟达服务器核心代工商,AI细分行业相关标的（A股）.xlsx
+rack_scale_ai_system_industry,company_601138_sh,related_company,机柜级AI服务器,工业富联,601138.SH,中游,服务器,AI服务器整机,英伟达服务器核心代工商,AI细分行业相关标的（A股）.xlsx
+ai_accelerated_system_industry,company_002152_sz,related_company,AI加速服务器,广电运通,002152.SZ,中游,服务器,AI服务器整机,金融设备+服务器,AI细分行业相关标的（A股）.xlsx
+ai_server_oem_industry,company_002152_sz,related_company,AI服务器OEM,广电运通,002152.SZ,中游,服务器,AI服务器整机,金融设备+服务器,AI细分行业相关标的（A股）.xlsx
+rack_scale_ai_system_industry,company_002152_sz,related_company,机柜级AI服务器,广电运通,002152.SZ,中游,服务器,AI服务器整机,金融设备+服务器,AI细分行业相关标的（A股）.xlsx
+ai_accelerated_system_industry,company_603496_sh,related_company,AI加速服务器,恒为科技,603496.SH,中游,服务器,AI服务器整机,算力运维+可视化,AI细分行业相关标的（A股）.xlsx
+ai_server_oem_industry,company_603496_sh,related_company,AI服务器OEM,恒为科技,603496.SH,中游,服务器,AI服务器整机,算力运维+可视化,AI细分行业相关标的（A股）.xlsx
+rack_scale_ai_system_industry,company_603496_sh,related_company,机柜级AI服务器,恒为科技,603496.SH,中游,服务器,AI服务器整机,算力运维+可视化,AI细分行业相关标的（A股）.xlsx
+ai_accelerated_system_industry,company_002261_sz,related_company,AI加速服务器,拓维信息,002261.SZ,中游,服务器,AI服务器整机,华为昇腾服务器合作,AI细分行业相关标的（A股）.xlsx
+ai_server_oem_industry,company_002261_sz,related_company,AI服务器OEM,拓维信息,002261.SZ,中游,服务器,AI服务器整机,华为昇腾服务器合作,AI细分行业相关标的（A股）.xlsx
+rack_scale_ai_system_industry,company_002261_sz,related_company,机柜级AI服务器,拓维信息,002261.SZ,中游,服务器,AI服务器整机,华为昇腾服务器合作,AI细分行业相关标的（A股）.xlsx
+ai_accelerated_system_industry,company_000977_sz,related_company,AI加速服务器,浪潮信息,000977.SZ,中游,服务器,AI服务器整机,国内AI服务器出货量第一,AI细分行业相关标的（A股）.xlsx
+ai_server_oem_industry,company_000977_sz,related_company,AI服务器OEM,浪潮信息,000977.SZ,中游,服务器,AI服务器整机,国内AI服务器出货量第一,AI细分行业相关标的（A股）.xlsx
+rack_scale_ai_system_industry,company_000977_sz,related_company,机柜级AI服务器,浪潮信息,000977.SZ,中游,服务器,AI服务器整机,国内AI服务器出货量第一,AI细分行业相关标的（A股）.xlsx
+ai_accelerated_system_industry,company_600498_sh,related_company,AI加速服务器,烽火通信,600498.SH,中游,服务器,AI服务器整机,通信设备+服务器,AI细分行业相关标的（A股）.xlsx
+ai_server_oem_industry,company_600498_sh,related_company,AI服务器OEM,烽火通信,600498.SH,中游,服务器,AI服务器整机,通信设备+服务器,AI细分行业相关标的（A股）.xlsx
+rack_scale_ai_system_industry,company_600498_sh,related_company,机柜级AI服务器,烽火通信,600498.SH,中游,服务器,AI服务器整机,通信设备+服务器,AI细分行业相关标的（A股）.xlsx
+ai_accelerated_system_industry,company_000034_sz,related_company,AI加速服务器,神州数码,000034.SZ,中游,服务器,AI服务器整机,IT分销+信创服务器,AI细分行业相关标的（A股）.xlsx
+ai_server_oem_industry,company_000034_sz,related_company,AI服务器OEM,神州数码,000034.SZ,中游,服务器,AI服务器整机,IT分销+信创服务器,AI细分行业相关标的（A股）.xlsx
+rack_scale_ai_system_industry,company_000034_sz,related_company,机柜级AI服务器,神州数码,000034.SZ,中游,服务器,AI服务器整机,IT分销+信创服务器,AI细分行业相关标的（A股）.xlsx
+ai_accelerated_system_industry,company_000938_sz,related_company,AI加速服务器,紫光股份,000938.SZ,中游,服务器,AI服务器整机,新华三服务器,AI细分行业相关标的（A股）.xlsx
+ai_server_oem_industry,company_000938_sz,related_company,AI服务器OEM,紫光股份,000938.SZ,中游,服务器,AI服务器整机,新华三服务器,AI细分行业相关标的（A股）.xlsx
+rack_scale_ai_system_industry,company_000938_sz,related_company,机柜级AI服务器,紫光股份,000938.SZ,中游,服务器,AI服务器整机,新华三服务器,AI细分行业相关标的（A股）.xlsx
+ai_accelerated_system_industry,company_000628_sz,related_company,AI加速服务器,高新发展,000628.SZ,中游,服务器,AI服务器整机,华鲲振宇关联,AI细分行业相关标的（A股）.xlsx
+ai_server_oem_industry,company_000628_sz,related_company,AI服务器OEM,高新发展,000628.SZ,中游,服务器,AI服务器整机,华鲲振宇关联,AI细分行业相关标的（A股）.xlsx
+rack_scale_ai_system_industry,company_000628_sz,related_company,机柜级AI服务器,高新发展,000628.SZ,中游,服务器,AI服务器整机,华鲲振宇关联,AI细分行业相关标的（A股）.xlsx
+cold_plate_liquid_cooling_industry,company_300684_sz,related_company,冷板式液冷设备,中石科技,300684.SZ,中游,服务器,液冷散热,热管理材料,AI细分行业相关标的（A股）.xlsx
+immersion_cooling_industry,company_300684_sz,related_company,浸没式液冷设备,中石科技,300684.SZ,中游,服务器,液冷散热,热管理材料,AI细分行业相关标的（A股）.xlsx
+cold_plate_liquid_cooling_industry,company_603912_sh,related_company,冷板式液冷设备,佳力图,603912.SH,中游,服务器,液冷散热,机房空调,AI细分行业相关标的（A股）.xlsx
+immersion_cooling_industry,company_603912_sh,related_company,浸没式液冷设备,佳力图,603912.SH,中游,服务器,液冷散热,机房空调,AI细分行业相关标的（A股）.xlsx
+cold_plate_liquid_cooling_industry,company_300249_sz,related_company,冷板式液冷设备,依米康,300249.SZ,中游,服务器,液冷散热,数据中心基础设施,AI细分行业相关标的（A股）.xlsx
+immersion_cooling_industry,company_300249_sz,related_company,浸没式液冷设备,依米康,300249.SZ,中游,服务器,液冷散热,数据中心基础设施,AI细分行业相关标的（A股）.xlsx
+cold_plate_liquid_cooling_industry,company_300990_sz,related_company,冷板式液冷设备,同飞股份,300990.SZ,中游,服务器,液冷散热,工业温控,AI细分行业相关标的（A股）.xlsx
+immersion_cooling_industry,company_300990_sz,related_company,浸没式液冷设备,同飞股份,300990.SZ,中游,服务器,液冷散热,工业温控,AI细分行业相关标的（A股）.xlsx
+cold_plate_liquid_cooling_industry,company_920808_bj,related_company,冷板式液冷设备,曙光数创,920808.BJ,中游,服务器,液冷散热,中科系液冷专科,AI细分行业相关标的（A股）.xlsx
+immersion_cooling_industry,company_920808_bj,related_company,浸没式液冷设备,曙光数创,920808.BJ,中游,服务器,液冷散热,中科系液冷专科,AI细分行业相关标的（A股）.xlsx
+cold_plate_liquid_cooling_industry,company_301018_sz,related_company,冷板式液冷设备,申菱环境,301018.SZ,中游,服务器,液冷散热,专用空调+液冷,AI细分行业相关标的（A股）.xlsx
+immersion_cooling_industry,company_301018_sz,related_company,浸没式液冷设备,申菱环境,301018.SZ,中游,服务器,液冷散热,专用空调+液冷,AI细分行业相关标的（A股）.xlsx
+cold_plate_liquid_cooling_industry,company_002335_sz,related_company,冷板式液冷设备,科华数据,002335.SZ,中游,服务器,液冷散热,UPS+数据中心,AI细分行业相关标的（A股）.xlsx
+immersion_cooling_industry,company_002335_sz,related_company,浸没式液冷设备,科华数据,002335.SZ,中游,服务器,液冷散热,UPS+数据中心,AI细分行业相关标的（A股）.xlsx
+cold_plate_liquid_cooling_industry,company_002837_sz,related_company,冷板式液冷设备,英维克,002837.SZ,中游,服务器,液冷散热,数据中心温控全品类龙头,AI细分行业相关标的（A股）.xlsx
+immersion_cooling_industry,company_002837_sz,related_company,浸没式液冷设备,英维克,002837.SZ,中游,服务器,液冷散热,数据中心温控全品类龙头,AI细分行业相关标的（A股）.xlsx
+cold_plate_liquid_cooling_industry,company_300602_sz,related_company,冷板式液冷设备,飞荣达,300602.SZ,中游,服务器,液冷散热,散热材料,AI细分行业相关标的（A股）.xlsx
+immersion_cooling_industry,company_300602_sz,related_company,浸没式液冷设备,飞荣达,300602.SZ,中游,服务器,液冷散热,散热材料,AI细分行业相关标的（A股）.xlsx
+cold_plate_liquid_cooling_industry,company_300499_sz,related_company,冷板式液冷设备,高澜股份,300499.SZ,中游,服务器,液冷散热,液冷散热,AI细分行业相关标的（A股）.xlsx
+immersion_cooling_industry,company_300499_sz,related_company,浸没式液冷设备,高澜股份,300499.SZ,中游,服务器,液冷散热,液冷散热,AI细分行业相关标的（A股）.xlsx
+signal_transmission_industry,company_300913_sz,related_company,信号传输,兆龙互连,300913.SZ,中游,服务器,高速互联/铜连接,数据电缆+连接产品,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_300913_sz,related_company,内存接口及互连芯片,兆龙互连,300913.SZ,中游,服务器,高速互联/铜连接,数据电缆+连接产品,AI细分行业相关标的（A股）.xlsx
+signal_transmission_industry,company_301182_sz,related_company,信号传输,凯旺科技,301182.SZ,中游,服务器,高速互联/铜连接,精密线缆组件,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_301182_sz,related_company,内存接口及互连芯片,凯旺科技,301182.SZ,中游,服务器,高速互联/铜连接,精密线缆组件,AI细分行业相关标的（A股）.xlsx
+signal_transmission_industry,company_300991_sz,related_company,信号传输,创益通,300991.SZ,中游,服务器,高速互联/铜连接,精密连接器,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_300991_sz,related_company,内存接口及互连芯片,创益通,300991.SZ,中游,服务器,高速互联/铜连接,精密连接器,AI细分行业相关标的（A股）.xlsx
+signal_transmission_industry,company_688629_sh,related_company,信号传输,华丰科技,688629.SH,中游,服务器,高速互联/铜连接,电连接器,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_688629_sh,related_company,内存接口及互连芯片,华丰科技,688629.SH,中游,服务器,高速互联/铜连接,电连接器,AI细分行业相关标的（A股）.xlsx
+signal_transmission_industry,company_601137_sh,related_company,信号传输,博威合金,601137.SH,中游,服务器,高速互联/铜连接,铜合金材料,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_601137_sh,related_company,内存接口及互连芯片,博威合金,601137.SH,中游,服务器,高速互联/铜连接,铜合金材料,AI细分行业相关标的（A股）.xlsx
+signal_transmission_industry,company_002897_sz,related_company,信号传输,意华股份,002897.SZ,中游,服务器,高速互联/铜连接,连接器,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_002897_sz,related_company,内存接口及互连芯片,意华股份,002897.SZ,中游,服务器,高速互联/铜连接,连接器,AI细分行业相关标的（A股）.xlsx
+signal_transmission_industry,company_605277_sh,related_company,信号传输,新亚电子,605277.SH,中游,服务器,高速互联/铜连接,电线电缆,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_605277_sh,related_company,内存接口及互连芯片,新亚电子,605277.SH,中游,服务器,高速互联/铜连接,电线电缆,AI细分行业相关标的（A股）.xlsx
+signal_transmission_industry,company_002130_sz,related_company,信号传输,沃尔核材,002130.SZ,中游,服务器,高速互联/铜连接,高速铜缆细分领先,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_002130_sz,related_company,内存接口及互连芯片,沃尔核材,002130.SZ,中游,服务器,高速互联/铜连接,高速铜缆细分领先,AI细分行业相关标的（A股）.xlsx
+signal_transmission_industry,company_301280_sz,related_company,信号传输,珠城科技,301280.SZ,中游,服务器,高速互联/铜连接,连接器,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_301280_sz,related_company,内存接口及互连芯片,珠城科技,301280.SZ,中游,服务器,高速互联/铜连接,连接器,AI细分行业相关标的（A股）.xlsx
+signal_transmission_industry,company_300679_sz,related_company,信号传输,电连技术,300679.SZ,中游,服务器,高速互联/铜连接,微型电连接器,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_300679_sz,related_company,内存接口及互连芯片,电连技术,300679.SZ,中游,服务器,高速互联/铜连接,微型电连接器,AI细分行业相关标的（A股）.xlsx
+signal_transmission_industry,company_002475_sz,related_company,信号传输,立讯精密,002475.SZ,中游,服务器,高速互联/铜连接,连接器综合巨头,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_002475_sz,related_company,内存接口及互连芯片,立讯精密,002475.SZ,中游,服务器,高速互联/铜连接,连接器综合巨头,AI细分行业相关标的（A股）.xlsx
+signal_transmission_industry,company_301328_sz,related_company,信号传输,维峰电子,301328.SZ,中游,服务器,高速互联/铜连接,工业连接器,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_301328_sz,related_company,内存接口及互连芯片,维峰电子,301328.SZ,中游,服务器,高速互联/铜连接,工业连接器,AI细分行业相关标的（A股）.xlsx
+signal_transmission_industry,company_300252_sz,related_company,信号传输,金信诺,300252.SZ,中游,服务器,高速互联/铜连接,信号连接产品,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_300252_sz,related_company,内存接口及互连芯片,金信诺,300252.SZ,中游,服务器,高速互联/铜连接,信号连接产品,AI细分行业相关标的（A股）.xlsx
+signal_transmission_industry,company_688668_sh,related_company,信号传输,鼎通科技,688668.SH,中游,服务器,高速互联/铜连接,连接器组件,AI细分行业相关标的（A股）.xlsx
+memory_interface_chip_industry,company_688668_sh,related_company,内存接口及互连芯片,鼎通科技,688668.SH,中游,服务器,高速互联/铜连接,连接器组件,AI细分行业相关标的（A股）.xlsx
+robot_leadscrew_actuator_industry,company_301368_sz,related_company,机器人丝杠/执行器,丰立智能,301368.SZ,下游,人形机器人,丝杠/执行器,精密零部件,AI细分行业相关标的（A股）.xlsx
+robot_leadscrew_actuator_industry,company_603667_sh,related_company,机器人丝杠/执行器,五洲新春,603667.SH,下游,人形机器人,丝杠/执行器,轴承+丝杠,AI细分行业相关标的（A股）.xlsx
+robot_leadscrew_actuator_industry,company_002708_sz,related_company,机器人丝杠/执行器,光洋股份,002708.SZ,下游,人形机器人,丝杠/执行器,轴承,AI细分行业相关标的（A股）.xlsx
+robot_leadscrew_actuator_industry,company_603009_sh,related_company,机器人丝杠/执行器,北特科技,603009.SH,下游,人形机器人,丝杠/执行器,行星滚柱丝杠转产受关注,AI细分行业相关标的（A股）.xlsx
+robot_leadscrew_actuator_industry,company_001306_sz,related_company,机器人丝杠/执行器,夏厦精密,001306.SZ,下游,人形机器人,丝杠/执行器,精密齿轮,AI细分行业相关标的（A股）.xlsx
+robot_leadscrew_actuator_industry,company_601100_sh,related_company,机器人丝杠/执行器,恒立液压,601100.SH,下游,人形机器人,丝杠/执行器,液压件+滚珠丝杠,AI细分行业相关标的（A股）.xlsx
+robot_leadscrew_actuator_industry,company_301550_sz,related_company,机器人丝杠/执行器,斯菱股份,301550.SZ,下游,人形机器人,丝杠/执行器,汽车轴承+丝杠,AI细分行业相关标的（A股）.xlsx
+robot_leadscrew_actuator_industry,company_002520_sz,related_company,机器人丝杠/执行器,日发精机,002520.SZ,下游,人形机器人,丝杠/执行器,数控机床,AI细分行业相关标的（A股）.xlsx
+robot_leadscrew_actuator_industry,company_000837_sz,related_company,机器人丝杠/执行器,秦川机床,000837.SZ,下游,人形机器人,丝杠/执行器,机床+丝杠,AI细分行业相关标的（A股）.xlsx
+robot_leadscrew_actuator_industry,company_300580_sz,related_company,机器人丝杠/执行器,贝斯特,300580.SZ,下游,人形机器人,丝杠/执行器,精密零部件+丝杠,AI细分行业相关标的（A股）.xlsx
+robot_leadscrew_actuator_industry,company_300718_sz,related_company,机器人丝杠/执行器,长盛轴承,300718.SZ,下游,人形机器人,丝杠/执行器,滑动轴承,AI细分行业相关标的（A股）.xlsx
+robot_leadscrew_actuator_industry,company_300953_sz,related_company,机器人丝杠/执行器,震裕科技,300953.SZ,下游,人形机器人,丝杠/执行器,精密结构件,AI细分行业相关标的（A股）.xlsx
+robot_leadscrew_actuator_industry,company_920593_bj,related_company,机器人丝杠/执行器,鼎智科技,920593.BJ,下游,人形机器人,丝杠/执行器,微型丝杠电机,AI细分行业相关标的（A股）.xlsx
+robot_sensor_industry,company_300354_sz,related_company,机器人传感器,东华测试,300354.SZ,下游,人形机器人,传感器,结构力学测试,AI细分行业相关标的（A股）.xlsx
+machine_vision_industry,company_300354_sz,related_company,机器视觉,东华测试,300354.SZ,下游,人形机器人,传感器,结构力学测试,AI细分行业相关标的（A股）.xlsx
+robot_sensor_industry,company_603197_sh,related_company,机器人传感器,保隆科技,603197.SH,下游,人形机器人,传感器,汽车传感器,AI细分行业相关标的（A股）.xlsx
+machine_vision_industry,company_603197_sh,related_company,机器视觉,保隆科技,603197.SH,下游,人形机器人,传感器,汽车传感器,AI细分行业相关标的（A股）.xlsx
+robot_sensor_industry,company_600480_sh,related_company,机器人传感器,凌云股份,600480.SH,下游,人形机器人,传感器,汽车零部件+传感器,AI细分行业相关标的（A股）.xlsx
+machine_vision_industry,company_600480_sh,related_company,机器视觉,凌云股份,600480.SH,下游,人形机器人,传感器,汽车零部件+传感器,AI细分行业相关标的（A股）.xlsx
+robot_sensor_industry,company_688686_sh,related_company,机器人传感器,奥普特,688686.SH,下游,人形机器人,传感器,机器视觉,AI细分行业相关标的（A股）.xlsx
+machine_vision_industry,company_688686_sh,related_company,机器视觉,奥普特,688686.SH,下游,人形机器人,传感器,机器视觉,AI细分行业相关标的（A股）.xlsx
+robot_sensor_industry,company_920491_bj,related_company,机器人传感器,奥迪威,920491.BJ,下游,人形机器人,传感器,超声波传感器,AI细分行业相关标的（A股）.xlsx
+machine_vision_industry,company_920491_bj,related_company,机器视觉,奥迪威,920491.BJ,下游,人形机器人,传感器,超声波传感器,AI细分行业相关标的（A股）.xlsx
+robot_sensor_industry,company_300445_sz,related_company,机器人传感器,康斯特,300445.SZ,下游,人形机器人,传感器,压力/温度传感器,AI细分行业相关标的（A股）.xlsx
+machine_vision_industry,company_300445_sz,related_company,机器视觉,康斯特,300445.SZ,下游,人形机器人,传感器,压力/温度传感器,AI细分行业相关标的（A股）.xlsx
+robot_sensor_industry,company_300667_sz,related_company,机器人传感器,必创科技,300667.SZ,下游,人形机器人,传感器,传感器+MEMS,AI细分行业相关标的（A股）.xlsx
+machine_vision_industry,company_300667_sz,related_company,机器视觉,必创科技,300667.SZ,下游,人形机器人,传感器,传感器+MEMS,AI细分行业相关标的（A股）.xlsx
+robot_sensor_industry,company_688286_sh,related_company,机器人传感器,敏芯股份,688286.SH,下游,人形机器人,传感器,MEMS传感器,AI细分行业相关标的（A股）.xlsx
+machine_vision_industry,company_688286_sh,related_company,机器视觉,敏芯股份,688286.SH,下游,人形机器人,传感器,MEMS传感器,AI细分行业相关标的（A股）.xlsx
+robot_sensor_industry,company_603662_sh,related_company,机器人传感器,柯力传感,603662.SH,下游,人形机器人,传感器,力学传感龙头,AI细分行业相关标的（A股）.xlsx
+machine_vision_industry,company_603662_sh,related_company,机器视觉,柯力传感,603662.SH,下游,人形机器人,传感器,力学传感龙头,AI细分行业相关标的（A股）.xlsx
+robot_sensor_industry,company_300701_sz,related_company,机器人传感器,森霸传感,300701.SZ,下游,人形机器人,传感器,热释电红外传感器,AI细分行业相关标的（A股）.xlsx
+machine_vision_industry,company_300701_sz,related_company,机器视觉,森霸传感,300701.SZ,下游,人形机器人,传感器,热释电红外传感器,AI细分行业相关标的（A股）.xlsx
+robot_sensor_industry,company_002456_sz,related_company,机器人传感器,欧菲光,002456.SZ,下游,人形机器人,传感器,光学传感器,AI细分行业相关标的（A股）.xlsx
+machine_vision_industry,company_002456_sz,related_company,机器视觉,欧菲光,002456.SZ,下游,人形机器人,传感器,光学传感器,AI细分行业相关标的（A股）.xlsx
+robot_sensor_industry,company_300007_sz,related_company,机器人传感器,汉威科技,300007.SZ,下游,人形机器人,传感器,气体/压力传感器,AI细分行业相关标的（A股）.xlsx
+machine_vision_industry,company_300007_sz,related_company,机器视觉,汉威科技,300007.SZ,下游,人形机器人,传感器,气体/压力传感器,AI细分行业相关标的（A股）.xlsx
+robot_sensor_industry,company_688002_sh,related_company,机器人传感器,睿创微纳,688002.SH,下游,人形机器人,传感器,红外热成像,AI细分行业相关标的（A股）.xlsx
+machine_vision_industry,company_688002_sh,related_company,机器视觉,睿创微纳,688002.SH,下游,人形机器人,传感器,红外热成像,AI细分行业相关标的（A股）.xlsx
+robot_sensor_industry,company_300507_sz,related_company,机器人传感器,苏奥传感,300507.SZ,下游,人形机器人,传感器,汽车传感器,AI细分行业相关标的（A股）.xlsx
+machine_vision_industry,company_300507_sz,related_company,机器视觉,苏奥传感,300507.SZ,下游,人形机器人,传感器,汽车传感器,AI细分行业相关标的（A股）.xlsx
+robot_sensor_industry,company_688539_sh,related_company,机器人传感器,高华科技,688539.SH,下游,人形机器人,传感器,传感器,AI细分行业相关标的（A股）.xlsx
+machine_vision_industry,company_688539_sh,related_company,机器视觉,高华科技,688539.SH,下游,人形机器人,传感器,传感器,AI细分行业相关标的（A股）.xlsx
+robot_sensor_industry,company_002414_sz,related_company,机器人传感器,高德红外,002414.SZ,下游,人形机器人,传感器,红外热成像,AI细分行业相关标的（A股）.xlsx
+machine_vision_industry,company_002414_sz,related_company,机器视觉,高德红外,002414.SZ,下游,人形机器人,传感器,红外热成像,AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_688698_sh,related_company,伺服电机,伟创电气,688698.SH,下游,人形机器人,伺服/空心杯电机,变频器+伺服,AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_603416_sh,related_company,伺服电机,信捷电气,603416.SH,下游,人形机器人,伺服/空心杯电机,PLC+伺服,AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_003021_sz,related_company,伺服电机,兆威机电,003021.SZ,下游,人形机器人,伺服/空心杯电机,微型驱动系统,AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_002402_sz,related_company,伺服电机,和而泰,002402.SZ,下游,人形机器人,伺服/空心杯电机,智能控制器,AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_002747_sz,related_company,伺服电机,埃斯顿,002747.SZ,下游,人形机器人,伺服/空心杯电机,工业机器人+伺服,AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_002249_sz,related_company,伺服电机,大洋电机,002249.SZ,下游,人形机器人,伺服/空心杯电机,电机,AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_603350_sh,related_company,伺服电机,安乃达,603350.SH,下游,人形机器人,伺服/空心杯电机,电机驱动,AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_002801_sz,related_company,伺服电机,微光股份,002801.SZ,下游,人形机器人,伺服/空心杯电机,电机,AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_605555_sh,related_company,伺服电机,德昌股份,605555.SH,下游,人形机器人,伺服/空心杯电机,电机(家电/汽车),AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_002139_sz,related_company,伺服电机,拓邦股份,002139.SZ,下游,人形机器人,伺服/空心杯电机,智能控制器+电机,AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_002196_sz,related_company,伺服电机,方正电机,002196.SZ,下游,人形机器人,伺服/空心杯电机,汽车电机,AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_688160_sh,related_company,伺服电机,步科股份,688160.SH,下游,人形机器人,伺服/空心杯电机,低压伺服,AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_300124_sz,related_company,伺服电机,汇川技术,300124.SZ,下游,人形机器人,伺服/空心杯电机,工控全品类龙头,AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_002176_sz,related_company,伺服电机,江特电机,002176.SZ,下游,人形机器人,伺服/空心杯电机,电机+锂业,AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_300660_sz,related_company,伺服电机,江苏雷利,300660.SZ,下游,人形机器人,伺服/空心杯电机,微特电机,AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_688320_sh,related_company,伺服电机,禾川科技,688320.SH,下游,人形机器人,伺服/空心杯电机,伺服系统,AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_002979_sz,related_company,伺服电机,雷赛智能,002979.SZ,下游,人形机器人,伺服/空心杯电机,运动控制+伺服,AI细分行业相关标的（A股）.xlsx
+servo_motor_industry,company_603728_sh,related_company,伺服电机,鸣志电器,603728.SH,下游,人形机器人,伺服/空心杯电机,空心杯电机龙头(灵巧手),AI细分行业相关标的（A股）.xlsx
+robot_reducer_industry,company_002896_sz,related_company,机器人减速器,中大力德,002896.SZ,下游,人形机器人,减速器,行星+谐波减速器,AI细分行业相关标的（A股）.xlsx
+robot_reducer_industry,company_920608_bj,related_company,机器人减速器,丰安股份,920608.BJ,下游,人形机器人,减速器,齿轮,AI细分行业相关标的（A股）.xlsx
+robot_reducer_industry,company_301368_sz,related_company,机器人减速器,丰立智能,301368.SZ,下游,人形机器人,减速器,小模数齿轮+减速器,AI细分行业相关标的（A股）.xlsx
+robot_reducer_industry,company_603667_sh,related_company,机器人减速器,五洲新春,603667.SH,下游,人形机器人,减速器,轴承+精密零部件,AI细分行业相关标的（A股）.xlsx
+robot_reducer_industry,company_002708_sz,related_company,机器人减速器,光洋股份,002708.SZ,下游,人形机器人,减速器,轴承+减速器,AI细分行业相关标的（A股）.xlsx
+robot_reducer_industry,company_002553_sz,related_company,机器人减速器,南方精工,002553.SZ,下游,人形机器人,减速器,轴承+减速器,AI细分行业相关标的（A股）.xlsx
+robot_reducer_industry,company_002472_sz,related_company,机器人减速器,双环传动,002472.SZ,下游,人形机器人,减速器,RV减速器+精密齿轮,AI细分行业相关标的（A股）.xlsx
+robot_reducer_industry,company_002164_sz,related_company,机器人减速器,宁波东力,002164.SZ,下游,人形机器人,减速器,传动设备,AI细分行业相关标的（A股）.xlsx
+robot_reducer_industry,company_002031_sz,related_company,机器人减速器,巨轮智能,002031.SZ,下游,人形机器人,减速器,轮胎设备+RV减速器,AI细分行业相关标的（A股）.xlsx
+robot_reducer_industry,company_002527_sz,related_company,机器人减速器,新时达,002527.SZ,下游,人形机器人,减速器,机器人+电梯+减速器,AI细分行业相关标的（A股）.xlsx
+robot_reducer_industry,company_300503_sz,related_company,机器人减速器,昊志机电,300503.SZ,下游,人形机器人,减速器,谐波减速器+电主轴,AI细分行业相关标的（A股）.xlsx
+robot_reducer_industry,company_000837_sz,related_company,机器人减速器,秦川机床,000837.SZ,下游,人形机器人,减速器,机床+RV减速器,AI细分行业相关标的（A股）.xlsx
+robot_reducer_industry,company_688017_sh,related_company,机器人减速器,绿的谐波,688017.SH,下游,人形机器人,减速器,谐波减速器国内绝对龙头,AI细分行业相关标的（A股）.xlsx
+robot_reducer_industry,company_301255_sz,related_company,机器人减速器,通力科技,301255.SZ,下游,人形机器人,减速器,减速机,AI细分行业相关标的（A股）.xlsx
+humanoid_robot_body_integration_industry,company_002779_sz,related_company,人形机器人本体/系统集成,中坚科技,002779.SZ,下游,人形机器人,本体/系统集成,园林机械(转型机器人),AI细分行业相关标的（A股）.xlsx
+humanoid_robot_body_integration_industry,company_002698_sz,related_company,人形机器人本体/系统集成,博实股份,002698.SZ,下游,人形机器人,本体/系统集成,工业机器人,AI细分行业相关标的（A股）.xlsx
+humanoid_robot_body_integration_industry,company_688165_sh,related_company,人形机器人本体/系统集成,埃夫特,688165.SH,下游,人形机器人,本体/系统集成,工业机器人,AI细分行业相关标的（A股）.xlsx
+humanoid_robot_body_integration_industry,company_002747_sz,related_company,人形机器人本体/系统集成,埃斯顿,002747.SZ,下游,人形机器人,本体/系统集成,国内工业机器人龙头,AI细分行业相关标的（A股）.xlsx
+humanoid_robot_body_integration_industry,company_002009_sz,related_company,人形机器人本体/系统集成,天奇股份,002009.SZ,下游,人形机器人,本体/系统集成,自动化装备+锂电回收,AI细分行业相关标的（A股）.xlsx
+humanoid_robot_body_integration_industry,company_300607_sz,related_company,人形机器人本体/系统集成,拓斯达,300607.SZ,下游,人形机器人,本体/系统集成,工业自动化,AI细分行业相关标的（A股）.xlsx
+humanoid_robot_body_integration_industry,company_002527_sz,related_company,人形机器人本体/系统集成,新时达,002527.SZ,下游,人形机器人,本体/系统集成,机器人+电梯,AI细分行业相关标的（A股）.xlsx
+humanoid_robot_body_integration_industry,company_300024_sz,related_company,人形机器人本体/系统集成,机器人,300024.SZ,下游,人形机器人,本体/系统集成,新松机器人,AI细分行业相关标的（A股）.xlsx
+humanoid_robot_body_integration_industry,company_688169_sh,related_company,人形机器人本体/系统集成,石头科技,688169.SH,下游,人形机器人,本体/系统集成,扫地机器人,AI细分行业相关标的（A股）.xlsx
+humanoid_robot_body_integration_industry,company_603486_sh,related_company,人形机器人本体/系统集成,科沃斯,603486.SH,下游,人形机器人,本体/系统集成,扫地机器人,AI细分行业相关标的（A股）.xlsx
+humanoid_robot_body_integration_industry,company_301236_sz,related_company,人形机器人本体/系统集成,软通动力,301236.SZ,下游,人形机器人,本体/系统集成,IT服务+机器人,AI细分行业相关标的（A股）.xlsx
+dexterous_hand_industry,company_301368_sz,related_company,灵巧手,丰立智能,301368.SZ,下游,人形机器人,灵巧手,精密零部件,AI细分行业相关标的（A股）.xlsx
+dexterous_hand_industry,company_688698_sh,related_company,灵巧手,伟创电气,688698.SH,下游,人形机器人,灵巧手,伺服驱动,AI细分行业相关标的（A股）.xlsx
+dexterous_hand_industry,company_003021_sz,related_company,灵巧手,兆威机电,003021.SZ,下游,人形机器人,灵巧手,微型驱动系统,AI细分行业相关标的（A股）.xlsx
+dexterous_hand_industry,company_300660_sz,related_company,灵巧手,江苏雷利,300660.SZ,下游,人形机器人,灵巧手,微特电机,AI细分行业相关标的（A股）.xlsx
+dexterous_hand_industry,company_603728_sh,related_company,灵巧手,鸣志电器,603728.SH,下游,人形机器人,灵巧手,空心杯电机(灵巧手核心),AI细分行业相关标的（A股）.xlsx
+dexterous_hand_industry,company_920593_bj,related_company,灵巧手,鼎智科技,920593.BJ,下游,人形机器人,灵巧手,微型丝杠电机,AI细分行业相关标的（A股）.xlsx
+two_point_five_d_packaging_industry,company_688135_sh,related_company,2.5D/3D封装,利扬芯片,688135.SH,下游,先进封装,Chiplet/CoWoS/封测,IC测试,AI细分行业相关标的（A股）.xlsx
+chiplet_packaging_industry,company_688135_sh,related_company,Chiplet封装,利扬芯片,688135.SH,下游,先进封装,Chiplet/CoWoS/封测,IC测试,AI细分行业相关标的（A股）.xlsx
+cowos_packaging_industry,company_688135_sh,related_company,CoWoS封装,利扬芯片,688135.SH,下游,先进封装,Chiplet/CoWoS/封测,IC测试,AI细分行业相关标的（A股）.xlsx
+hbm_packaging_industry,company_688135_sh,related_company,HBM封装,利扬芯片,688135.SH,下游,先进封装,Chiplet/CoWoS/封测,IC测试,AI细分行业相关标的（A股）.xlsx
+ic_testing_service_industry,company_688135_sh,related_company,集成电路测试服务,利扬芯片,688135.SH,下游,先进封装,Chiplet/CoWoS/封测,IC测试,AI细分行业相关标的（A股）.xlsx
+two_point_five_d_packaging_industry,company_002185_sz,related_company,2.5D/3D封装,华天科技,002185.SZ,下游,先进封装,Chiplet/CoWoS/封测,封测三大厂之一,AI细分行业相关标的（A股）.xlsx
+chiplet_packaging_industry,company_002185_sz,related_company,Chiplet封装,华天科技,002185.SZ,下游,先进封装,Chiplet/CoWoS/封测,封测三大厂之一,AI细分行业相关标的（A股）.xlsx
+cowos_packaging_industry,company_002185_sz,related_company,CoWoS封装,华天科技,002185.SZ,下游,先进封装,Chiplet/CoWoS/封测,封测三大厂之一,AI细分行业相关标的（A股）.xlsx
+hbm_packaging_industry,company_002185_sz,related_company,HBM封装,华天科技,002185.SZ,下游,先进封装,Chiplet/CoWoS/封测,封测三大厂之一,AI细分行业相关标的（A股）.xlsx
+ic_testing_service_industry,company_002185_sz,related_company,集成电路测试服务,华天科技,002185.SZ,下游,先进封装,Chiplet/CoWoS/封测,封测三大厂之一,AI细分行业相关标的（A股）.xlsx
+two_point_five_d_packaging_industry,company_600460_sh,related_company,2.5D/3D封装,士兰微,600460.SH,下游,先进封装,Chiplet/CoWoS/封测,IDM+封测,AI细分行业相关标的（A股）.xlsx
+chiplet_packaging_industry,company_600460_sh,related_company,Chiplet封装,士兰微,600460.SH,下游,先进封装,Chiplet/CoWoS/封测,IDM+封测,AI细分行业相关标的（A股）.xlsx
+cowos_packaging_industry,company_600460_sh,related_company,CoWoS封装,士兰微,600460.SH,下游,先进封装,Chiplet/CoWoS/封测,IDM+封测,AI细分行业相关标的（A股）.xlsx
+hbm_packaging_industry,company_600460_sh,related_company,HBM封装,士兰微,600460.SH,下游,先进封装,Chiplet/CoWoS/封测,IDM+封测,AI细分行业相关标的（A股）.xlsx
+ic_testing_service_industry,company_600460_sh,related_company,集成电路测试服务,士兰微,600460.SH,下游,先进封装,Chiplet/CoWoS/封测,IDM+封测,AI细分行业相关标的（A股）.xlsx
+two_point_five_d_packaging_industry,company_002077_sz,related_company,2.5D/3D封装,大港股份,002077.SZ,下游,先进封装,Chiplet/CoWoS/封测,集成电路封测,AI细分行业相关标的（A股）.xlsx
+chiplet_packaging_industry,company_002077_sz,related_company,Chiplet封装,大港股份,002077.SZ,下游,先进封装,Chiplet/CoWoS/封测,集成电路封测,AI细分行业相关标的（A股）.xlsx
+cowos_packaging_industry,company_002077_sz,related_company,CoWoS封装,大港股份,002077.SZ,下游,先进封装,Chiplet/CoWoS/封测,集成电路封测,AI细分行业相关标的（A股）.xlsx
+hbm_packaging_industry,company_002077_sz,related_company,HBM封装,大港股份,002077.SZ,下游,先进封装,Chiplet/CoWoS/封测,集成电路封测,AI细分行业相关标的（A股）.xlsx
+ic_testing_service_industry,company_002077_sz,related_company,集成电路测试服务,大港股份,002077.SZ,下游,先进封装,Chiplet/CoWoS/封测,集成电路封测,AI细分行业相关标的（A股）.xlsx
+two_point_five_d_packaging_industry,company_603005_sh,related_company,2.5D/3D封装,晶方科技,603005.SH,下游,先进封装,Chiplet/CoWoS/封测,晶圆级封装,AI细分行业相关标的（A股）.xlsx
+chiplet_packaging_industry,company_603005_sh,related_company,Chiplet封装,晶方科技,603005.SH,下游,先进封装,Chiplet/CoWoS/封测,晶圆级封装,AI细分行业相关标的（A股）.xlsx
+cowos_packaging_industry,company_603005_sh,related_company,CoWoS封装,晶方科技,603005.SH,下游,先进封装,Chiplet/CoWoS/封测,晶圆级封装,AI细分行业相关标的（A股）.xlsx
+hbm_packaging_industry,company_603005_sh,related_company,HBM封装,晶方科技,603005.SH,下游,先进封装,Chiplet/CoWoS/封测,晶圆级封装,AI细分行业相关标的（A股）.xlsx
+ic_testing_service_industry,company_603005_sh,related_company,集成电路测试服务,晶方科技,603005.SH,下游,先进封装,Chiplet/CoWoS/封测,晶圆级封装,AI细分行业相关标的（A股）.xlsx
+two_point_five_d_packaging_industry,company_688216_sh,related_company,2.5D/3D封装,气派科技,688216.SH,下游,先进封装,Chiplet/CoWoS/封测,封装测试,AI细分行业相关标的（A股）.xlsx
+chiplet_packaging_industry,company_688216_sh,related_company,Chiplet封装,气派科技,688216.SH,下游,先进封装,Chiplet/CoWoS/封测,封装测试,AI细分行业相关标的（A股）.xlsx
+cowos_packaging_industry,company_688216_sh,related_company,CoWoS封装,气派科技,688216.SH,下游,先进封装,Chiplet/CoWoS/封测,封装测试,AI细分行业相关标的（A股）.xlsx
+hbm_packaging_industry,company_688216_sh,related_company,HBM封装,气派科技,688216.SH,下游,先进封装,Chiplet/CoWoS/封测,封装测试,AI细分行业相关标的（A股）.xlsx
+ic_testing_service_industry,company_688216_sh,related_company,集成电路测试服务,气派科技,688216.SH,下游,先进封装,Chiplet/CoWoS/封测,封装测试,AI细分行业相关标的（A股）.xlsx
+two_point_five_d_packaging_industry,company_688403_sh,related_company,2.5D/3D封装,汇成股份,688403.SH,下游,先进封装,Chiplet/CoWoS/封测,显示驱动芯片封测,AI细分行业相关标的（A股）.xlsx
+chiplet_packaging_industry,company_688403_sh,related_company,Chiplet封装,汇成股份,688403.SH,下游,先进封装,Chiplet/CoWoS/封测,显示驱动芯片封测,AI细分行业相关标的（A股）.xlsx
+cowos_packaging_industry,company_688403_sh,related_company,CoWoS封装,汇成股份,688403.SH,下游,先进封装,Chiplet/CoWoS/封测,显示驱动芯片封测,AI细分行业相关标的（A股）.xlsx
+hbm_packaging_industry,company_688403_sh,related_company,HBM封装,汇成股份,688403.SH,下游,先进封装,Chiplet/CoWoS/封测,显示驱动芯片封测,AI细分行业相关标的（A股）.xlsx
+ic_testing_service_industry,company_688403_sh,related_company,集成电路测试服务,汇成股份,688403.SH,下游,先进封装,Chiplet/CoWoS/封测,显示驱动芯片封测,AI细分行业相关标的（A股）.xlsx
+two_point_five_d_packaging_industry,company_000021_sz,related_company,2.5D/3D封装,深科技,000021.SZ,下游,先进封装,Chiplet/CoWoS/封测,存储封测,AI细分行业相关标的（A股）.xlsx
+chiplet_packaging_industry,company_000021_sz,related_company,Chiplet封装,深科技,000021.SZ,下游,先进封装,Chiplet/CoWoS/封测,存储封测,AI细分行业相关标的（A股）.xlsx
+cowos_packaging_industry,company_000021_sz,related_company,CoWoS封装,深科技,000021.SZ,下游,先进封装,Chiplet/CoWoS/封测,存储封测,AI细分行业相关标的（A股）.xlsx
+hbm_packaging_industry,company_000021_sz,related_company,HBM封装,深科技,000021.SZ,下游,先进封装,Chiplet/CoWoS/封测,存储封测,AI细分行业相关标的（A股）.xlsx
+ic_testing_service_industry,company_000021_sz,related_company,集成电路测试服务,深科技,000021.SZ,下游,先进封装,Chiplet/CoWoS/封测,存储封测,AI细分行业相关标的（A股）.xlsx
+two_point_five_d_packaging_industry,company_688362_sh,related_company,2.5D/3D封装,甬矽电子,688362.SH,下游,先进封装,Chiplet/CoWoS/封测,高端封测,AI细分行业相关标的（A股）.xlsx
+chiplet_packaging_industry,company_688362_sh,related_company,Chiplet封装,甬矽电子,688362.SH,下游,先进封装,Chiplet/CoWoS/封测,高端封测,AI细分行业相关标的（A股）.xlsx
+cowos_packaging_industry,company_688362_sh,related_company,CoWoS封装,甬矽电子,688362.SH,下游,先进封装,Chiplet/CoWoS/封测,高端封测,AI细分行业相关标的（A股）.xlsx
+hbm_packaging_industry,company_688362_sh,related_company,HBM封装,甬矽电子,688362.SH,下游,先进封装,Chiplet/CoWoS/封测,高端封测,AI细分行业相关标的（A股）.xlsx
+ic_testing_service_industry,company_688362_sh,related_company,集成电路测试服务,甬矽电子,688362.SH,下游,先进封装,Chiplet/CoWoS/封测,高端封测,AI细分行业相关标的（A股）.xlsx
+two_point_five_d_packaging_industry,company_688521_sh,related_company,2.5D/3D封装,芯原股份,688521.SH,下游,先进封装,Chiplet/CoWoS/封测,Chiplet IP核心供应商,AI细分行业相关标的（A股）.xlsx
+chiplet_packaging_industry,company_688521_sh,related_company,Chiplet封装,芯原股份,688521.SH,下游,先进封装,Chiplet/CoWoS/封测,Chiplet IP核心供应商,AI细分行业相关标的（A股）.xlsx
+cowos_packaging_industry,company_688521_sh,related_company,CoWoS封装,芯原股份,688521.SH,下游,先进封装,Chiplet/CoWoS/封测,Chiplet IP核心供应商,AI细分行业相关标的（A股）.xlsx
+hbm_packaging_industry,company_688521_sh,related_company,HBM封装,芯原股份,688521.SH,下游,先进封装,Chiplet/CoWoS/封测,Chiplet IP核心供应商,AI细分行业相关标的（A股）.xlsx
+ic_testing_service_industry,company_688521_sh,related_company,集成电路测试服务,芯原股份,688521.SH,下游,先进封装,Chiplet/CoWoS/封测,Chiplet IP核心供应商,AI细分行业相关标的（A股）.xlsx
+two_point_five_d_packaging_industry,company_002156_sz,related_company,2.5D/3D封装,通富微电,002156.SZ,下游,先进封装,Chiplet/CoWoS/封测,AMD封装核心合作伙伴,AI细分行业相关标的（A股）.xlsx
+chiplet_packaging_industry,company_002156_sz,related_company,Chiplet封装,通富微电,002156.SZ,下游,先进封装,Chiplet/CoWoS/封测,AMD封装核心合作伙伴,AI细分行业相关标的（A股）.xlsx
+cowos_packaging_industry,company_002156_sz,related_company,CoWoS封装,通富微电,002156.SZ,下游,先进封装,Chiplet/CoWoS/封测,AMD封装核心合作伙伴,AI细分行业相关标的（A股）.xlsx
+hbm_packaging_industry,company_002156_sz,related_company,HBM封装,通富微电,002156.SZ,下游,先进封装,Chiplet/CoWoS/封测,AMD封装核心合作伙伴,AI细分行业相关标的（A股）.xlsx
+ic_testing_service_industry,company_002156_sz,related_company,集成电路测试服务,通富微电,002156.SZ,下游,先进封装,Chiplet/CoWoS/封测,AMD封装核心合作伙伴,AI细分行业相关标的（A股）.xlsx
+two_point_five_d_packaging_industry,company_600584_sh,related_company,2.5D/3D封装,长电科技,600584.SH,下游,先进封装,Chiplet/CoWoS/封测,国内封测绝对龙头,AI细分行业相关标的（A股）.xlsx
+chiplet_packaging_industry,company_600584_sh,related_company,Chiplet封装,长电科技,600584.SH,下游,先进封装,Chiplet/CoWoS/封测,国内封测绝对龙头,AI细分行业相关标的（A股）.xlsx
+cowos_packaging_industry,company_600584_sh,related_company,CoWoS封装,长电科技,600584.SH,下游,先进封装,Chiplet/CoWoS/封测,国内封测绝对龙头,AI细分行业相关标的（A股）.xlsx
+hbm_packaging_industry,company_600584_sh,related_company,HBM封装,长电科技,600584.SH,下游,先进封装,Chiplet/CoWoS/封测,国内封测绝对龙头,AI细分行业相关标的（A股）.xlsx
+ic_testing_service_industry,company_600584_sh,related_company,集成电路测试服务,长电科技,600584.SH,下游,先进封装,Chiplet/CoWoS/封测,国内封测绝对龙头,AI细分行业相关标的（A股）.xlsx
+two_point_five_d_packaging_industry,company_688352_sh,related_company,2.5D/3D封装,颀中科技,688352.SH,下游,先进封装,Chiplet/CoWoS/封测,显示驱动封测,AI细分行业相关标的（A股）.xlsx
+chiplet_packaging_industry,company_688352_sh,related_company,Chiplet封装,颀中科技,688352.SH,下游,先进封装,Chiplet/CoWoS/封测,显示驱动封测,AI细分行业相关标的（A股）.xlsx
+cowos_packaging_industry,company_688352_sh,related_company,CoWoS封装,颀中科技,688352.SH,下游,先进封装,Chiplet/CoWoS/封测,显示驱动封测,AI细分行业相关标的（A股）.xlsx
+hbm_packaging_industry,company_688352_sh,related_company,HBM封装,颀中科技,688352.SH,下游,先进封装,Chiplet/CoWoS/封测,显示驱动封测,AI细分行业相关标的（A股）.xlsx
+ic_testing_service_industry,company_688352_sh,related_company,集成电路测试服务,颀中科技,688352.SH,下游,先进封装,Chiplet/CoWoS/封测,显示驱动封测,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_300684_sz,related_company,AIPC存储器,中石科技,300684.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_300684_sz,related_company,AIPC散热,中石科技,300684.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_300684_sz,related_company,AIPC整机设备,中石科技,300684.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_300684_sz,related_company,AIPC芯片,中石科技,300684.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_300684_sz,related_company,AI眼镜整机组装,中石科技,300684.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_300684_sz,related_company,手机AI芯片,中石科技,300684.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_300684_sz,related_company,手机存储器,中石科技,300684.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_300684_sz,related_company,手机摄像,中石科技,300684.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_300684_sz,related_company,手机散热,中石科技,300684.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_301387_sz,related_company,AIPC存储器,光大同创,301387.SZ,下游,智能终端,AI手机/AI PC,消费电子防护材料,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_301387_sz,related_company,AIPC散热,光大同创,301387.SZ,下游,智能终端,AI手机/AI PC,消费电子防护材料,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_301387_sz,related_company,AIPC整机设备,光大同创,301387.SZ,下游,智能终端,AI手机/AI PC,消费电子防护材料,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_301387_sz,related_company,AIPC芯片,光大同创,301387.SZ,下游,智能终端,AI手机/AI PC,消费电子防护材料,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_301387_sz,related_company,AI眼镜整机组装,光大同创,301387.SZ,下游,智能终端,AI手机/AI PC,消费电子防护材料,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_301387_sz,related_company,手机AI芯片,光大同创,301387.SZ,下游,智能终端,AI手机/AI PC,消费电子防护材料,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_301387_sz,related_company,手机存储器,光大同创,301387.SZ,下游,智能终端,AI手机/AI PC,消费电子防护材料,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_301387_sz,related_company,手机摄像,光大同创,301387.SZ,下游,智能终端,AI手机/AI PC,消费电子防护材料,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_301387_sz,related_company,手机散热,光大同创,301387.SZ,下游,智能终端,AI手机/AI PC,消费电子防护材料,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_603296_sh,related_company,AIPC存储器,华勤技术,603296.SH,下游,智能终端,AI手机/AI PC,ODM龙头,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_603296_sh,related_company,AIPC散热,华勤技术,603296.SH,下游,智能终端,AI手机/AI PC,ODM龙头,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_603296_sh,related_company,AIPC整机设备,华勤技术,603296.SH,下游,智能终端,AI手机/AI PC,ODM龙头,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_603296_sh,related_company,AIPC芯片,华勤技术,603296.SH,下游,智能终端,AI手机/AI PC,ODM龙头,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_603296_sh,related_company,AI眼镜整机组装,华勤技术,603296.SH,下游,智能终端,AI手机/AI PC,ODM龙头,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_603296_sh,related_company,手机AI芯片,华勤技术,603296.SH,下游,智能终端,AI手机/AI PC,ODM龙头,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_603296_sh,related_company,手机存储器,华勤技术,603296.SH,下游,智能终端,AI手机/AI PC,ODM龙头,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_603296_sh,related_company,手机摄像,华勤技术,603296.SH,下游,智能终端,AI手机/AI PC,ODM龙头,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_603296_sh,related_company,手机散热,华勤技术,603296.SH,下游,智能终端,AI手机/AI PC,ODM龙头,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_000049_sz,related_company,AIPC存储器,德赛电池,000049.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_000049_sz,related_company,AIPC散热,德赛电池,000049.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_000049_sz,related_company,AIPC整机设备,德赛电池,000049.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_000049_sz,related_company,AIPC芯片,德赛电池,000049.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_000049_sz,related_company,AI眼镜整机组装,德赛电池,000049.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_000049_sz,related_company,手机AI芯片,德赛电池,000049.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_000049_sz,related_company,手机存储器,德赛电池,000049.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_000049_sz,related_company,手机摄像,德赛电池,000049.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_000049_sz,related_company,手机散热,德赛电池,000049.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_301489_sz,related_company,AIPC存储器,思泉新材,301489.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_301489_sz,related_company,AIPC散热,思泉新材,301489.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_301489_sz,related_company,AIPC整机设备,思泉新材,301489.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_301489_sz,related_company,AIPC芯片,思泉新材,301489.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_301489_sz,related_company,AI眼镜整机组装,思泉新材,301489.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_301489_sz,related_company,手机AI芯片,思泉新材,301489.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_301489_sz,related_company,手机存储器,思泉新材,301489.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_301489_sz,related_company,手机摄像,思泉新材,301489.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_301489_sz,related_company,手机散热,思泉新材,301489.SZ,下游,智能终端,AI手机/AI PC,热管理材料,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_603890_sh,related_company,AIPC存储器,春秋电子,603890.SH,下游,智能终端,AI手机/AI PC,笔记本结构件,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_603890_sh,related_company,AIPC散热,春秋电子,603890.SH,下游,智能终端,AI手机/AI PC,笔记本结构件,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_603890_sh,related_company,AIPC整机设备,春秋电子,603890.SH,下游,智能终端,AI手机/AI PC,笔记本结构件,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_603890_sh,related_company,AIPC芯片,春秋电子,603890.SH,下游,智能终端,AI手机/AI PC,笔记本结构件,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_603890_sh,related_company,AI眼镜整机组装,春秋电子,603890.SH,下游,智能终端,AI手机/AI PC,笔记本结构件,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_603890_sh,related_company,手机AI芯片,春秋电子,603890.SH,下游,智能终端,AI手机/AI PC,笔记本结构件,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_603890_sh,related_company,手机存储器,春秋电子,603890.SH,下游,智能终端,AI手机/AI PC,笔记本结构件,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_603890_sh,related_company,手机摄像,春秋电子,603890.SH,下游,智能终端,AI手机/AI PC,笔记本结构件,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_603890_sh,related_company,手机散热,春秋电子,603890.SH,下游,智能终端,AI手机/AI PC,笔记本结构件,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_300207_sz,related_company,AIPC存储器,欣旺达,300207.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_300207_sz,related_company,AIPC散热,欣旺达,300207.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_300207_sz,related_company,AIPC整机设备,欣旺达,300207.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_300207_sz,related_company,AIPC芯片,欣旺达,300207.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_300207_sz,related_company,AI眼镜整机组装,欣旺达,300207.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_300207_sz,related_company,手机AI芯片,欣旺达,300207.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_300207_sz,related_company,手机存储器,欣旺达,300207.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_300207_sz,related_company,手机摄像,欣旺达,300207.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_300207_sz,related_company,手机散热,欣旺达,300207.SZ,下游,智能终端,AI手机/AI PC,锂电池,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_002456_sz,related_company,AIPC存储器,欧菲光,002456.SZ,下游,智能终端,AI手机/AI PC,光学器件,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_002456_sz,related_company,AIPC散热,欧菲光,002456.SZ,下游,智能终端,AI手机/AI PC,光学器件,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_002456_sz,related_company,AIPC整机设备,欧菲光,002456.SZ,下游,智能终端,AI手机/AI PC,光学器件,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_002456_sz,related_company,AIPC芯片,欧菲光,002456.SZ,下游,智能终端,AI手机/AI PC,光学器件,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_002456_sz,related_company,AI眼镜整机组装,欧菲光,002456.SZ,下游,智能终端,AI手机/AI PC,光学器件,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_002456_sz,related_company,手机AI芯片,欧菲光,002456.SZ,下游,智能终端,AI手机/AI PC,光学器件,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_002456_sz,related_company,手机存储器,欧菲光,002456.SZ,下游,智能终端,AI手机/AI PC,光学器件,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_002456_sz,related_company,手机摄像,欧菲光,002456.SZ,下游,智能终端,AI手机/AI PC,光学器件,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_002456_sz,related_company,手机散热,欧菲光,002456.SZ,下游,智能终端,AI手机/AI PC,光学器件,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_002241_sz,related_company,AIPC存储器,歌尔股份,002241.SZ,下游,智能终端,AI手机/AI PC,声学+VR/AR,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_002241_sz,related_company,AIPC散热,歌尔股份,002241.SZ,下游,智能终端,AI手机/AI PC,声学+VR/AR,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_002241_sz,related_company,AIPC整机设备,歌尔股份,002241.SZ,下游,智能终端,AI手机/AI PC,声学+VR/AR,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_002241_sz,related_company,AIPC芯片,歌尔股份,002241.SZ,下游,智能终端,AI手机/AI PC,声学+VR/AR,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_002241_sz,related_company,AI眼镜整机组装,歌尔股份,002241.SZ,下游,智能终端,AI手机/AI PC,声学+VR/AR,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_002241_sz,related_company,手机AI芯片,歌尔股份,002241.SZ,下游,智能终端,AI手机/AI PC,声学+VR/AR,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_002241_sz,related_company,手机存储器,歌尔股份,002241.SZ,下游,智能终端,AI手机/AI PC,声学+VR/AR,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_002241_sz,related_company,手机摄像,歌尔股份,002241.SZ,下游,智能终端,AI手机/AI PC,声学+VR/AR,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_002241_sz,related_company,手机散热,歌尔股份,002241.SZ,下游,智能终端,AI手机/AI PC,声学+VR/AR,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_002273_sz,related_company,AIPC存储器,水晶光电,002273.SZ,下游,智能终端,AI手机/AI PC,光学光电子,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_002273_sz,related_company,AIPC散热,水晶光电,002273.SZ,下游,智能终端,AI手机/AI PC,光学光电子,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_002273_sz,related_company,AIPC整机设备,水晶光电,002273.SZ,下游,智能终端,AI手机/AI PC,光学光电子,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_002273_sz,related_company,AIPC芯片,水晶光电,002273.SZ,下游,智能终端,AI手机/AI PC,光学光电子,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_002273_sz,related_company,AI眼镜整机组装,水晶光电,002273.SZ,下游,智能终端,AI手机/AI PC,光学光电子,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_002273_sz,related_company,手机AI芯片,水晶光电,002273.SZ,下游,智能终端,AI手机/AI PC,光学光电子,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_002273_sz,related_company,手机存储器,水晶光电,002273.SZ,下游,智能终端,AI手机/AI PC,光学光电子,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_002273_sz,related_company,手机摄像,水晶光电,002273.SZ,下游,智能终端,AI手机/AI PC,光学光电子,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_002273_sz,related_company,手机散热,水晶光电,002273.SZ,下游,智能终端,AI手机/AI PC,光学光电子,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_603327_sh,related_company,AIPC存储器,福蓉科技,603327.SH,下游,智能终端,AI手机/AI PC,消费电子铝材,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_603327_sh,related_company,AIPC散热,福蓉科技,603327.SH,下游,智能终端,AI手机/AI PC,消费电子铝材,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_603327_sh,related_company,AIPC整机设备,福蓉科技,603327.SH,下游,智能终端,AI手机/AI PC,消费电子铝材,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_603327_sh,related_company,AIPC芯片,福蓉科技,603327.SH,下游,智能终端,AI手机/AI PC,消费电子铝材,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_603327_sh,related_company,AI眼镜整机组装,福蓉科技,603327.SH,下游,智能终端,AI手机/AI PC,消费电子铝材,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_603327_sh,related_company,手机AI芯片,福蓉科技,603327.SH,下游,智能终端,AI手机/AI PC,消费电子铝材,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_603327_sh,related_company,手机存储器,福蓉科技,603327.SH,下游,智能终端,AI手机/AI PC,消费电子铝材,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_603327_sh,related_company,手机摄像,福蓉科技,603327.SH,下游,智能终端,AI手机/AI PC,消费电子铝材,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_603327_sh,related_company,手机散热,福蓉科技,603327.SH,下游,智能终端,AI手机/AI PC,消费电子铝材,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_002475_sz,related_company,AIPC存储器,立讯精密,002475.SZ,下游,智能终端,AI手机/AI PC,零部件+组装综合龙头,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_002475_sz,related_company,AIPC散热,立讯精密,002475.SZ,下游,智能终端,AI手机/AI PC,零部件+组装综合龙头,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_002475_sz,related_company,AIPC整机设备,立讯精密,002475.SZ,下游,智能终端,AI手机/AI PC,零部件+组装综合龙头,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_002475_sz,related_company,AIPC芯片,立讯精密,002475.SZ,下游,智能终端,AI手机/AI PC,零部件+组装综合龙头,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_002475_sz,related_company,AI眼镜整机组装,立讯精密,002475.SZ,下游,智能终端,AI手机/AI PC,零部件+组装综合龙头,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_002475_sz,related_company,手机AI芯片,立讯精密,002475.SZ,下游,智能终端,AI手机/AI PC,零部件+组装综合龙头,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_002475_sz,related_company,手机存储器,立讯精密,002475.SZ,下游,智能终端,AI手机/AI PC,零部件+组装综合龙头,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_002475_sz,related_company,手机摄像,立讯精密,002475.SZ,下游,智能终端,AI手机/AI PC,零部件+组装综合龙头,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_002475_sz,related_company,手机散热,立讯精密,002475.SZ,下游,智能终端,AI手机/AI PC,零部件+组装综合龙头,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_301209_sz,related_company,AIPC存储器,英力股份,301209.SZ,下游,智能终端,AI手机/AI PC,笔记本电脑结构件,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_301209_sz,related_company,AIPC散热,英力股份,301209.SZ,下游,智能终端,AI手机/AI PC,笔记本电脑结构件,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_301209_sz,related_company,AIPC整机设备,英力股份,301209.SZ,下游,智能终端,AI手机/AI PC,笔记本电脑结构件,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_301209_sz,related_company,AIPC芯片,英力股份,301209.SZ,下游,智能终端,AI手机/AI PC,笔记本电脑结构件,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_301209_sz,related_company,AI眼镜整机组装,英力股份,301209.SZ,下游,智能终端,AI手机/AI PC,笔记本电脑结构件,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_301209_sz,related_company,手机AI芯片,英力股份,301209.SZ,下游,智能终端,AI手机/AI PC,笔记本电脑结构件,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_301209_sz,related_company,手机存储器,英力股份,301209.SZ,下游,智能终端,AI手机/AI PC,笔记本电脑结构件,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_301209_sz,related_company,手机摄像,英力股份,301209.SZ,下游,智能终端,AI手机/AI PC,笔记本电脑结构件,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_301209_sz,related_company,手机散热,英力股份,301209.SZ,下游,智能终端,AI手机/AI PC,笔记本电脑结构件,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_300433_sz,related_company,AIPC存储器,蓝思科技,300433.SZ,下游,智能终端,AI手机/AI PC,玻璃盖板龙头,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_300433_sz,related_company,AIPC散热,蓝思科技,300433.SZ,下游,智能终端,AI手机/AI PC,玻璃盖板龙头,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_300433_sz,related_company,AIPC整机设备,蓝思科技,300433.SZ,下游,智能终端,AI手机/AI PC,玻璃盖板龙头,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_300433_sz,related_company,AIPC芯片,蓝思科技,300433.SZ,下游,智能终端,AI手机/AI PC,玻璃盖板龙头,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_300433_sz,related_company,AI眼镜整机组装,蓝思科技,300433.SZ,下游,智能终端,AI手机/AI PC,玻璃盖板龙头,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_300433_sz,related_company,手机AI芯片,蓝思科技,300433.SZ,下游,智能终端,AI手机/AI PC,玻璃盖板龙头,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_300433_sz,related_company,手机存储器,蓝思科技,300433.SZ,下游,智能终端,AI手机/AI PC,玻璃盖板龙头,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_300433_sz,related_company,手机摄像,蓝思科技,300433.SZ,下游,智能终端,AI手机/AI PC,玻璃盖板龙头,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_300433_sz,related_company,手机散热,蓝思科技,300433.SZ,下游,智能终端,AI手机/AI PC,玻璃盖板龙头,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_300115_sz,related_company,AIPC存储器,长盈精密,300115.SZ,下游,智能终端,AI手机/AI PC,精密结构件,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_300115_sz,related_company,AIPC散热,长盈精密,300115.SZ,下游,智能终端,AI手机/AI PC,精密结构件,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_300115_sz,related_company,AIPC整机设备,长盈精密,300115.SZ,下游,智能终端,AI手机/AI PC,精密结构件,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_300115_sz,related_company,AIPC芯片,长盈精密,300115.SZ,下游,智能终端,AI手机/AI PC,精密结构件,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_300115_sz,related_company,AI眼镜整机组装,长盈精密,300115.SZ,下游,智能终端,AI手机/AI PC,精密结构件,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_300115_sz,related_company,手机AI芯片,长盈精密,300115.SZ,下游,智能终端,AI手机/AI PC,精密结构件,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_300115_sz,related_company,手机存储器,长盈精密,300115.SZ,下游,智能终端,AI手机/AI PC,精密结构件,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_300115_sz,related_company,手机摄像,长盈精密,300115.SZ,下游,智能终端,AI手机/AI PC,精密结构件,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_300115_sz,related_company,手机散热,长盈精密,300115.SZ,下游,智能终端,AI手机/AI PC,精密结构件,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_301389_sz,related_company,AIPC存储器,隆扬电子,301389.SZ,下游,智能终端,AI手机/AI PC,电磁屏蔽材料,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_301389_sz,related_company,AIPC散热,隆扬电子,301389.SZ,下游,智能终端,AI手机/AI PC,电磁屏蔽材料,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_301389_sz,related_company,AIPC整机设备,隆扬电子,301389.SZ,下游,智能终端,AI手机/AI PC,电磁屏蔽材料,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_301389_sz,related_company,AIPC芯片,隆扬电子,301389.SZ,下游,智能终端,AI手机/AI PC,电磁屏蔽材料,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_301389_sz,related_company,AI眼镜整机组装,隆扬电子,301389.SZ,下游,智能终端,AI手机/AI PC,电磁屏蔽材料,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_301389_sz,related_company,手机AI芯片,隆扬电子,301389.SZ,下游,智能终端,AI手机/AI PC,电磁屏蔽材料,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_301389_sz,related_company,手机存储器,隆扬电子,301389.SZ,下游,智能终端,AI手机/AI PC,电磁屏蔽材料,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_301389_sz,related_company,手机摄像,隆扬电子,301389.SZ,下游,智能终端,AI手机/AI PC,电磁屏蔽材料,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_301389_sz,related_company,手机散热,隆扬电子,301389.SZ,下游,智能终端,AI手机/AI PC,电磁屏蔽材料,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_002600_sz,related_company,AIPC存储器,领益智造,002600.SZ,下游,智能终端,AI手机/AI PC,精密功能件,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_002600_sz,related_company,AIPC散热,领益智造,002600.SZ,下游,智能终端,AI手机/AI PC,精密功能件,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_002600_sz,related_company,AIPC整机设备,领益智造,002600.SZ,下游,智能终端,AI手机/AI PC,精密功能件,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_002600_sz,related_company,AIPC芯片,领益智造,002600.SZ,下游,智能终端,AI手机/AI PC,精密功能件,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_002600_sz,related_company,AI眼镜整机组装,领益智造,002600.SZ,下游,智能终端,AI手机/AI PC,精密功能件,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_002600_sz,related_company,手机AI芯片,领益智造,002600.SZ,下游,智能终端,AI手机/AI PC,精密功能件,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_002600_sz,related_company,手机存储器,领益智造,002600.SZ,下游,智能终端,AI手机/AI PC,精密功能件,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_002600_sz,related_company,手机摄像,领益智造,002600.SZ,下游,智能终端,AI手机/AI PC,精密功能件,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_002600_sz,related_company,手机散热,领益智造,002600.SZ,下游,智能终端,AI手机/AI PC,精密功能件,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_300602_sz,related_company,AIPC存储器,飞荣达,300602.SZ,下游,智能终端,AI手机/AI PC,散热材料,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_300602_sz,related_company,AIPC散热,飞荣达,300602.SZ,下游,智能终端,AI手机/AI PC,散热材料,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_300602_sz,related_company,AIPC整机设备,飞荣达,300602.SZ,下游,智能终端,AI手机/AI PC,散热材料,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_300602_sz,related_company,AIPC芯片,飞荣达,300602.SZ,下游,智能终端,AI手机/AI PC,散热材料,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_300602_sz,related_company,AI眼镜整机组装,飞荣达,300602.SZ,下游,智能终端,AI手机/AI PC,散热材料,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_300602_sz,related_company,手机AI芯片,飞荣达,300602.SZ,下游,智能终端,AI手机/AI PC,散热材料,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_300602_sz,related_company,手机存储器,飞荣达,300602.SZ,下游,智能终端,AI手机/AI PC,散热材料,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_300602_sz,related_company,手机摄像,飞荣达,300602.SZ,下游,智能终端,AI手机/AI PC,散热材料,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_300602_sz,related_company,手机散热,飞荣达,300602.SZ,下游,智能终端,AI手机/AI PC,散热材料,AI细分行业相关标的（A股）.xlsx
+aipc_memory_industry,company_603341_sh,related_company,AIPC存储器,龙旗科技,603341.SH,下游,智能终端,AI手机/AI PC,ODM,AI细分行业相关标的（A股）.xlsx
+aipc_heat_dissipation_industry,company_603341_sh,related_company,AIPC散热,龙旗科技,603341.SH,下游,智能终端,AI手机/AI PC,ODM,AI细分行业相关标的（A股）.xlsx
+aipc_equipment_industry,company_603341_sh,related_company,AIPC整机设备,龙旗科技,603341.SH,下游,智能终端,AI手机/AI PC,ODM,AI细分行业相关标的（A股）.xlsx
+aipc_chip_industry,company_603341_sh,related_company,AIPC芯片,龙旗科技,603341.SH,下游,智能终端,AI手机/AI PC,ODM,AI细分行业相关标的（A股）.xlsx
+ai_glasses_assembly_industry,company_603341_sh,related_company,AI眼镜整机组装,龙旗科技,603341.SH,下游,智能终端,AI手机/AI PC,ODM,AI细分行业相关标的（A股）.xlsx
+phone_ai_chip_industry,company_603341_sh,related_company,手机AI芯片,龙旗科技,603341.SH,下游,智能终端,AI手机/AI PC,ODM,AI细分行业相关标的（A股）.xlsx
+phone_memory_industry,company_603341_sh,related_company,手机存储器,龙旗科技,603341.SH,下游,智能终端,AI手机/AI PC,ODM,AI细分行业相关标的（A股）.xlsx
+phone_camera_industry,company_603341_sh,related_company,手机摄像,龙旗科技,603341.SH,下游,智能终端,AI手机/AI PC,ODM,AI细分行业相关标的（A股）.xlsx
+phone_heat_dissipation_industry,company_603341_sh,related_company,手机散热,龙旗科技,603341.SH,下游,智能终端,AI手机/AI PC,ODM,AI细分行业相关标的（A股）.xlsx
+adas_software_industry,company_300496_sz,related_company,ADAS与自动驾驶软件,中科创达,300496.SZ,下游,智能驾驶,域控/座舱/执行,智能汽车操作系统,AI细分行业相关标的（A股）.xlsx
+domain_controller_industry,company_300496_sz,related_company,域控制器,中科创达,300496.SZ,下游,智能驾驶,域控/座舱/执行,智能汽车操作系统,AI细分行业相关标的（A股）.xlsx
+air_suspension_industry,company_300496_sz,related_company,空气悬架,中科创达,300496.SZ,下游,智能驾驶,域控/座舱/执行,智能汽车操作系统,AI细分行业相关标的（A股）.xlsx
+brake_by_wire_industry,company_300496_sz,related_company,线控制动,中科创达,300496.SZ,下游,智能驾驶,域控/座舱/执行,智能汽车操作系统,AI细分行业相关标的（A股）.xlsx
+steer_by_wire_industry,company_300496_sz,related_company,线控转向,中科创达,300496.SZ,下游,智能驾驶,域控/座舱/执行,智能汽车操作系统,AI细分行业相关标的（A股）.xlsx
+autonomous_driving_chip_industry,company_300496_sz,related_company,自动驾驶芯片,中科创达,300496.SZ,下游,智能驾驶,域控/座舱/执行,智能汽车操作系统,AI细分行业相关标的（A股）.xlsx
+vehicle_information_terminal_industry,company_300496_sz,related_company,车载信息终端设备,中科创达,300496.SZ,下游,智能驾驶,域控/座舱/执行,智能汽车操作系统,AI细分行业相关标的（A股）.xlsx
+adas_software_industry,company_603596_sh,related_company,ADAS与自动驾驶软件,伯特利,603596.SH,下游,智能驾驶,域控/座舱/执行,线控制动龙头,AI细分行业相关标的（A股）.xlsx
+domain_controller_industry,company_603596_sh,related_company,域控制器,伯特利,603596.SH,下游,智能驾驶,域控/座舱/执行,线控制动龙头,AI细分行业相关标的（A股）.xlsx
+air_suspension_industry,company_603596_sh,related_company,空气悬架,伯特利,603596.SH,下游,智能驾驶,域控/座舱/执行,线控制动龙头,AI细分行业相关标的（A股）.xlsx
+brake_by_wire_industry,company_603596_sh,related_company,线控制动,伯特利,603596.SH,下游,智能驾驶,域控/座舱/执行,线控制动龙头,AI细分行业相关标的（A股）.xlsx
+steer_by_wire_industry,company_603596_sh,related_company,线控转向,伯特利,603596.SH,下游,智能驾驶,域控/座舱/执行,线控制动龙头,AI细分行业相关标的（A股）.xlsx
+autonomous_driving_chip_industry,company_603596_sh,related_company,自动驾驶芯片,伯特利,603596.SH,下游,智能驾驶,域控/座舱/执行,线控制动龙头,AI细分行业相关标的（A股）.xlsx
+vehicle_information_terminal_industry,company_603596_sh,related_company,车载信息终端设备,伯特利,603596.SH,下游,智能驾驶,域控/座舱/执行,线控制动龙头,AI细分行业相关标的（A股）.xlsx
+adas_software_industry,company_603197_sh,related_company,ADAS与自动驾驶软件,保隆科技,603197.SH,下游,智能驾驶,域控/座舱/执行,传感器+空气悬架,AI细分行业相关标的（A股）.xlsx
+domain_controller_industry,company_603197_sh,related_company,域控制器,保隆科技,603197.SH,下游,智能驾驶,域控/座舱/执行,传感器+空气悬架,AI细分行业相关标的（A股）.xlsx
+air_suspension_industry,company_603197_sh,related_company,空气悬架,保隆科技,603197.SH,下游,智能驾驶,域控/座舱/执行,传感器+空气悬架,AI细分行业相关标的（A股）.xlsx
+brake_by_wire_industry,company_603197_sh,related_company,线控制动,保隆科技,603197.SH,下游,智能驾驶,域控/座舱/执行,传感器+空气悬架,AI细分行业相关标的（A股）.xlsx
+steer_by_wire_industry,company_603197_sh,related_company,线控转向,保隆科技,603197.SH,下游,智能驾驶,域控/座舱/执行,传感器+空气悬架,AI细分行业相关标的（A股）.xlsx
+autonomous_driving_chip_industry,company_603197_sh,related_company,自动驾驶芯片,保隆科技,603197.SH,下游,智能驾驶,域控/座舱/执行,传感器+空气悬架,AI细分行业相关标的（A股）.xlsx
+vehicle_information_terminal_industry,company_603197_sh,related_company,车载信息终端设备,保隆科技,603197.SH,下游,智能驾驶,域控/座舱/执行,传感器+空气悬架,AI细分行业相关标的（A股）.xlsx
+adas_software_industry,company_301221_sz,related_company,ADAS与自动驾驶软件,光庭信息,301221.SZ,下游,智能驾驶,域控/座舱/执行,汽车电子软件,AI细分行业相关标的（A股）.xlsx
+domain_controller_industry,company_301221_sz,related_company,域控制器,光庭信息,301221.SZ,下游,智能驾驶,域控/座舱/执行,汽车电子软件,AI细分行业相关标的（A股）.xlsx
+air_suspension_industry,company_301221_sz,related_company,空气悬架,光庭信息,301221.SZ,下游,智能驾驶,域控/座舱/执行,汽车电子软件,AI细分行业相关标的（A股）.xlsx
+brake_by_wire_industry,company_301221_sz,related_company,线控制动,光庭信息,301221.SZ,下游,智能驾驶,域控/座舱/执行,汽车电子软件,AI细分行业相关标的（A股）.xlsx
+steer_by_wire_industry,company_301221_sz,related_company,线控转向,光庭信息,301221.SZ,下游,智能驾驶,域控/座舱/执行,汽车电子软件,AI细分行业相关标的（A股）.xlsx
+autonomous_driving_chip_industry,company_301221_sz,related_company,自动驾驶芯片,光庭信息,301221.SZ,下游,智能驾驶,域控/座舱/执行,汽车电子软件,AI细分行业相关标的（A股）.xlsx
+vehicle_information_terminal_industry,company_301221_sz,related_company,车载信息终端设备,光庭信息,301221.SZ,下游,智能驾驶,域控/座舱/执行,汽车电子软件,AI细分行业相关标的（A股）.xlsx
+adas_software_industry,company_600741_sh,related_company,ADAS与自动驾驶软件,华域汽车,600741.SH,下游,智能驾驶,域控/座舱/执行,汽车零部件综合,AI细分行业相关标的（A股）.xlsx
+domain_controller_industry,company_600741_sh,related_company,域控制器,华域汽车,600741.SH,下游,智能驾驶,域控/座舱/执行,汽车零部件综合,AI细分行业相关标的（A股）.xlsx
+air_suspension_industry,company_600741_sh,related_company,空气悬架,华域汽车,600741.SH,下游,智能驾驶,域控/座舱/执行,汽车零部件综合,AI细分行业相关标的（A股）.xlsx
+brake_by_wire_industry,company_600741_sh,related_company,线控制动,华域汽车,600741.SH,下游,智能驾驶,域控/座舱/执行,汽车零部件综合,AI细分行业相关标的（A股）.xlsx
+steer_by_wire_industry,company_600741_sh,related_company,线控转向,华域汽车,600741.SH,下游,智能驾驶,域控/座舱/执行,汽车零部件综合,AI细分行业相关标的（A股）.xlsx
+autonomous_driving_chip_industry,company_600741_sh,related_company,自动驾驶芯片,华域汽车,600741.SH,下游,智能驾驶,域控/座舱/执行,汽车零部件综合,AI细分行业相关标的（A股）.xlsx
+vehicle_information_terminal_industry,company_600741_sh,related_company,车载信息终端设备,华域汽车,600741.SH,下游,智能驾驶,域控/座舱/执行,汽车零部件综合,AI细分行业相关标的（A股）.xlsx
+adas_software_industry,company_002906_sz,related_company,ADAS与自动驾驶软件,华阳集团,002906.SZ,下游,智能驾驶,域控/座舱/执行,汽车电子,AI细分行业相关标的（A股）.xlsx
+domain_controller_industry,company_002906_sz,related_company,域控制器,华阳集团,002906.SZ,下游,智能驾驶,域控/座舱/执行,汽车电子,AI细分行业相关标的（A股）.xlsx
+air_suspension_industry,company_002906_sz,related_company,空气悬架,华阳集团,002906.SZ,下游,智能驾驶,域控/座舱/执行,汽车电子,AI细分行业相关标的（A股）.xlsx
+brake_by_wire_industry,company_002906_sz,related_company,线控制动,华阳集团,002906.SZ,下游,智能驾驶,域控/座舱/执行,汽车电子,AI细分行业相关标的（A股）.xlsx
+steer_by_wire_industry,company_002906_sz,related_company,线控转向,华阳集团,002906.SZ,下游,智能驾驶,域控/座舱/执行,汽车电子,AI细分行业相关标的（A股）.xlsx
+autonomous_driving_chip_industry,company_002906_sz,related_company,自动驾驶芯片,华阳集团,002906.SZ,下游,智能驾驶,域控/座舱/执行,汽车电子,AI细分行业相关标的（A股）.xlsx
+vehicle_information_terminal_industry,company_002906_sz,related_company,车载信息终端设备,华阳集团,002906.SZ,下游,智能驾驶,域控/座舱/执行,汽车电子,AI细分行业相关标的（A股）.xlsx
+adas_software_industry,company_600699_sh,related_company,ADAS与自动驾驶软件,均胜电子,600699.SH,下游,智能驾驶,域控/座舱/执行,汽车安全+智能座舱,AI细分行业相关标的（A股）.xlsx
+domain_controller_industry,company_600699_sh,related_company,域控制器,均胜电子,600699.SH,下游,智能驾驶,域控/座舱/执行,汽车安全+智能座舱,AI细分行业相关标的（A股）.xlsx
+air_suspension_industry,company_600699_sh,related_company,空气悬架,均胜电子,600699.SH,下游,智能驾驶,域控/座舱/执行,汽车安全+智能座舱,AI细分行业相关标的（A股）.xlsx
+brake_by_wire_industry,company_600699_sh,related_company,线控制动,均胜电子,600699.SH,下游,智能驾驶,域控/座舱/执行,汽车安全+智能座舱,AI细分行业相关标的（A股）.xlsx
+steer_by_wire_industry,company_600699_sh,related_company,线控转向,均胜电子,600699.SH,下游,智能驾驶,域控/座舱/执行,汽车安全+智能座舱,AI细分行业相关标的（A股）.xlsx
+autonomous_driving_chip_industry,company_600699_sh,related_company,自动驾驶芯片,均胜电子,600699.SH,下游,智能驾驶,域控/座舱/执行,汽车安全+智能座舱,AI细分行业相关标的（A股）.xlsx
+vehicle_information_terminal_industry,company_600699_sh,related_company,车载信息终端设备,均胜电子,600699.SH,下游,智能驾驶,域控/座舱/执行,汽车安全+智能座舱,AI细分行业相关标的（A股）.xlsx
+adas_software_industry,company_002920_sz,related_company,ADAS与自动驾驶软件,德赛西威,002920.SZ,下游,智能驾驶,域控/座舱/执行,智驾域控+座舱双龙头,AI细分行业相关标的（A股）.xlsx
+domain_controller_industry,company_002920_sz,related_company,域控制器,德赛西威,002920.SZ,下游,智能驾驶,域控/座舱/执行,智驾域控+座舱双龙头,AI细分行业相关标的（A股）.xlsx
+air_suspension_industry,company_002920_sz,related_company,空气悬架,德赛西威,002920.SZ,下游,智能驾驶,域控/座舱/执行,智驾域控+座舱双龙头,AI细分行业相关标的（A股）.xlsx
+brake_by_wire_industry,company_002920_sz,related_company,线控制动,德赛西威,002920.SZ,下游,智能驾驶,域控/座舱/执行,智驾域控+座舱双龙头,AI细分行业相关标的（A股）.xlsx
+steer_by_wire_industry,company_002920_sz,related_company,线控转向,德赛西威,002920.SZ,下游,智能驾驶,域控/座舱/执行,智驾域控+座舱双龙头,AI细分行业相关标的（A股）.xlsx
+autonomous_driving_chip_industry,company_002920_sz,related_company,自动驾驶芯片,德赛西威,002920.SZ,下游,智能驾驶,域控/座舱/执行,智驾域控+座舱双龙头,AI细分行业相关标的（A股）.xlsx
+vehicle_information_terminal_industry,company_002920_sz,related_company,车载信息终端设备,德赛西威,002920.SZ,下游,智能驾驶,域控/座舱/执行,智驾域控+座舱双龙头,AI细分行业相关标的（A股）.xlsx
+adas_software_industry,company_002456_sz,related_company,ADAS与自动驾驶软件,欧菲光,002456.SZ,下游,智能驾驶,域控/座舱/执行,车载光学,AI细分行业相关标的（A股）.xlsx
+domain_controller_industry,company_002456_sz,related_company,域控制器,欧菲光,002456.SZ,下游,智能驾驶,域控/座舱/执行,车载光学,AI细分行业相关标的（A股）.xlsx
+air_suspension_industry,company_002456_sz,related_company,空气悬架,欧菲光,002456.SZ,下游,智能驾驶,域控/座舱/执行,车载光学,AI细分行业相关标的（A股）.xlsx
+brake_by_wire_industry,company_002456_sz,related_company,线控制动,欧菲光,002456.SZ,下游,智能驾驶,域控/座舱/执行,车载光学,AI细分行业相关标的（A股）.xlsx
+steer_by_wire_industry,company_002456_sz,related_company,线控转向,欧菲光,002456.SZ,下游,智能驾驶,域控/座舱/执行,车载光学,AI细分行业相关标的（A股）.xlsx
+autonomous_driving_chip_industry,company_002456_sz,related_company,自动驾驶芯片,欧菲光,002456.SZ,下游,智能驾驶,域控/座舱/执行,车载光学,AI细分行业相关标的（A股）.xlsx
+vehicle_information_terminal_industry,company_002456_sz,related_company,车载信息终端设备,欧菲光,002456.SZ,下游,智能驾驶,域控/座舱/执行,车载光学,AI细分行业相关标的（A股）.xlsx
+adas_software_industry,company_603960_sh,related_company,ADAS与自动驾驶软件,科博达,603960.SH,下游,智能驾驶,域控/座舱/执行,汽车照明控制,AI细分行业相关标的（A股）.xlsx
+domain_controller_industry,company_603960_sh,related_company,域控制器,科博达,603960.SH,下游,智能驾驶,域控/座舱/执行,汽车照明控制,AI细分行业相关标的（A股）.xlsx
+air_suspension_industry,company_603960_sh,related_company,空气悬架,科博达,603960.SH,下游,智能驾驶,域控/座舱/执行,汽车照明控制,AI细分行业相关标的（A股）.xlsx
+brake_by_wire_industry,company_603960_sh,related_company,线控制动,科博达,603960.SH,下游,智能驾驶,域控/座舱/执行,汽车照明控制,AI细分行业相关标的（A股）.xlsx
+steer_by_wire_industry,company_603960_sh,related_company,线控转向,科博达,603960.SH,下游,智能驾驶,域控/座舱/执行,汽车照明控制,AI细分行业相关标的（A股）.xlsx
+autonomous_driving_chip_industry,company_603960_sh,related_company,自动驾驶芯片,科博达,603960.SH,下游,智能驾驶,域控/座舱/执行,汽车照明控制,AI细分行业相关标的（A股）.xlsx
+vehicle_information_terminal_industry,company_603960_sh,related_company,车载信息终端设备,科博达,603960.SH,下游,智能驾驶,域控/座舱/执行,汽车照明控制,AI细分行业相关标的（A股）.xlsx
+adas_software_industry,company_688326_sh,related_company,ADAS与自动驾驶软件,经纬恒润,688326.SH,下游,智能驾驶,域控/座舱/执行,汽车电子,AI细分行业相关标的（A股）.xlsx
+domain_controller_industry,company_688326_sh,related_company,域控制器,经纬恒润,688326.SH,下游,智能驾驶,域控/座舱/执行,汽车电子,AI细分行业相关标的（A股）.xlsx
+air_suspension_industry,company_688326_sh,related_company,空气悬架,经纬恒润,688326.SH,下游,智能驾驶,域控/座舱/执行,汽车电子,AI细分行业相关标的（A股）.xlsx
+brake_by_wire_industry,company_688326_sh,related_company,线控制动,经纬恒润,688326.SH,下游,智能驾驶,域控/座舱/执行,汽车电子,AI细分行业相关标的（A股）.xlsx
+steer_by_wire_industry,company_688326_sh,related_company,线控转向,经纬恒润,688326.SH,下游,智能驾驶,域控/座舱/执行,汽车电子,AI细分行业相关标的（A股）.xlsx
+autonomous_driving_chip_industry,company_688326_sh,related_company,自动驾驶芯片,经纬恒润,688326.SH,下游,智能驾驶,域控/座舱/执行,汽车电子,AI细分行业相关标的（A股）.xlsx
+vehicle_information_terminal_industry,company_688326_sh,related_company,车载信息终端设备,经纬恒润,688326.SH,下游,智能驾驶,域控/座舱/执行,汽车电子,AI细分行业相关标的（A股）.xlsx
+adas_software_industry,company_002036_sz,related_company,ADAS与自动驾驶软件,联创电子,002036.SZ,下游,智能驾驶,域控/座舱/执行,车载光学镜头,AI细分行业相关标的（A股）.xlsx
+domain_controller_industry,company_002036_sz,related_company,域控制器,联创电子,002036.SZ,下游,智能驾驶,域控/座舱/执行,车载光学镜头,AI细分行业相关标的（A股）.xlsx
+air_suspension_industry,company_002036_sz,related_company,空气悬架,联创电子,002036.SZ,下游,智能驾驶,域控/座舱/执行,车载光学镜头,AI细分行业相关标的（A股）.xlsx
+brake_by_wire_industry,company_002036_sz,related_company,线控制动,联创电子,002036.SZ,下游,智能驾驶,域控/座舱/执行,车载光学镜头,AI细分行业相关标的（A股）.xlsx
+steer_by_wire_industry,company_002036_sz,related_company,线控转向,联创电子,002036.SZ,下游,智能驾驶,域控/座舱/执行,车载光学镜头,AI细分行业相关标的（A股）.xlsx
+autonomous_driving_chip_industry,company_002036_sz,related_company,自动驾驶芯片,联创电子,002036.SZ,下游,智能驾驶,域控/座舱/执行,车载光学镜头,AI细分行业相关标的（A股）.xlsx
+vehicle_information_terminal_industry,company_002036_sz,related_company,车载信息终端设备,联创电子,002036.SZ,下游,智能驾驶,域控/座舱/执行,车载光学镜头,AI细分行业相关标的（A股）.xlsx
+adas_software_industry,company_688088_sh,related_company,ADAS与自动驾驶软件,虹软科技,688088.SH,下游,智能驾驶,域控/座舱/执行,视觉AI算法,AI细分行业相关标的（A股）.xlsx
+domain_controller_industry,company_688088_sh,related_company,域控制器,虹软科技,688088.SH,下游,智能驾驶,域控/座舱/执行,视觉AI算法,AI细分行业相关标的（A股）.xlsx
+air_suspension_industry,company_688088_sh,related_company,空气悬架,虹软科技,688088.SH,下游,智能驾驶,域控/座舱/执行,视觉AI算法,AI细分行业相关标的（A股）.xlsx
+brake_by_wire_industry,company_688088_sh,related_company,线控制动,虹软科技,688088.SH,下游,智能驾驶,域控/座舱/执行,视觉AI算法,AI细分行业相关标的（A股）.xlsx
+steer_by_wire_industry,company_688088_sh,related_company,线控转向,虹软科技,688088.SH,下游,智能驾驶,域控/座舱/执行,视觉AI算法,AI细分行业相关标的（A股）.xlsx
+autonomous_driving_chip_industry,company_688088_sh,related_company,自动驾驶芯片,虹软科技,688088.SH,下游,智能驾驶,域控/座舱/执行,视觉AI算法,AI细分行业相关标的（A股）.xlsx
+vehicle_information_terminal_industry,company_688088_sh,related_company,车载信息终端设备,虹软科技,688088.SH,下游,智能驾驶,域控/座舱/执行,视觉AI算法,AI细分行业相关标的（A股）.xlsx
+adas_software_industry,company_002970_sz,related_company,ADAS与自动驾驶软件,锐明技术,002970.SZ,下游,智能驾驶,域控/座舱/执行,商用车监控,AI细分行业相关标的（A股）.xlsx
+domain_controller_industry,company_002970_sz,related_company,域控制器,锐明技术,002970.SZ,下游,智能驾驶,域控/座舱/执行,商用车监控,AI细分行业相关标的（A股）.xlsx
+air_suspension_industry,company_002970_sz,related_company,空气悬架,锐明技术,002970.SZ,下游,智能驾驶,域控/座舱/执行,商用车监控,AI细分行业相关标的（A股）.xlsx
+brake_by_wire_industry,company_002970_sz,related_company,线控制动,锐明技术,002970.SZ,下游,智能驾驶,域控/座舱/执行,商用车监控,AI细分行业相关标的（A股）.xlsx
+steer_by_wire_industry,company_002970_sz,related_company,线控转向,锐明技术,002970.SZ,下游,智能驾驶,域控/座舱/执行,商用车监控,AI细分行业相关标的（A股）.xlsx
+autonomous_driving_chip_industry,company_002970_sz,related_company,自动驾驶芯片,锐明技术,002970.SZ,下游,智能驾驶,域控/座舱/执行,商用车监控,AI细分行业相关标的（A股）.xlsx
+vehicle_information_terminal_industry,company_002970_sz,related_company,车载信息终端设备,锐明技术,002970.SZ,下游,智能驾驶,域控/座舱/执行,商用车监控,AI细分行业相关标的（A股）.xlsx
+lidar_industry,company_300552_sz,related_company,激光雷达,万集科技,300552.SZ,下游,智能驾驶,激光雷达,智能交通+激光雷达,AI细分行业相关标的（A股）.xlsx
+lidar_industry,company_688322_sh,related_company,激光雷达,奥比中光,688322.SH,下游,智能驾驶,激光雷达,3D视觉传感器,AI细分行业相关标的（A股）.xlsx
+lidar_industry,company_603297_sh,related_company,激光雷达,永新光学,603297.SH,下游,智能驾驶,激光雷达,显微镜+光学元件,AI细分行业相关标的（A股）.xlsx
+lidar_industry,company_688167_sh,related_company,激光雷达,炬光科技,688167.SH,下游,智能驾驶,激光雷达,激光光学元器件,AI细分行业相关标的（A股）.xlsx
+lidar_industry,company_002222_sz,related_company,激光雷达,福晶科技,002222.SZ,下游,智能驾驶,激光雷达,光学晶体,AI细分行业相关标的（A股）.xlsx
+lidar_industry,company_688195_sh,related_company,激光雷达,腾景科技,688195.SH,下游,智能驾驶,激光雷达,精密光学元件,AI细分行业相关标的（A股）.xlsx
+lidar_industry,company_688127_sh,related_company,激光雷达,蓝特光学,688127.SH,下游,智能驾驶,激光雷达,光学棱镜,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_002602_sz,related_company,AI算力云服务,世纪华通,002602.SZ,应用层,云计算,算力租赁/智算中心,游戏+数据(上海IDC),AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_002602_sz,related_company,数据中心托管服务,世纪华通,002602.SZ,应用层,云计算,算力租赁/智算中心,游戏+数据(上海IDC),AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_002602_sz,related_company,算力基础设施服务,世纪华通,002602.SZ,应用层,云计算,算力租赁/智算中心,游戏+数据(上海IDC),AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_002602_sz,related_company,超大规模云服务,世纪华通,002602.SZ,应用层,云计算,算力租赁/智算中心,游戏+数据(上海IDC),AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_603220_sh,related_company,AI算力云服务,中贝通信,603220.SH,应用层,云计算,算力租赁/智算中心,通信+算力,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_603220_sh,related_company,数据中心托管服务,中贝通信,603220.SH,应用层,云计算,算力租赁/智算中心,通信+算力,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_603220_sh,related_company,算力基础设施服务,中贝通信,603220.SH,应用层,云计算,算力租赁/智算中心,通信+算力,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_603220_sh,related_company,超大规模云服务,中贝通信,603220.SH,应用层,云计算,算力租赁/智算中心,通信+算力,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_688158_sh,related_company,AI算力云服务,优刻得,688158.SH,应用层,云计算,算力租赁/智算中心,公有云,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_688158_sh,related_company,数据中心托管服务,优刻得,688158.SH,应用层,云计算,算力租赁/智算中心,公有云,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_688158_sh,related_company,算力基础设施服务,优刻得,688158.SH,应用层,云计算,算力租赁/智算中心,公有云,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_688158_sh,related_company,超大规模云服务,优刻得,688158.SH,应用层,云计算,算力租赁/智算中心,公有云,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_300383_sz,related_company,AI算力云服务,光环新网,300383.SZ,应用层,云计算,算力租赁/智算中心,AWS北京运营商,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_300383_sz,related_company,数据中心托管服务,光环新网,300383.SZ,应用层,云计算,算力租赁/智算中心,AWS北京运营商,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_300383_sz,related_company,算力基础设施服务,光环新网,300383.SZ,应用层,云计算,算力租赁/智算中心,AWS北京运营商,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_300383_sz,related_company,超大规模云服务,光环新网,300383.SZ,应用层,云计算,算力租赁/智算中心,AWS北京运营商,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_603629_sh,related_company,AI算力云服务,利通电子,603629.SH,应用层,云计算,算力租赁/智算中心,结构件+算力,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_603629_sh,related_company,数据中心托管服务,利通电子,603629.SH,应用层,云计算,算力租赁/智算中心,结构件+算力,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_603629_sh,related_company,算力基础设施服务,利通电子,603629.SH,应用层,云计算,算力租赁/智算中心,结构件+算力,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_603629_sh,related_company,超大规模云服务,利通电子,603629.SH,应用层,云计算,算力租赁/智算中心,结构件+算力,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_300738_sz,related_company,AI算力云服务,奥飞数据,300738.SZ,应用层,云计算,算力租赁/智算中心,IDC服务商,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_300738_sz,related_company,数据中心托管服务,奥飞数据,300738.SZ,应用层,云计算,算力租赁/智算中心,IDC服务商,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_300738_sz,related_company,算力基础设施服务,奥飞数据,300738.SZ,应用层,云计算,算力租赁/智算中心,IDC服务商,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_300738_sz,related_company,超大规模云服务,奥飞数据,300738.SZ,应用层,云计算,算力租赁/智算中心,IDC服务商,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_600845_sh,related_company,AI算力云服务,宝信软件,600845.SH,应用层,云计算,算力租赁/智算中心,IDC+工业软件,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_600845_sh,related_company,数据中心托管服务,宝信软件,600845.SH,应用层,云计算,算力租赁/智算中心,IDC+工业软件,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_600845_sh,related_company,算力基础设施服务,宝信软件,600845.SH,应用层,云计算,算力租赁/智算中心,IDC+工业软件,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_600845_sh,related_company,超大规模云服务,宝信软件,600845.SH,应用层,云计算,算力租赁/智算中心,IDC+工业软件,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_920493_bj,related_company,AI算力云服务,并行科技,920493.BJ,应用层,云计算,算力租赁/智算中心,超算云服务,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_920493_bj,related_company,数据中心托管服务,并行科技,920493.BJ,应用层,云计算,算力租赁/智算中心,超算云服务,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_920493_bj,related_company,算力基础设施服务,并行科技,920493.BJ,应用层,云计算,算力租赁/智算中心,超算云服务,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_920493_bj,related_company,超大规模云服务,并行科技,920493.BJ,应用层,云计算,算力租赁/智算中心,超算云服务,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_603985_sh,related_company,AI算力云服务,恒润股份,603985.SH,应用层,云计算,算力租赁/智算中心,算力租赁,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_603985_sh,related_company,数据中心托管服务,恒润股份,603985.SH,应用层,云计算,算力租赁/智算中心,算力租赁,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_603985_sh,related_company,算力基础设施服务,恒润股份,603985.SH,应用层,云计算,算力租赁/智算中心,算力租赁,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_603985_sh,related_company,超大规模云服务,恒润股份,603985.SH,应用层,云计算,算力租赁/智算中心,算力租赁,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_603881_sh,related_company,AI算力云服务,数据港,603881.SH,应用层,云计算,算力租赁/智算中心,阿里系IDC,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_603881_sh,related_company,数据中心托管服务,数据港,603881.SH,应用层,云计算,算力租赁/智算中心,阿里系IDC,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_603881_sh,related_company,算力基础设施服务,数据港,603881.SH,应用层,云计算,算力租赁/智算中心,阿里系IDC,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_603881_sh,related_company,超大规模云服务,数据港,603881.SH,应用层,云计算,算力租赁/智算中心,阿里系IDC,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_002929_sz,related_company,AI算力云服务,润建股份,002929.SZ,应用层,云计算,算力租赁/智算中心,通信服务+算力,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_002929_sz,related_company,数据中心托管服务,润建股份,002929.SZ,应用层,云计算,算力租赁/智算中心,通信服务+算力,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_002929_sz,related_company,算力基础设施服务,润建股份,002929.SZ,应用层,云计算,算力租赁/智算中心,通信服务+算力,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_002929_sz,related_company,超大规模云服务,润建股份,002929.SZ,应用层,云计算,算力租赁/智算中心,通信服务+算力,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_300442_sz,related_company,AI算力云服务,润泽科技,300442.SZ,应用层,云计算,算力租赁/智算中心,园区级数据中心龙头,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_300442_sz,related_company,数据中心托管服务,润泽科技,300442.SZ,应用层,云计算,算力租赁/智算中心,园区级数据中心龙头,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_300442_sz,related_company,算力基础设施服务,润泽科技,300442.SZ,应用层,云计算,算力租赁/智算中心,园区级数据中心龙头,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_300442_sz,related_company,超大规模云服务,润泽科技,300442.SZ,应用层,云计算,算力租赁/智算中心,园区级数据中心龙头,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_002335_sz,related_company,AI算力云服务,科华数据,002335.SZ,应用层,云计算,算力租赁/智算中心,UPS+数据中心,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_002335_sz,related_company,数据中心托管服务,科华数据,002335.SZ,应用层,云计算,算力租赁/智算中心,UPS+数据中心,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_002335_sz,related_company,算力基础设施服务,科华数据,002335.SZ,应用层,云计算,算力租赁/智算中心,UPS+数据中心,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_002335_sz,related_company,超大规模云服务,科华数据,002335.SZ,应用层,云计算,算力租赁/智算中心,UPS+数据中心,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_002518_sz,related_company,AI算力云服务,科士达,002518.SZ,应用层,云计算,算力租赁/智算中心,UPS+数据中心,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_002518_sz,related_company,数据中心托管服务,科士达,002518.SZ,应用层,云计算,算力租赁/智算中心,UPS+数据中心,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_002518_sz,related_company,算力基础设施服务,科士达,002518.SZ,应用层,云计算,算力租赁/智算中心,UPS+数据中心,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_002518_sz,related_company,超大规模云服务,科士达,002518.SZ,应用层,云计算,算力租赁/智算中心,UPS+数据中心,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_600186_sh,related_company,AI算力云服务,莲花控股,600186.SH,应用层,云计算,算力租赁/智算中心,味精+算力转型,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_600186_sh,related_company,数据中心托管服务,莲花控股,600186.SH,应用层,云计算,算力租赁/智算中心,味精+算力转型,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_600186_sh,related_company,算力基础设施服务,莲花控股,600186.SH,应用层,云计算,算力租赁/智算中心,味精+算力转型,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_600186_sh,related_company,超大规模云服务,莲花控股,600186.SH,应用层,云计算,算力租赁/智算中心,味精+算力转型,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_300798_sz,related_company,AI算力云服务,锦鸡股份,300798.SZ,应用层,云计算,算力租赁/智算中心,染料+算力,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_300798_sz,related_company,数据中心托管服务,锦鸡股份,300798.SZ,应用层,云计算,算力租赁/智算中心,染料+算力,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_300798_sz,related_company,算力基础设施服务,锦鸡股份,300798.SZ,应用层,云计算,算力租赁/智算中心,染料+算力,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_300798_sz,related_company,超大规模云服务,锦鸡股份,300798.SZ,应用层,云计算,算力租赁/智算中心,染料+算力,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_688316_sh,related_company,AI算力云服务,青云科技,688316.SH,应用层,云计算,算力租赁/智算中心,云计算平台,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_688316_sh,related_company,数据中心托管服务,青云科技,688316.SH,应用层,云计算,算力租赁/智算中心,云计算平台,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_688316_sh,related_company,算力基础设施服务,青云科技,688316.SH,应用层,云计算,算力租赁/智算中心,云计算平台,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_688316_sh,related_company,超大规模云服务,青云科技,688316.SH,应用层,云计算,算力租赁/智算中心,云计算平台,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_300846_sz,related_company,AI算力云服务,首都在线,300846.SZ,应用层,云计算,算力租赁/智算中心,算力云老兵,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_300846_sz,related_company,数据中心托管服务,首都在线,300846.SZ,应用层,云计算,算力租赁/智算中心,算力云老兵,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_300846_sz,related_company,算力基础设施服务,首都在线,300846.SZ,应用层,云计算,算力租赁/智算中心,算力云老兵,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_300846_sz,related_company,超大规模云服务,首都在线,300846.SZ,应用层,云计算,算力租赁/智算中心,算力云老兵,AI细分行业相关标的（A股）.xlsx
+ai_compute_cloud_industry,company_002229_sz,related_company,AI算力云服务,鸿博股份,002229.SZ,应用层,云计算,算力租赁/智算中心,曾绑英伟达合作,AI细分行业相关标的（A股）.xlsx
+data_center_operator_industry,company_002229_sz,related_company,数据中心托管服务,鸿博股份,002229.SZ,应用层,云计算,算力租赁/智算中心,曾绑英伟达合作,AI细分行业相关标的（A股）.xlsx
+computing_infrastructure_industry,company_002229_sz,related_company,算力基础设施服务,鸿博股份,002229.SZ,应用层,云计算,算力租赁/智算中心,曾绑英伟达合作,AI细分行业相关标的（A股）.xlsx
+hyperscale_cloud_industry,company_002229_sz,related_company,超大规模云服务,鸿博股份,002229.SZ,应用层,云计算,算力租赁/智算中心,曾绑英伟达合作,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_000719_sz,related_company,数据存储服务,中原传媒,000719.SZ,应用层,大模型,数据要素/语料库,出版数据,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_000719_sz,related_company,数据安全产品,中原传媒,000719.SZ,应用层,大模型,数据要素/语料库,出版数据,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_000719_sz,related_company,数据标注与训练数据服务,中原传媒,000719.SZ,应用层,大模型,数据要素/语料库,出版数据,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_601949_sh,related_company,数据存储服务,中国出版,601949.SH,应用层,大模型,数据要素/语料库,出版数据,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_601949_sh,related_company,数据安全产品,中国出版,601949.SH,应用层,大模型,数据要素/语料库,出版数据,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_601949_sh,related_company,数据标注与训练数据服务,中国出版,601949.SH,应用层,大模型,数据要素/语料库,出版数据,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_601858_sh,related_company,数据存储服务,中国科传,601858.SH,应用层,大模型,数据要素/语料库,科技出版数据,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_601858_sh,related_company,数据安全产品,中国科传,601858.SH,应用层,大模型,数据要素/语料库,科技出版数据,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_601858_sh,related_company,数据标注与训练数据服务,中国科传,601858.SH,应用层,大模型,数据要素/语料库,科技出版数据,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_300364_sz,related_company,数据存储服务,中文在线,300364.SZ,应用层,大模型,数据要素/语料库,海量文字/IP语料,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_300364_sz,related_company,数据安全产品,中文在线,300364.SZ,应用层,大模型,数据要素/语料库,海量文字/IP语料,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_300364_sz,related_company,数据标注与训练数据服务,中文在线,300364.SZ,应用层,大模型,数据要素/语料库,海量文字/IP语料,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_002777_sz,related_company,数据存储服务,久远银海,002777.SZ,应用层,大模型,数据要素/语料库,医疗信息化+数据,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_002777_sz,related_company,数据安全产品,久远银海,002777.SZ,应用层,大模型,数据要素/语料库,医疗信息化+数据,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_002777_sz,related_company,数据标注与训练数据服务,久远银海,002777.SZ,应用层,大模型,数据要素/语料库,医疗信息化+数据,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_603000_sh,related_company,数据存储服务,人民网,603000.SH,应用层,大模型,数据要素/语料库,媒体数据,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_603000_sh,related_company,数据安全产品,人民网,603000.SH,应用层,大模型,数据要素/语料库,媒体数据,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_603000_sh,related_company,数据标注与训练数据服务,人民网,603000.SH,应用层,大模型,数据要素/语料库,媒体数据,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_600100_sh,related_company,数据存储服务,同方股份,600100.SH,应用层,大模型,数据要素/语料库,数据资源,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_600100_sh,related_company,数据安全产品,同方股份,600100.SH,应用层,大模型,数据要素/语料库,数据资源,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_600100_sh,related_company,数据标注与训练数据服务,同方股份,600100.SH,应用层,大模型,数据要素/语料库,数据资源,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_002368_sz,related_company,数据存储服务,太极股份,002368.SZ,应用层,大模型,数据要素/语料库,政务信息化+数据,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_002368_sz,related_company,数据安全产品,太极股份,002368.SZ,应用层,大模型,数据要素/语料库,政务信息化+数据,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_002368_sz,related_company,数据标注与训练数据服务,太极股份,002368.SZ,应用层,大模型,数据要素/语料库,政务信息化+数据,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_688579_sh,related_company,数据存储服务,山大地纬,688579.SH,应用层,大模型,数据要素/语料库,政务数据,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_688579_sh,related_company,数据安全产品,山大地纬,688579.SH,应用层,大模型,数据要素/语料库,政务数据,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_688579_sh,related_company,数据标注与训练数据服务,山大地纬,688579.SH,应用层,大模型,数据要素/语料库,政务数据,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_002908_sz,related_company,数据存储服务,德生科技,002908.SZ,应用层,大模型,数据要素/语料库,社保卡数据,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_002908_sz,related_company,数据安全产品,德生科技,002908.SZ,应用层,大模型,数据要素/语料库,社保卡数据,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_002908_sz,related_company,数据标注与训练数据服务,德生科技,002908.SZ,应用层,大模型,数据要素/语料库,社保卡数据,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_300229_sz,related_company,数据存储服务,拓尔思,300229.SZ,应用层,大模型,数据要素/语料库,大数据+语料,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_300229_sz,related_company,数据安全产品,拓尔思,300229.SZ,应用层,大模型,数据要素/语料库,大数据+语料,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_300229_sz,related_company,数据标注与训练数据服务,拓尔思,300229.SZ,应用层,大模型,数据要素/语料库,大数据+语料,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_603888_sh,related_company,数据存储服务,新华网,603888.SH,应用层,大模型,数据要素/语料库,媒体数据,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_603888_sh,related_company,数据安全产品,新华网,603888.SH,应用层,大模型,数据要素/语料库,媒体数据,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_603888_sh,related_company,数据标注与训练数据服务,新华网,603888.SH,应用层,大模型,数据要素/语料库,媒体数据,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_300212_sz,related_company,数据存储服务,易华录,300212.SZ,应用层,大模型,数据要素/语料库,数据湖+数据要素,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_300212_sz,related_company,数据安全产品,易华录,300212.SZ,应用层,大模型,数据要素/语料库,数据湖+数据要素,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_300212_sz,related_company,数据标注与训练数据服务,易华录,300212.SZ,应用层,大模型,数据要素/语料库,数据湖+数据要素,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_300766_sz,related_company,数据存储服务,每日互动,300766.SZ,应用层,大模型,数据要素/语料库,数据智能服务,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_300766_sz,related_company,数据安全产品,每日互动,300766.SZ,应用层,大模型,数据要素/语料库,数据智能服务,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_300766_sz,related_company,数据标注与训练数据服务,每日互动,300766.SZ,应用层,大模型,数据要素/语料库,数据智能服务,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_600633_sh,related_company,数据存储服务,浙数文化,600633.SH,应用层,大模型,数据要素/语料库,数字文化+数据,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_600633_sh,related_company,数据安全产品,浙数文化,600633.SH,应用层,大模型,数据要素/语料库,数字文化+数据,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_600633_sh,related_company,数据标注与训练数据服务,浙数文化,600633.SH,应用层,大模型,数据要素/语料库,数字文化+数据,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_688787_sh,related_company,数据存储服务,海天瑞声,688787.SH,应用层,大模型,数据要素/语料库,AI训练数据标注龙头,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_688787_sh,related_company,数据安全产品,海天瑞声,688787.SH,应用层,大模型,数据要素/语料库,AI训练数据标注龙头,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_688787_sh,related_company,数据标注与训练数据服务,海天瑞声,688787.SH,应用层,大模型,数据要素/语料库,AI训练数据标注龙头,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_000032_sz,related_company,数据存储服务,深桑达A,000032.SZ,应用层,大模型,数据要素/语料库,电子+数据要素,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_000032_sz,related_company,数据安全产品,深桑达A,000032.SZ,应用层,大模型,数据要素/语料库,电子+数据要素,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_000032_sz,related_company,数据标注与训练数据服务,深桑达A,000032.SZ,应用层,大模型,数据要素/语料库,电子+数据要素,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_002095_sz,related_company,数据存储服务,生意宝,002095.SZ,应用层,大模型,数据要素/语料库,B2B数据平台,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_002095_sz,related_company,数据安全产品,生意宝,002095.SZ,应用层,大模型,数据要素/语料库,B2B数据平台,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_002095_sz,related_company,数据标注与训练数据服务,生意宝,002095.SZ,应用层,大模型,数据要素/语料库,B2B数据平台,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_603918_sh,related_company,数据存储服务,金桥信息,603918.SH,应用层,大模型,数据要素/语料库,司法信息化,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_603918_sh,related_company,数据安全产品,金桥信息,603918.SH,应用层,大模型,数据要素/语料库,司法信息化,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_603918_sh,related_company,数据标注与训练数据服务,金桥信息,603918.SH,应用层,大模型,数据要素/语料库,司法信息化,AI细分行业相关标的（A股）.xlsx
+data_storage_industry,company_301169_sz,related_company,数据存储服务,零点有数,301169.SZ,应用层,大模型,数据要素/语料库,数据决策服务,AI细分行业相关标的（A股）.xlsx
+data_security_industry,company_301169_sz,related_company,数据安全产品,零点有数,301169.SZ,应用层,大模型,数据要素/语料库,数据决策服务,AI细分行业相关标的（A股）.xlsx
+data_training_industry,company_301169_sz,related_company,数据标注与训练数据服务,零点有数,301169.SZ,应用层,大模型,数据要素/语料库,数据决策服务,AI细分行业相关标的（A股）.xlsx
+vertical_large_model_industry,company_300624_sz,related_company,垂直大模型,万兴科技,300624.SZ,应用层,大模型,通用/垂直大模型,创意软件+AI,AI细分行业相关标的（A股）.xlsx
+industry_large_model_industry,company_300624_sz,related_company,行业大模型,万兴科技,300624.SZ,应用层,大模型,通用/垂直大模型,创意软件+AI,AI细分行业相关标的（A股）.xlsx
+general_large_model_industry,company_300624_sz,related_company,通用大模型,万兴科技,300624.SZ,应用层,大模型,通用/垂直大模型,创意软件+AI,AI细分行业相关标的（A股）.xlsx
+vertical_large_model_industry,company_601360_sh,related_company,垂直大模型,三六零,601360.SH,应用层,大模型,通用/垂直大模型,360智脑,AI细分行业相关标的（A股）.xlsx
+industry_large_model_industry,company_601360_sh,related_company,行业大模型,三六零,601360.SH,应用层,大模型,通用/垂直大模型,360智脑,AI细分行业相关标的（A股）.xlsx
+general_large_model_industry,company_601360_sh,related_company,通用大模型,三六零,601360.SH,应用层,大模型,通用/垂直大模型,360智脑,AI细分行业相关标的（A股）.xlsx
+vertical_large_model_industry,company_300166_sz,related_company,垂直大模型,东方国信,300166.SZ,应用层,大模型,通用/垂直大模型,云计算+AI,AI细分行业相关标的（A股）.xlsx
+industry_large_model_industry,company_300166_sz,related_company,行业大模型,东方国信,300166.SZ,应用层,大模型,通用/垂直大模型,云计算+AI,AI细分行业相关标的（A股）.xlsx
+general_large_model_industry,company_300166_sz,related_company,通用大模型,东方国信,300166.SZ,应用层,大模型,通用/垂直大模型,云计算+AI,AI细分行业相关标的（A股）.xlsx
+vertical_large_model_industry,company_688327_sh,related_company,垂直大模型,云从科技,688327.SH,应用层,大模型,通用/垂直大模型,AI平台型公司,AI细分行业相关标的（A股）.xlsx
+industry_large_model_industry,company_688327_sh,related_company,行业大模型,云从科技,688327.SH,应用层,大模型,通用/垂直大模型,AI平台型公司,AI细分行业相关标的（A股）.xlsx
+general_large_model_industry,company_688327_sh,related_company,通用大模型,云从科技,688327.SH,应用层,大模型,通用/垂直大模型,AI平台型公司,AI细分行业相关标的（A股）.xlsx
+vertical_large_model_industry,company_688228_sh,related_company,垂直大模型,开普云,688228.SH,应用层,大模型,通用/垂直大模型,内容管理+AI,AI细分行业相关标的（A股）.xlsx
+industry_large_model_industry,company_688228_sh,related_company,行业大模型,开普云,688228.SH,应用层,大模型,通用/垂直大模型,内容管理+AI,AI细分行业相关标的（A股）.xlsx
+general_large_model_industry,company_688228_sh,related_company,通用大模型,开普云,688228.SH,应用层,大模型,通用/垂直大模型,内容管理+AI,AI细分行业相关标的（A股）.xlsx
+vertical_large_model_industry,company_688039_sh,related_company,垂直大模型,当虹科技,688039.SH,应用层,大模型,通用/垂直大模型,视频技术+AI,AI细分行业相关标的（A股）.xlsx
+industry_large_model_industry,company_688039_sh,related_company,行业大模型,当虹科技,688039.SH,应用层,大模型,通用/垂直大模型,视频技术+AI,AI细分行业相关标的（A股）.xlsx
+general_large_model_industry,company_688039_sh,related_company,通用大模型,当虹科技,688039.SH,应用层,大模型,通用/垂直大模型,视频技术+AI,AI细分行业相关标的（A股）.xlsx
+vertical_large_model_industry,company_300229_sz,related_company,垂直大模型,拓尔思,300229.SZ,应用层,大模型,通用/垂直大模型,NLP+大数据,AI细分行业相关标的（A股）.xlsx
+industry_large_model_industry,company_300229_sz,related_company,行业大模型,拓尔思,300229.SZ,应用层,大模型,通用/垂直大模型,NLP+大数据,AI细分行业相关标的（A股）.xlsx
+general_large_model_industry,company_300229_sz,related_company,通用大模型,拓尔思,300229.SZ,应用层,大模型,通用/垂直大模型,NLP+大数据,AI细分行业相关标的（A股）.xlsx
+vertical_large_model_industry,company_300418_sz,related_company,垂直大模型,昆仑万维,300418.SZ,应用层,大模型,通用/垂直大模型,天工大模型海外流量领先,AI细分行业相关标的（A股）.xlsx
+industry_large_model_industry,company_300418_sz,related_company,行业大模型,昆仑万维,300418.SZ,应用层,大模型,通用/垂直大模型,天工大模型海外流量领先,AI细分行业相关标的（A股）.xlsx
+general_large_model_industry,company_300418_sz,related_company,通用大模型,昆仑万维,300418.SZ,应用层,大模型,通用/垂直大模型,天工大模型海外流量领先,AI细分行业相关标的（A股）.xlsx
+vertical_large_model_industry,company_688207_sh,related_company,垂直大模型,格灵深瞳,688207.SH,应用层,大模型,通用/垂直大模型,计算机视觉,AI细分行业相关标的（A股）.xlsx
+industry_large_model_industry,company_688207_sh,related_company,行业大模型,格灵深瞳,688207.SH,应用层,大模型,通用/垂直大模型,计算机视觉,AI细分行业相关标的（A股）.xlsx
+general_large_model_industry,company_688207_sh,related_company,通用大模型,格灵深瞳,688207.SH,应用层,大模型,通用/垂直大模型,计算机视觉,AI细分行业相关标的（A股）.xlsx
+vertical_large_model_industry,company_002362_sz,related_company,垂直大模型,汉王科技,002362.SZ,应用层,大模型,通用/垂直大模型,人工智能+识别,AI细分行业相关标的（A股）.xlsx
+industry_large_model_industry,company_002362_sz,related_company,行业大模型,汉王科技,002362.SZ,应用层,大模型,通用/垂直大模型,人工智能+识别,AI细分行业相关标的（A股）.xlsx
+general_large_model_industry,company_002362_sz,related_company,通用大模型,汉王科技,002362.SZ,应用层,大模型,通用/垂直大模型,人工智能+识别,AI细分行业相关标的（A股）.xlsx
+vertical_large_model_industry,company_002230_sz,related_company,垂直大模型,科大讯飞,002230.SZ,应用层,大模型,通用/垂直大模型,A股大模型布局最深,AI细分行业相关标的（A股）.xlsx
+industry_large_model_industry,company_002230_sz,related_company,行业大模型,科大讯飞,002230.SZ,应用层,大模型,通用/垂直大模型,A股大模型布局最深,AI细分行业相关标的（A股）.xlsx
+general_large_model_industry,company_002230_sz,related_company,通用大模型,科大讯飞,002230.SZ,应用层,大模型,通用/垂直大模型,A股大模型布局最深,AI细分行业相关标的（A股）.xlsx
+vertical_large_model_industry,company_688088_sh,related_company,垂直大模型,虹软科技,688088.SH,应用层,大模型,通用/垂直大模型,视觉AI,AI细分行业相关标的（A股）.xlsx
+industry_large_model_industry,company_688088_sh,related_company,行业大模型,虹软科技,688088.SH,应用层,大模型,通用/垂直大模型,视觉AI,AI细分行业相关标的（A股）.xlsx
+general_large_model_industry,company_688088_sh,related_company,通用大模型,虹软科技,688088.SH,应用层,大模型,通用/垂直大模型,视觉AI,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_002555_sz,related_company,文娱AI,三七互娱,002555.SZ,应用层,AI+传媒,短剧/影视/游戏,游戏,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_601595_sh,related_company,文娱AI,上海电影,601595.SH,应用层,AI+传媒,短剧/影视/游戏,影视IP,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_300364_sz,related_company,文娱AI,中文在线,300364.SZ,应用层,AI+传媒,短剧/影视/游戏,短剧+AI内容双驱动,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_300251_sz,related_company,文娱AI,光线传媒,300251.SZ,应用层,AI+传媒,短剧/影视/游戏,动画电影,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_300533_sz,related_company,文娱AI,冰川网络,300533.SZ,应用层,AI+传媒,短剧/影视/游戏,游戏,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_300133_sz,related_company,文娱AI,华策影视,300133.SZ,应用层,AI+传媒,短剧/影视/游戏,影视剧,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_603444_sh,related_company,文娱AI,吉比特,603444.SH,应用层,AI+传媒,短剧/影视/游戏,游戏,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_300781_sz,related_company,文娱AI,因赛集团,300781.SZ,应用层,AI+传媒,短剧/影视/游戏,营销传播,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_600556_sh,related_company,文娱AI,天下秀,600556.SH,应用层,AI+传媒,短剧/影视/游戏,红人经济,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_300063_sz,related_company,文娱AI,天龙集团,300063.SZ,应用层,AI+传媒,短剧/影视/游戏,数字营销,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_002624_sz,related_company,文娱AI,完美世界,002624.SZ,应用层,AI+传媒,短剧/影视/游戏,游戏+影视,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_300031_sz,related_company,文娱AI,宝通科技,300031.SZ,应用层,AI+传媒,短剧/影视/游戏,游戏+工业,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_603598_sh,related_company,文娱AI,引力传媒,603598.SH,应用层,AI+传媒,短剧/影视/游戏,数字营销,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_002517_sz,related_company,文娱AI,恺英网络,002517.SZ,应用层,AI+传媒,短剧/影视/游戏,游戏,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_002343_sz,related_company,文娱AI,慈文传媒,002343.SZ,应用层,AI+传媒,短剧/影视/游戏,影视剧,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_300315_sz,related_company,文娱AI,掌趣科技,300315.SZ,应用层,AI+传媒,短剧/影视/游戏,游戏,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_000892_sz,related_company,文娱AI,欢瑞世纪,000892.SZ,应用层,AI+传媒,短剧/影视/游戏,影视剧,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_300459_sz,related_company,文娱AI,汤姆猫,300459.SZ,应用层,AI+传媒,短剧/影视/游戏,亲子IP游戏,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_600986_sh,related_company,文娱AI,浙文互联,600986.SH,应用层,AI+传媒,短剧/影视/游戏,数字营销,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_002174_sz,related_company,文娱AI,游族网络,002174.SZ,应用层,AI+传媒,短剧/影视/游戏,游戏,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_300291_sz,related_company,文娱AI,百纳千成,300291.SZ,应用层,AI+传媒,短剧/影视/游戏,影视,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_300494_sz,related_company,文娱AI,盛天网络,300494.SZ,应用层,AI+传媒,短剧/影视/游戏,游戏+电竞,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_002400_sz,related_company,文娱AI,省广集团,002400.SZ,应用层,AI+传媒,短剧/影视/游戏,广告营销,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_300002_sz,related_company,文娱AI,神州泰岳,300002.SZ,应用层,AI+传媒,短剧/影视/游戏,游戏+软件,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_300413_sz,related_company,文娱AI,芒果超媒,300413.SZ,应用层,AI+传媒,短剧/影视/游戏,视频平台,AI细分行业相关标的（A股）.xlsx
+entertainment_ai_industry,company_300058_sz,related_company,文娱AI,蓝色光标,300058.SZ,应用层,AI+传媒,短剧/影视/游戏,AI营销代理龙头,AI细分行业相关标的（A股）.xlsx
+software_engineering_ai_industry,company_300624_sz,related_company,AI软件工程,万兴科技,300624.SZ,应用层,AI+办公,文档/协作/流程,创意软件+AI,AI细分行业相关标的（A股）.xlsx
+enterprise_service_ai_industry,company_300624_sz,related_company,企业服务AI软件,万兴科技,300624.SZ,应用层,AI+办公,文档/协作/流程,创意软件+AI,AI细分行业相关标的（A股）.xlsx
+software_engineering_ai_industry,company_300634_sz,related_company,AI软件工程,彩讯股份,300634.SZ,应用层,AI+办公,文档/协作/流程,企业邮箱+云办公,AI细分行业相关标的（A股）.xlsx
+enterprise_service_ai_industry,company_300634_sz,related_company,企业服务AI软件,彩讯股份,300634.SZ,应用层,AI+办公,文档/协作/流程,企业邮箱+云办公,AI细分行业相关标的（A股）.xlsx
+software_engineering_ai_industry,company_300170_sz,related_company,AI软件工程,汉得信息,300170.SZ,应用层,AI+办公,文档/协作/流程,ERP实施+AI,AI细分行业相关标的（A股）.xlsx
+enterprise_service_ai_industry,company_300170_sz,related_company,企业服务AI软件,汉得信息,300170.SZ,应用层,AI+办公,文档/协作/流程,ERP实施+AI,AI细分行业相关标的（A股）.xlsx
+software_engineering_ai_industry,company_603039_sh,related_company,AI软件工程,泛微网络,603039.SH,应用层,AI+办公,文档/协作/流程,协同管理软件,AI细分行业相关标的（A股）.xlsx
+enterprise_service_ai_industry,company_603039_sh,related_company,企业服务AI软件,泛微网络,603039.SH,应用层,AI+办公,文档/协作/流程,协同管理软件,AI细分行业相关标的（A股）.xlsx
+software_engineering_ai_industry,company_600588_sh,related_company,AI软件工程,用友网络,600588.SH,应用层,AI+办公,文档/协作/流程,企业管理软件龙头,AI细分行业相关标的（A股）.xlsx
+enterprise_service_ai_industry,company_600588_sh,related_company,企业服务AI软件,用友网络,600588.SH,应用层,AI+办公,文档/协作/流程,企业管理软件龙头,AI细分行业相关标的（A股）.xlsx
+software_engineering_ai_industry,company_688095_sh,related_company,AI软件工程,福昕软件,688095.SH,应用层,AI+办公,文档/协作/流程,PDF软件,AI细分行业相关标的（A股）.xlsx
+enterprise_service_ai_industry,company_688095_sh,related_company,企业服务AI软件,福昕软件,688095.SH,应用层,AI+办公,文档/协作/流程,PDF软件,AI细分行业相关标的（A股）.xlsx
+software_engineering_ai_industry,company_002230_sz,related_company,AI软件工程,科大讯飞,002230.SZ,应用层,AI+办公,文档/协作/流程,讯飞办公+大模型,AI细分行业相关标的（A股）.xlsx
+enterprise_service_ai_industry,company_002230_sz,related_company,企业服务AI软件,科大讯飞,002230.SZ,应用层,AI+办公,文档/协作/流程,讯飞办公+大模型,AI细分行业相关标的（A股）.xlsx
+software_engineering_ai_industry,company_688369_sh,related_company,AI软件工程,致远互联,688369.SH,应用层,AI+办公,文档/协作/流程,协同管理,AI细分行业相关标的（A股）.xlsx
+enterprise_service_ai_industry,company_688369_sh,related_company,企业服务AI软件,致远互联,688369.SH,应用层,AI+办公,文档/协作/流程,协同管理,AI细分行业相关标的（A股）.xlsx
+software_engineering_ai_industry,company_688111_sh,related_company,AI软件工程,金山办公,688111.SH,应用层,AI+办公,文档/协作/流程,A股最纯正AI办公标的,AI细分行业相关标的（A股）.xlsx
+enterprise_service_ai_industry,company_688111_sh,related_company,企业服务AI软件,金山办公,688111.SH,应用层,AI+办公,文档/协作/流程,A股最纯正AI办公标的,AI细分行业相关标的（A股）.xlsx
+software_engineering_ai_industry,company_300378_sz,related_company,AI软件工程,鼎捷软件,300378.SZ,应用层,AI+办公,文档/协作/流程,制造业ERP,AI细分行业相关标的（A股）.xlsx
+enterprise_service_ai_industry,company_300378_sz,related_company,企业服务AI软件,鼎捷软件,300378.SZ,应用层,AI+办公,文档/协作/流程,制造业ERP,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_300168_sz,related_company,医疗AI,万达信息,300168.SZ,应用层,AI+医疗,诊断/制药/信息化,智慧城市+医疗,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_002065_sz,related_company,医疗AI,东华软件,002065.SZ,应用层,AI+医疗,诊断/制药/信息化,医疗信息化,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_600718_sh,related_company,医疗AI,东软集团,600718.SH,应用层,AI+医疗,诊断/制药/信息化,医疗信息化,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_002777_sz,related_company,医疗AI,久远银海,002777.SZ,应用层,AI+医疗,诊断/制药/信息化,医疗+社保信息化,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_301060_sz,related_company,医疗AI,兰卫医学,301060.SZ,应用层,AI+医疗,诊断/制药/信息化,第三方医学检验,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_300451_sz,related_company,医疗AI,创业慧康,300451.SZ,应用层,AI+医疗,诊断/制药/信息化,医疗信息化,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_300253_sz,related_company,医疗AI,卫宁健康,300253.SZ,应用层,AI+医疗,诊断/制药/信息化,医疗信息化龙头,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_688246_sh,related_company,医疗AI,嘉和美康,688246.SH,应用层,AI+医疗,诊断/制药/信息化,医疗信息化,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_688393_sh,related_company,医疗AI,安必平,688393.SH,应用层,AI+医疗,诊断/制药/信息化,病理诊断,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_688579_sh,related_company,医疗AI,山大地纬,688579.SH,应用层,AI+医疗,诊断/制药/信息化,医疗信息化,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_300078_sz,related_company,医疗AI,思创医惠,300078.SZ,应用层,AI+医疗,诊断/制药/信息化,医疗信息化,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_688222_sh,related_company,医疗AI,成都先导,688222.SH,应用层,AI+医疗,诊断/制药/信息化,DNA编码化合物库,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_300288_sz,related_company,医疗AI,朗玛信息,300288.SZ,应用层,AI+医疗,诊断/制药/信息化,互联网医疗,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_301230_sz,related_company,医疗AI,泓博医药,301230.SZ,应用层,AI+医疗,诊断/制药/信息化,CRO+AI药物发现,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_603108_sh,related_company,医疗AI,润达医疗,603108.SH,应用层,AI+医疗,诊断/制药/信息化,AI辅助检验诊断龙头,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_688131_sh,related_company,医疗AI,皓元医药,688131.SH,应用层,AI+医疗,诊断/制药/信息化,工具化合物,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_688202_sh,related_company,医疗AI,美迪西,688202.SH,应用层,AI+医疗,诊断/制药/信息化,CRO,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_300725_sz,related_company,医疗AI,药石科技,300725.SZ,应用层,AI+医疗,诊断/制药/信息化,分子砌块+药物发现,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_603882_sh,related_company,医疗AI,金域医学,603882.SH,应用层,AI+医疗,诊断/制药/信息化,第三方医学检验龙头,AI细分行业相关标的（A股）.xlsx
+medical_ai_industry,company_300341_sz,related_company,医疗AI,麦克奥迪,300341.SZ,应用层,AI+医疗,诊断/制药/信息化,病理切片AI,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_688618_sh,related_company,AI产品研发,三旺通信,688618.SH,应用层,AI+工业,智能制造/检测/设计,工业通信,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_688618_sh,related_company,先进制造AI,三旺通信,688618.SH,应用层,AI+工业,智能制造/检测/设计,工业通信,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_300353_sz,related_company,AI产品研发,东土科技,300353.SZ,应用层,AI+工业,智能制造/检测/设计,工业以太网,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_300353_sz,related_company,先进制造AI,东土科技,300353.SZ,应用层,AI+工业,智能制造/检测/设计,工业以太网,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_688777_sh,related_company,AI产品研发,中控技术,688777.SH,应用层,AI+工业,智能制造/检测/设计,流程工业DCS/PLC龙头,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_688777_sh,related_company,先进制造AI,中控技术,688777.SH,应用层,AI+工业,智能制造/检测/设计,流程工业DCS/PLC龙头,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_002698_sz,related_company,AI产品研发,博实股份,002698.SZ,应用层,AI+工业,智能制造/检测/设计,工业机器人,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_002698_sz,related_company,先进制造AI,博实股份,002698.SZ,应用层,AI+工业,智能制造/检测/设计,工业机器人,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_002747_sz,related_company,AI产品研发,埃斯顿,002747.SZ,应用层,AI+工业,智能制造/检测/设计,工业机器人,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_002747_sz,related_company,先进制造AI,埃斯顿,002747.SZ,应用层,AI+工业,智能制造/检测/设计,工业机器人,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_600845_sh,related_company,AI产品研发,宝信软件,600845.SH,应用层,AI+工业,智能制造/检测/设计,钢铁信息化+IDC,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_600845_sh,related_company,先进制造AI,宝信软件,600845.SH,应用层,AI+工业,智能制造/检测/设计,钢铁信息化+IDC,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_688080_sh,related_company,AI产品研发,映翰通,688080.SH,应用层,AI+工业,智能制造/检测/设计,工业物联网,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_688080_sh,related_company,先进制造AI,映翰通,688080.SH,应用层,AI+工业,智能制造/检测/设计,工业物联网,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_300024_sz,related_company,AI产品研发,机器人,300024.SZ,应用层,AI+工业,智能制造/检测/设计,新松机器人,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_300024_sz,related_company,先进制造AI,机器人,300024.SZ,应用层,AI+工业,智能制造/检测/设计,新松机器人,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_688188_sh,related_company,AI产品研发,柏楚电子,688188.SH,应用层,AI+工业,智能制造/检测/设计,激光切割控制系统,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_688188_sh,related_company,先进制造AI,柏楚电子,688188.SH,应用层,AI+工业,智能制造/检测/设计,激光切割控制系统,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_300358_sz,related_company,AI产品研发,楚天科技,300358.SZ,应用层,AI+工业,智能制造/检测/设计,制药装备,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_300358_sz,related_company,先进制造AI,楚天科技,300358.SZ,应用层,AI+工业,智能制造/检测/设计,制药装备,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_300124_sz,related_company,AI产品研发,汇川技术,300124.SZ,应用层,AI+工业,智能制造/检测/设计,工控龙头,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_300124_sz,related_company,先进制造AI,汇川技术,300124.SZ,应用层,AI+工业,智能制造/检测/设计,工控龙头,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_300170_sz,related_company,AI产品研发,汉得信息,300170.SZ,应用层,AI+工业,智能制造/检测/设计,ERP+AI,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_300170_sz,related_company,先进制造AI,汉得信息,300170.SZ,应用层,AI+工业,智能制造/检测/设计,ERP+AI,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_688218_sh,related_company,AI产品研发,江苏北人,688218.SH,应用层,AI+工业,智能制造/检测/设计,工业机器人集成,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_688218_sh,related_company,先进制造AI,江苏北人,688218.SH,应用层,AI+工业,智能制造/检测/设计,工业机器人集成,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_688090_sh,related_company,AI产品研发,瑞松科技,688090.SH,应用层,AI+工业,智能制造/检测/设计,汽车智能装备,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_688090_sh,related_company,先进制造AI,瑞松科技,688090.SH,应用层,AI+工业,智能制造/检测/设计,汽车智能装备,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_600588_sh,related_company,AI产品研发,用友网络,600588.SH,应用层,AI+工业,智能制造/检测/设计,企业管理软件,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_600588_sh,related_company,先进制造AI,用友网络,600588.SH,应用层,AI+工业,智能制造/检测/设计,企业管理软件,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_300222_sz,related_company,AI产品研发,科大智能,300222.SZ,应用层,AI+工业,智能制造/检测/设计,智能制造,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_300222_sz,related_company,先进制造AI,科大智能,300222.SZ,应用层,AI+工业,智能制造/检测/设计,智能制造,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_300508_sz,related_company,AI产品研发,维宏股份,300508.SZ,应用层,AI+工业,智能制造/检测/设计,运动控制系统,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_300508_sz,related_company,先进制造AI,维宏股份,300508.SZ,应用层,AI+工业,智能制造/检测/设计,运动控制系统,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_603859_sh,related_company,AI产品研发,能科科技,603859.SH,应用层,AI+工业,智能制造/检测/设计,工业软件,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_603859_sh,related_company,先进制造AI,能科科技,603859.SH,应用层,AI+工业,智能制造/检测/设计,工业软件,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_300687_sz,related_company,AI产品研发,赛意信息,300687.SZ,应用层,AI+工业,智能制造/检测/设计,智能制造软件,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_300687_sz,related_company,先进制造AI,赛意信息,300687.SZ,应用层,AI+工业,智能制造/检测/设计,智能制造软件,AI细分行业相关标的（A股）.xlsx
+product_rd_ai_industry,company_300378_sz,related_company,AI产品研发,鼎捷软件,300378.SZ,应用层,AI+工业,智能制造/检测/设计,制造业ERP,AI细分行业相关标的（A股）.xlsx
+advanced_manufacturing_ai_industry,company_300378_sz,related_company,先进制造AI,鼎捷软件,300378.SZ,应用层,AI+工业,智能制造/检测/设计,制造业ERP,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_300059_sz,related_company,AI风险管理软件,东方财富,300059.SZ,应用层,AI+金融,投顾/风控/信息化,互联网券商+金融数据,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_300059_sz,related_company,金融AI,东方财富,300059.SZ,应用层,AI+金融,投顾/风控/信息化,互联网券商+金融数据,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_301208_sz,related_company,AI风险管理软件,中亦科技,301208.SZ,应用层,AI+金融,投顾/风控/信息化,IT运维,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_301208_sz,related_company,金融AI,中亦科技,301208.SZ,应用层,AI+金融,投顾/风控/信息化,IT运维,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_002657_sz,related_company,AI风险管理软件,中科金财,002657.SZ,应用层,AI+金融,投顾/风控/信息化,金融科技,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_002657_sz,related_company,金融AI,中科金财,002657.SZ,应用层,AI+金融,投顾/风控/信息化,金融科技,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_002987_sz,related_company,AI风险管理软件,京北方,002987.SZ,应用层,AI+金融,投顾/风控/信息化,金融IT服务,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_002987_sz,related_company,金融AI,京北方,002987.SZ,应用层,AI+金融,投顾/风控/信息化,金融IT服务,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_688588_sh,related_company,AI风险管理软件,凌志软件,688588.SH,应用层,AI+金融,投顾/风控/信息化,金融外包,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_688588_sh,related_company,金融AI,凌志软件,688588.SH,应用层,AI+金融,投顾/风控/信息化,金融外包,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_300033_sz,related_company,AI风险管理软件,同花顺,300033.SZ,应用层,AI+金融,投顾/风控/信息化,问财大模型产品化最深,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_300033_sz,related_company,金融AI,同花顺,300033.SZ,应用层,AI+金融,投顾/风控/信息化,问财大模型产品化最深,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_601519_sh,related_company,AI风险管理软件,大智慧,601519.SH,应用层,AI+金融,投顾/风控/信息化,金融信息服务平台,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_601519_sh,related_company,金融AI,大智慧,601519.SH,应用层,AI+金融,投顾/风控/信息化,金融信息服务平台,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_300872_sz,related_company,AI风险管理软件,天阳科技,300872.SZ,应用层,AI+金融,投顾/风控/信息化,金融IT,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_300872_sz,related_company,金融AI,天阳科技,300872.SZ,应用层,AI+金融,投顾/风控/信息化,金融IT,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_300674_sz,related_company,AI风险管理软件,宇信科技,300674.SZ,应用层,AI+金融,投顾/风控/信息化,银行IT,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_300674_sz,related_company,金融AI,宇信科技,300674.SZ,应用层,AI+金融,投顾/风控/信息化,银行IT,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_300380_sz,related_company,AI风险管理软件,安硕信息,300380.SZ,应用层,AI+金融,投顾/风控/信息化,银行信贷管理,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_300380_sz,related_company,金融AI,安硕信息,300380.SZ,应用层,AI+金融,投顾/风控/信息化,银行信贷管理,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_002152_sz,related_company,AI风险管理软件,广电运通,002152.SZ,应用层,AI+金融,投顾/风控/信息化,金融设备+AI,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_002152_sz,related_company,金融AI,广电运通,002152.SZ,应用层,AI+金融,投顾/风控/信息化,金融设备+AI,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_600570_sh,related_company,AI风险管理软件,恒生电子,600570.SH,应用层,AI+金融,投顾/风控/信息化,金融IT系统绝对龙头,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_600570_sh,related_company,金融AI,恒生电子,600570.SH,应用层,AI+金融,投顾/风控/信息化,金融IT系统绝对龙头,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_300803_sz,related_company,AI风险管理软件,指南针,300803.SZ,应用层,AI+金融,投顾/风控/信息化,金融信息服务,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_300803_sz,related_company,金融AI,指南针,300803.SZ,应用层,AI+金融,投顾/风控/信息化,金融信息服务,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_688590_sh,related_company,AI风险管理软件,新致软件,688590.SH,应用层,AI+金融,投顾/风控/信息化,保险IT,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_688590_sh,related_company,金融AI,新致软件,688590.SH,应用层,AI+金融,投顾/风控/信息化,保险IT,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_300663_sz,related_company,AI风险管理软件,科蓝软件,300663.SZ,应用层,AI+金融,投顾/风控/信息化,银行互联网,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_300663_sz,related_company,金融AI,科蓝软件,300663.SZ,应用层,AI+金融,投顾/风控/信息化,银行互联网,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_688318_sh,related_company,AI风险管理软件,财富趋势,688318.SH,应用层,AI+金融,投顾/风控/信息化,通达信软件,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_688318_sh,related_company,金融AI,财富趋势,688318.SH,应用层,AI+金融,投顾/风控/信息化,通达信软件,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_300377_sz,related_company,AI风险管理软件,赢时胜,300377.SZ,应用层,AI+金融,投顾/风控/信息化,金融资产管理,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_300377_sz,related_company,金融AI,赢时胜,300377.SZ,应用层,AI+金融,投顾/风控/信息化,金融资产管理,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_600446_sh,related_company,AI风险管理软件,金证股份,600446.SH,应用层,AI+金融,投顾/风控/信息化,金融IT,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_600446_sh,related_company,金融AI,金证股份,600446.SH,应用层,AI+金融,投顾/风控/信息化,金融IT,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_300085_sz,related_company,AI风险管理软件,银之杰,300085.SZ,应用层,AI+金融,投顾/风控/信息化,金融科技,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_300085_sz,related_company,金融AI,银之杰,300085.SZ,应用层,AI+金融,投顾/风控/信息化,金融科技,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_300348_sz,related_company,AI风险管理软件,长亮科技,300348.SZ,应用层,AI+金融,投顾/风控/信息化,银行核心系统,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_300348_sz,related_company,金融AI,长亮科技,300348.SZ,应用层,AI+金融,投顾/风控/信息化,银行核心系统,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_603383_sh,related_company,AI风险管理软件,顶点软件,603383.SH,应用层,AI+金融,投顾/风控/信息化,金融信息化,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_603383_sh,related_company,金融AI,顶点软件,603383.SH,应用层,AI+金融,投顾/风控/信息化,金融信息化,AI细分行业相关标的（A股）.xlsx
+risk_management_ai_industry,company_300465_sz,related_company,AI风险管理软件,高伟达,300465.SZ,应用层,AI+金融,投顾/风控/信息化,银行IT,AI细分行业相关标的（A股）.xlsx
+financial_ai_industry,company_300465_sz,related_company,金融AI,高伟达,300465.SZ,应用层,AI+金融,投顾/风控/信息化,银行IT,AI细分行业相关标的（A股）.xlsx

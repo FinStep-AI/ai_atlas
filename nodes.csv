@@ -1,0 +1,254 @@
+﻿id,name,type,level,description,source
+ai_industry,人工智能,industry,0,报告1.2章节所述人工智能产业链全景。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+ai_infrastructure_industry,人工智能基础设施,industry,1,AI算力、数据、模型和云服务等基础设施。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+ai_terminal_industry,人工智能终端,industry,1,AI嵌入终端设备后形成的智能终端产业。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+ai_application_industry,人工智能应用,industry,1,AI在各行业中实现降本增效、智能决策和业务重构的应用产业。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+semiconductor_chip_industry,半导体与芯片,industry,1,包括芯片设计、晶圆制造、封装测试、设备与材料等产业。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+ai_server_industry,AI服务器,industry,1,执行人工智能、机器学习、深度学习等计算密集型任务的高性能服务器产业。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+aidc_industry,智算中心,industry,1,面向AI模型训练和推理的算力中心。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+cloud_service_industry,云计算服务,industry,1,为AI算力需求提供云资源与数据中心服务。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+large_model_industry,大模型,industry,1,包括云侧大模型、端侧大模型及模型训练相关产业。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+chip_design_industry,芯片设计,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+compute_chip_industry,算力芯片,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+cpu_chip_industry,CPU芯片,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+gpu_chip_industry,GPU/GPGPU芯片,industry,2,目前商用最广泛的AI芯片之一。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+fpga_chip_industry,FPGA芯片,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+asic_chip_industry,ASIC芯片,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+riscv_chip_industry,RISC-V芯片,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+storage_chip_industry,存储芯片,industry,2,AI技术革命提升对高端存储器的需求。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+storage_controller_chip_industry,存储主控芯片,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+memory_interface_chip_industry,内存接口及互连芯片,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+eda_industry,EDA,industry,2,集成电路产业产能性能的源头。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+wafer_foundry_industry,晶圆代工,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+advanced_logic_process_industry,先进逻辑工艺,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+special_process_industry,特色工艺,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+semiconductor_equipment_industry,半导体设备,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+thin_film_deposition_equipment_industry,薄膜沉积设备,industry,2,CVD/PVD/ALD等薄膜沉积制程设备。（Excel中该层级出现4条记录。）,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景；半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+cmp_equipment_industry,CMP设备,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+etch_equipment_industry,刻蚀设备,industry,2,刻蚀制程核心设备。（Excel中该层级出现4条记录。）,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景；半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+coater_developer_equipment_industry,涂胶显影设备,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+lithography_equipment_industry,光刻机,industry,2,光刻环节核心设备。（Excel中该层级出现7条记录。）,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景；半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+ion_implantation_equipment_industry,离子注入设备,industry,2,离子注入制程设备。（Excel中该层级出现1条记录。）,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景；半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+semiconductor_parts_industry,半导体设备零部件,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+heat_treatment_equipment_industry,热处理设备,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+semiconductor_vacuum_pump_industry,半导体真空泵,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+photoresist_stripping_equipment_industry,去胶设备,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+semiconductor_material_industry,半导体材料,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+silicon_wafer_material_industry,硅片,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+electronic_special_gas_industry,电子特气,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+precursor_material_industry,前驱体材料,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+photoresist_material_industry,光刻胶,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+wet_electronic_chemical_industry,湿电子化学品,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+etch_silicon_material_industry,刻蚀设备用硅材料,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+semiconductor_target_material_industry,半导体靶材,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+cmp_slurry_industry,CMP抛光液,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+packaging_testing_industry,封装测试,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+advanced_packaging_industry,先进封装,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+ic_testing_service_industry,集成电路测试服务,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+storage_module_industry,存储模组,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+advanced_packaging_equipment_industry,先进封装设备,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+advanced_packaging_coater_developer_industry,先进封装用涂胶显影设备,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+single_wafer_wet_equipment_industry,单片式湿法设备,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+inspection_metrology_equipment_industry,检测量测设备,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+hybrid_bonding_equipment_industry,混合键合设备,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+wafer_thinning_equipment_industry,晶圆减薄设备,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+wafer_dicing_equipment_industry,划切设备,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+packaging_material_industry,封装材料,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+electroplating_solution_additive_industry,电镀液及添加剂,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+packaging_substrate_industry,封装基板,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+optical_network_industry,光网络,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+optical_device_industry,光器件,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+optical_module_industry,光模块,industry,2,AI服务器增长带来高速率光模块需求。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+signal_transmission_industry,信号传输,industry,2,包括光纤光缆和高速铜线缆。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+communication_equipment_industry,通信设备,industry,2,包括交换机、路由器等网络基础设施。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+power_supply_industry,电源,industry,2,AI服务器功率较普通服务器更高，带动电源需求。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+liquid_cooling_industry,液冷,industry,2,数据中心冷却系统相关产业。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+pcb_industry,PCB,industry,2,AI服务器和AI终端对高端PCB需求提升。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+server_storage_industry,服务器存储设备,industry,2,AI服务器和数据中心使用的高速存储设备。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+operating_system_industry,操作系统软件,industry,2,面向服务器、智能汽车、机器人等场景的基础软件。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+computing_infrastructure_industry,算力基础设施服务,industry,2,数据中心、服务器、网络、电力和运维共同形成的算力基础设施服务。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+cloud_large_model_industry,云侧大模型,industry,2,部署在远程服务器或云平台上的大模型产业。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+edge_large_model_industry,端侧大模型,industry,2,部署在本地设备上的大模型产业。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+language_large_model_industry,语言大模型,industry,2,处理和生成自然语言文本。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+vision_large_model_industry,视觉大模型,industry,2,用于图像识别、物体检测和场景理解。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+multimodal_large_model_industry,多模态大模型,industry,2,处理文字、图像、语音等多样化信息。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+general_large_model_industry,通用大模型,industry,2,适应多种任务和场景。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+industry_large_model_industry,行业大模型,industry,2,针对特定行业或领域需求训练。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+vertical_large_model_industry,垂直大模型,industry,2,面向更细分领域提供专业服务。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+phone_large_model_industry,手机大模型,industry,2,支撑AI手机端侧智能。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+pc_large_model_industry,PC大模型,industry,2,支撑AIPC端侧智能。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+data_training_industry,数据标注与训练数据服务,industry,2,包括数据收集、清洗、标注和训练数据加工服务。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+data_security_industry,数据安全产品,industry,2,涉及隐私计算、数据防泄漏、安全网关等产品。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+data_storage_industry,数据存储服务,industry,2,面向企业和模型训练的数据存储、归档和管理服务。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+ai_phone_industry,AI手机,industry,2,生成式AI模型用于手机终端，实现人机交互和自主学习能力。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+aipc_industry,AIPC,industry,2,具有AI功能的个人电脑产业。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+intelligent_driving_industry,智能驾驶,industry,2,AI与驾驶深度融合形成的汽车智能化产业。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+humanoid_robot_industry,人形机器人,industry,2,具备运动控制、感知和计算能力的机器人产业。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+phone_memory_industry,手机存储器,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+phone_ai_chip_industry,手机AI芯片,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+npu_industry,NPU,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+phone_camera_industry,手机摄像,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+phone_heat_dissipation_industry,手机散热,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+aipc_memory_industry,AIPC存储器,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+aipc_chip_industry,AIPC芯片,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+aipc_equipment_industry,AIPC整机设备,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+aipc_heat_dissipation_industry,AIPC散热,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+gnss_industry,GNSS,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+imu_industry,IMU,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+lidar_industry,激光雷达,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+millimeter_wave_radar_industry,毫米波雷达,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+vehicle_camera_industry,车载摄像头,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+hd_map_industry,高精度地图,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+vehicle_sensor_industry,车载传感器,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+vehicle_information_terminal_industry,车载信息终端设备,industry,2,为车辆智能驾驶提供视觉、声音等道路辅助信息的终端设备。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+v2x_industry,V2X,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+tbox_industry,T-Box,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+vehicle_communication_module_industry,车载通信模组,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+vehicle_communication_chip_industry,车载通信芯片,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+autonomous_driving_chip_industry,自动驾驶芯片,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+domain_controller_industry,域控制器,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+intelligent_chassis_industry,智能底盘,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+brake_by_wire_industry,线控制动,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+air_suspension_industry,空气悬架,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+steer_by_wire_industry,线控转向,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+adas_software_industry,ADAS与自动驾驶软件,industry,2,智能驾驶辅助系统、自动驾驶模拟平台等软件服务。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+autonomous_vehicle_manufacturing_industry,自动驾驶整车制造,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+robot_reducer_industry,机器人减速器,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+robot_encoder_industry,机器人编码器,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+robot_bearing_industry,机器人轴承,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+servo_motor_industry,伺服电机,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+robot_sensor_industry,机器人传感器,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+machine_vision_industry,机器视觉,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+robot_memory_industry,机器人存储器,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+robot_ai_chip_industry,机器人AI芯片,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+robot_operating_system_industry,机器人操作系统软件,industry,2,面向机器人环境感知、运动控制和人机交互的操作系统软件。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+medical_ai_industry,医疗AI,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+financial_ai_industry,金融AI,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+entertainment_ai_industry,文娱AI,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+education_ai_industry,教育AI,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+enterprise_service_ai_industry,企业服务AI软件,industry,2,面向办公、客服、知识管理、流程自动化等企业服务场景的AI软件。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+advanced_manufacturing_ai_industry,先进制造AI,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+electronics_ai_industry,电子AI,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+high_tech_ai_industry,高科技AI,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+chemical_ai_industry,化工AI,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+basic_materials_ai_industry,基础材料AI,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+construction_ai_industry,建筑AI,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+product_rd_ai_industry,AI产品研发,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+software_engineering_ai_industry,AI软件工程,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+supply_chain_ai_industry,AI供应链管理软件,industry,2,面向需求预测、库存优化、采购协同和物流调度的AI软件。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+talent_organization_ai_industry,AI人力资源软件,industry,2,面向招聘、培训、绩效和组织管理的人力资源AI软件。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+marketing_sales_ai_industry,AI营销与销售,industry,2,,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+risk_management_ai_industry,AI风险管理软件,industry,2,面向金融、企业经营、合规和安全场景的风险识别与预警软件。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+intelligent_decision_ai_industry,AI决策智能软件,industry,2,面向预测分析、智能决策和优化管理的软件。,招商证券《央国企人工智能产业布局专题》1.2 人工智能产业链全景
+cvd_equipment_industry,CVD设备,industry,3,薄膜沉积设备的重要类型，用于化学气相沉积。,
+pvd_equipment_industry,PVD设备,industry,3,薄膜沉积设备的重要类型，用于物理气相沉积。,
+semiconductor_inspection_equipment_industry,半导体检测设备,industry,3,晶圆制造和先进封装中的缺陷检测、过程控制和良率管理设备。,
+semiconductor_metrology_equipment_industry,半导体量测设备,industry,3,用于关键尺寸、膜厚、套刻精度等工艺参数量测。,
+semiconductor_chemical_industry,半导体化学品,industry,3,覆盖湿电子化学品、清洗液、刻蚀液、电镀液及添加剂等。,
+photo_mask_industry,掩膜版,industry,3,光刻环节关键耗材，用于将电路图形转移到硅片。,
+ai_accelerator_chip_industry,AI加速芯片,industry,2,面向AI训练和推理的专用/半专用加速芯片。,
+self_developed_asic_industry,自研ASIC芯片,industry,3,云厂商和大型模型训练场景常用的定制化AI加速芯片方向。,
+edge_ai_chip_industry,边缘AI芯片,industry,3,面向端侧、边缘侧推理和低功耗AI应用的芯片。,
+ai_chip_startup_design_industry,AI芯片初创设计,industry,3,面向新架构AI芯片和加速器的初创设计方向。,
+training_chip_industry,AI训练芯片,industry,3,面向大模型训练的高算力芯片。,
+inference_chip_industry,AI推理芯片,industry,3,面向模型推理服务的高吞吐、低延迟芯片。,
+mature_process_foundry_industry,成熟制程代工,industry,3,面向成熟工艺节点的晶圆代工。,
+advanced_process_foundry_industry,先进制程代工,industry,3,面向先进工艺节点的晶圆代工。,
+cowos_packaging_industry,CoWoS封装,industry,3,AI加速芯片常用的高性能先进封装形态之一。,
+hbm_packaging_industry,HBM封装,industry,3,高带宽存储与AI加速芯片协同所需的关键封装。,
+chiplet_packaging_industry,Chiplet封装,industry,3,通过小芯片集成提升系统性能和制造效率的先进封装方向。,
+two_point_five_d_packaging_industry,2.5D/3D封装,industry,3,面向高性能计算和AI芯片的高密度集成封装。,
+hbm_industry,HBM高带宽存储,industry,2,AI算力关键存储形态，带宽和供给能力是AI服务器性能与交付的重要瓶颈。,
+dram_industry,DRAM,industry,3,通用动态随机存储器，是服务器和终端内存基础。,
+nand_industry,NAND闪存,industry,3,非易失性存储，是SSD和数据存储的重要基础。,
+ssd_industry,SSD,industry,3,服务器和数据中心常用高速存储设备。,
+ai_server_oem_industry,AI服务器OEM,industry,2,AI服务器整机设计、生产和交付环节。,
+ai_system_integration_industry,AI服务器系统集成,industry,2,AI服务器、加速卡、网络、存储、散热和软件栈集成服务。,
+ai_accelerated_system_industry,AI加速服务器,industry,3,面向大模型训练和推理的加速服务器系统。,
+rack_scale_ai_system_industry,机柜级AI服务器,industry,3,以整机柜为交付单元的高密度AI服务器。,
+ai_networking_industry,AI网络设备,industry,2,服务AI集群训练和推理的高带宽、低延迟网络设备。,
+infiniband_network_industry,InfiniBand网络设备,industry,3,AI集群常用高性能互连网络设备。,
+ethernet_ai_network_industry,AI以太网设备,industry,3,面向AI集群的高速以太网设备。,
+ultra_ethernet_industry,超以太网设备,industry,3,面向AI和高性能集群互连的以太网增强设备。,
+gpu_cloud_industry,GPU云服务,industry,2,以GPU/AI加速器为核心资源的云上算力服务。,
+hyperscale_cloud_industry,超大规模云服务,industry,3,大型云平台提供的通用云和AI算力基础设施服务。,
+ai_compute_cloud_industry,AI算力云服务,industry,3,面向AI训练和推理的专业算力云服务。,
+inference_as_service_industry,推理云服务,industry,3,通过API或平台提供模型推理算力和部署服务。,
+model_serving_industry,模型托管服务,industry,3,模型部署、托管、弹性推理和服务化调用。,
+data_center_industry,数据中心,industry,1,承载AI服务器、网络、存储、电力和温控系统的基础设施。,
+data_center_operator_industry,数据中心托管服务,industry,2,面向数据中心机柜托管、运维和资源交付的服务。,
+data_center_energy_industry,数据中心供配电设备,industry,2,面向数据中心的供配电、电力保障和能源接入设备。,
+nuclear_power_for_data_center_industry,核电,industry,3,作为数据中心大规模稳定电力来源之一。,
+natural_gas_power_for_data_center_industry,天然气发电,industry,3,作为数据中心电力来源和园区能源方案之一。,
+renewable_power_for_data_center_industry,可再生能源发电,industry,3,面向数据中心的水电、风电、光伏等绿色电力来源。,
+hydropower_data_center_industry,水电,industry,3,数据中心可采用的稳定绿色电力来源之一。,
+wind_solar_data_center_industry,风电与光伏,industry,3,数据中心可采用的可再生电力来源。,
+data_center_site_selection_industry,数据中心建设服务,industry,3,面向数据中心选址、土建、机电工程和交付的建设服务。,
+data_center_cooling_industry,数据中心温控设备,industry,2,面向数据中心机房、机柜和服务器的温控与散热设备。,
+immersion_cooling_industry,浸没式液冷设备,industry,3,数据中心液冷设备细分方向。,
+cold_plate_liquid_cooling_industry,冷板式液冷设备,industry,3,数据中心液冷设备细分方向。,
+ic_manufacturing_equipment_industry,IC制造设备,industry,2,用于晶圆制造、前道工艺和相关制程控制的半导体设备。,半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+packaging_testing_equipment_industry,封测设备,industry,2,用于半导体封装、测试、分选、划片等后道环节的设备。,半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+semiconductor_cleanroom_industry,半导体洁净室,industry,2,服务晶圆制造和封测产线的洁净环境、洁净室设备与工程。,半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+single_crystal_furnace_industry,单晶炉,industry,3,晶体生长和单晶硅制备相关设备。（Excel中该层级出现4条记录。）,半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+polishing_equipment_industry,抛光设备,industry,3,晶圆平坦化、减薄、抛光等相关设备。（Excel中该层级出现3条记录。）,半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+cleaning_equipment_industry,清洗设备,industry,3,晶圆制造过程中的湿法/干法清洗相关设备。（Excel中该层级出现10条记录。）,半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+packaging_equipment_industry,封装设备,industry,3,半导体封装环节设备。（Excel中该层级出现8条记录。）,半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+testing_equipment_industry,测试设备,industry,3,晶圆测试、成品测试和封测环节测试设备。（Excel中该层级出现7条记录。）,半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+dicing_machine_industry,划片机,industry,3,晶圆划片、切割相关设备。（Excel中该层级出现1条记录。）,半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+sorting_machine_industry,分选机,industry,3,半导体测试后分选与搬运相关设备。（Excel中该层级出现3条记录。）,半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+measurement_equipment_industry,测量设备,industry,3,半导体制造和先进封装中的测量设备。（Excel中该层级出现2条记录。）,半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+semiconductor_temperature_control_equipment_industry,半导体温控设备,industry,3,半导体制造设备配套的温度控制设备。（Excel中该层级出现2条记录。）,半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+cleanroom_service_industry,洁净室服务,industry,3,洁净室运维、检测、维保和配套服务。（Excel中该层级出现4条记录。）,半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+cleanroom_equipment_industry,洁净室设备,industry,3,空气净化、洁净管控和洁净环境配套设备。（Excel中该层级出现6条记录。）,半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+cleanroom_engineering_industry,洁净室工程,industry,3,洁净室设计、施工、机电安装和交付工程。（Excel中该层级出现6条记录。）,半导体设备产业链20260529涨跌幅.xlsx；用户提供；仅抽取产业链层级，不纳入公司
+intelligent_driving_perception_positioning_industry,智能驾驶感知与定位设备,industry,3,智能驾驶所需定位、惯导、雷达、摄像头、地图和传感器等产业。,人工复查：补充AI终端零部件/软件节点的is_a归类，避免ontology孤立根节点
+intelligent_driving_communication_industry,智能驾驶通信设备,industry,3,车联网、车载通信模组、通信芯片及V2X相关设备产业。,人工复查：补充AI终端零部件/软件节点的is_a归类，避免ontology孤立根节点
+intelligent_driving_compute_control_industry,智能驾驶计算控制设备,industry,3,自动驾驶芯片、域控制器等智能驾驶计算与控制设备产业。,人工复查：补充AI终端零部件/软件节点的is_a归类，避免ontology孤立根节点
+intelligent_driving_actuation_industry,智能驾驶执行系统,industry,3,智能底盘、线控执行和车辆运动控制相关产业。,人工复查：补充AI终端零部件/软件节点的is_a归类，避免ontology孤立根节点
+intelligent_driving_software_industry,智能驾驶软件,industry,3,ADAS、自动驾驶算法、仿真和软件服务产业。,人工复查：补充AI终端零部件/软件节点的is_a归类，避免ontology孤立根节点
+intelligent_vehicle_manufacturing_industry,智能汽车整车制造,industry,3,搭载智能驾驶系统的整车制造产业。,人工复查：补充AI终端零部件/软件节点的is_a归类，避免ontology孤立根节点
+humanoid_robot_actuator_component_industry,人形机器人执行部件,industry,3,人形机器人减速器、编码器、轴承、伺服电机等执行部件产业。,人工复查：补充AI终端零部件/软件节点的is_a归类，避免ontology孤立根节点
+humanoid_robot_perception_component_industry,人形机器人感知设备,industry,3,人形机器人传感器、机器视觉等感知设备产业。,人工复查：补充AI终端零部件/软件节点的is_a归类，避免ontology孤立根节点
+humanoid_robot_chip_component_industry,人形机器人芯片与存储,industry,3,人形机器人AI芯片、存储器等计算硬件产业。,人工复查：补充AI终端零部件/软件节点的is_a归类，避免ontology孤立根节点
+humanoid_robot_software_industry,人形机器人软件,industry,3,人形机器人操作系统、控制软件和交互软件产业。,人工复查：补充AI终端零部件/软件节点的is_a归类，避免ontology孤立根节点
+ai_glasses_industry,AI眼镜,industry,2,搭载端侧AI、语音交互、视觉感知、显示/光学和多模态能力的智能眼镜终端。,人工补充：AI眼镜产业链节点
+ai_glasses_component_industry,AI眼镜零部件,industry,3,AI眼镜所需的光学显示、芯片、传感器、摄像、声学、电池与结构件等零部件。,人工补充：AI眼镜产业链节点
+ai_glasses_optical_display_industry,AI眼镜光学显示,industry,3,AI眼镜的近眼显示、波导、光机和显示模组。,人工补充：AI眼镜产业链节点
+ai_glasses_compute_chip_industry,AI眼镜计算芯片,industry,3,AI眼镜端侧AI计算、主控、连接与低功耗处理芯片。,人工补充：AI眼镜产业链节点
+ai_glasses_perception_industry,AI眼镜感知模组,industry,3,AI眼镜用于环境感知、图像采集、运动感知和空间定位的模组。,人工补充：AI眼镜产业链节点
+ai_glasses_interaction_industry,AI眼镜交互模组,industry,3,AI眼镜语音、声学、触控、手势等交互模组。,人工补充：AI眼镜产业链节点
+ai_glasses_power_structure_industry,AI眼镜电池与结构件,industry,3,AI眼镜电池、散热、轻量化结构件和整机装配相关产业。,人工补充：AI眼镜产业链节点
+ai_glasses_software_industry,AI眼镜软件,industry,3,AI眼镜操作系统、空间计算、多模态交互和端侧AI应用软件。,人工补充：AI眼镜产业链节点
+ar_optical_waveguide_industry,AR光波导,industry,4,AI眼镜近眼显示常用光学方案，包括衍射/几何光波导等。,人工补充：AI眼镜产业链节点
+birdbath_optics_industry,Birdbath光学模组,industry,4,AI/AR眼镜近眼显示光学方案之一。,人工补充：AI眼镜产业链节点
+micro_led_display_industry,Micro LED显示,industry,4,适用于高亮度、低功耗近眼显示的微显示技术。,人工补充：AI眼镜产业链节点
+micro_oled_display_industry,Micro OLED显示,industry,4,适用于近眼显示的微显示技术。,人工补充：AI眼镜产业链节点
+lcos_display_industry,LCoS显示,industry,4,适用于AR光机和近眼显示的显示技术。,人工补充：AI眼镜产业链节点
+ar_optical_engine_industry,AR光机,industry,4,AI眼镜显示系统中的微显示、照明、成像和光学集成模组。,人工补充：AI眼镜产业链节点
+ai_glasses_soc_industry,AI眼镜SoC,industry,4,AI眼镜主控、AI计算和多媒体处理芯片。,人工补充：AI眼镜产业链节点
+ai_glasses_npu_industry,AI眼镜NPU,industry,4,面向AI眼镜端侧推理的神经网络处理单元。,人工补充：AI眼镜产业链节点
+low_power_ai_chip_industry,低功耗AI芯片,industry,4,面向可穿戴终端的低功耗AI计算芯片。,人工补充：AI眼镜产业链节点
+wireless_connectivity_chip_industry,无线连接芯片,industry,4,AI眼镜蓝牙、Wi-Fi等无线连接芯片。,人工补充：AI眼镜产业链节点
+ai_glasses_memory_industry,AI眼镜存储器,industry,4,AI眼镜端侧模型、系统和多媒体数据所需存储器。,人工补充：AI眼镜产业链节点
+ai_glasses_camera_module_industry,AI眼镜摄像头模组,industry,4,AI眼镜图像采集、拍摄和视觉感知模组。,人工补充：AI眼镜产业链节点
+eye_tracking_module_industry,眼动追踪模组,industry,4,用于视线追踪、交互和显示优化的模组。,人工补充：AI眼镜产业链节点
+slam_sensor_industry,SLAM传感器,industry,4,用于空间定位、环境建图和运动追踪的传感器组合。,人工补充：AI眼镜产业链节点
+depth_sensor_industry,深度传感器,industry,4,用于空间感知、手势识别和环境理解的深度感知模组。,人工补充：AI眼镜产业链节点
+imu_wearable_industry,可穿戴IMU,industry,4,用于头部姿态、运动状态和空间交互的惯性测量模组。,人工补充：AI眼镜产业链节点
+ai_glasses_microphone_industry,AI眼镜麦克风,industry,4,用于语音交互、降噪和环境声音采集的麦克风模组。,人工补充：AI眼镜产业链节点
+ai_glasses_speaker_industry,AI眼镜扬声器,industry,4,用于开放式声学、骨传导或定向音频输出的声学模组。,人工补充：AI眼镜产业链节点
+bone_conduction_acoustic_industry,骨传导声学模组,industry,4,AI眼镜声学交互方案之一。,人工补充：AI眼镜产业链节点
+gesture_interaction_module_industry,手势交互模组,industry,4,AI眼镜手势识别和空间交互模组。,人工补充：AI眼镜产业链节点
+wearable_battery_industry,可穿戴电池,industry,4,AI眼镜等轻量化终端使用的小型化电池。,人工补充：AI眼镜产业链节点
+ai_glasses_heat_dissipation_industry,AI眼镜散热,industry,4,AI眼镜轻薄空间内的热管理和散热材料/结构。,人工补充：AI眼镜产业链节点
+lightweight_structural_parts_industry,轻量化结构件,industry,4,AI眼镜镜架、铰链、外壳等轻量化结构件。,人工补充：AI眼镜产业链节点
+ai_glasses_assembly_industry,AI眼镜整机组装,industry,4,AI眼镜终端整机装配、测试和交付。,人工补充：AI眼镜产业链节点
+ai_glasses_os_industry,AI眼镜操作系统软件,industry,4,AI眼镜设备管理、交互、应用运行和端侧AI调度软件。,人工补充：AI眼镜产业链节点
+spatial_computing_software_industry,空间计算软件,industry,4,面向空间定位、场景理解和虚实融合的软件。,人工补充：AI眼镜产业链节点
+multimodal_interaction_software_industry,多模态交互软件,industry,4,语音、视觉、手势等多模态交互软件。,人工补充：AI眼镜产业链节点
+ai_glasses_edge_model_industry,AI眼镜端侧大模型,industry,4,部署在AI眼镜上的轻量化端侧大模型。,人工补充：AI眼镜产业链节点
+epoxy_molding_underfill_material_industry,环氧塑封料/底填胶,industry,4,半导体封装材料中的环氧塑封料、底填胶等材料。,人工补充：为A股标的映射补充细分叶子节点
+robot_leadscrew_actuator_industry,机器人丝杠/执行器,industry,4,人形机器人线性执行、丝杠和执行器相关部件。,人工补充：为A股标的映射补充细分叶子节点
+dexterous_hand_industry,灵巧手,industry,4,人形机器人末端执行器和灵巧手相关部件。,人工补充：为A股标的映射补充细分叶子节点
+humanoid_robot_body_integration_industry,人形机器人本体/系统集成,industry,4,人形机器人本体设计、整机集成和系统集成。,人工补充：为A股标的映射补充细分叶子节点
